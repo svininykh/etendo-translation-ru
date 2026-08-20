@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_ELEMENT" version="">
   <row id="115E1E4A48294BE880525B71474ECEF9" trl="N">
-    <value column="Name" isTrl="N" original="Sortable">Sortable</value>
-    <value column="PrintName" isTrl="N" original="Sortable">Sortable</value>
+    <value column="Name" isTrl="Y" original="Sortable">Сортируемое</value>
+    <value column="PrintName" isTrl="Y" original="Sortable">Сортируемое</value>
     <value column="Description" isTrl="N" original="Allow sorting by this field in the popup grid.">Allow sorting by this field in the popup grid.</value>
     <value column="Help" isTrl="N" original="Allow sorting by this field in the popup grid.">Allow sorting by this field in the popup grid.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -14,13 +14,13 @@
     <value column="Name" isTrl="N" original="Default Expression">Default Expression</value>
     <value column="PrintName" isTrl="N" original="Default Expression">Default Expression</value>
     <value column="Description" isTrl="N" original="Defines a expression used to filter the property">Defines a expression used to filter the property</value>
-    <value column="Help" isTrl="N" original="Defines a JavaScript expression that will be evaluated in the server side and used as default value for the property. You can use any type of variable but it must match the property type, examples:&#10;&#10;true - the property associated is boolean&#10;&quot;Hello&quot; - the propery associated is string&#10;5.3 - the property associated is numeric&#10;&#10;You can also access the API through the OB object and do some more complex expressions, e.g.&#10;&#10;OB.getSession().getAttribute(&quot;SESSIONVAR&quot;);&#10;&#10;This will retrieve the session variable SESSIONVAR and use it as default value for the selector field">Defines a JavaScript expression that will be evaluated in the server side and used as default value for the property. You can use any type of variable but it must match the property type, examples:
+    <value column="Help" isTrl="Y" original="Defines a JavaScript expression that will be evaluated in the server side and used as default value for the property. You can use any type of variable but it must match the property type, examples:&#10;&#10;true - the property associated is boolean&#10;&quot;Hello&quot; - the propery associated is string&#10;5.3 - the property associated is numeric&#10;&#10;You can also access the API through the OB object and do some more complex expressions, e.g.&#10;&#10;OB.getSession().getAttribute(&quot;SESSIONVAR&quot;);&#10;&#10;This will retrieve the session variable SESSIONVAR and use it as default value for the selector field">Defines a JavaScript expression that will be evaluated in the server side and used as default value for the property. You can use any type of variable but it must match the property type, examples:
 
 true - the property associated is boolean
 "Hello" - the propery associated is string
 5.3 - the property associated is numeric
 
-You can also access the API through the OB object and do some more complex expressions, e.g.
+You can also access the Openbravo API through the OB object and do some more complex expressions, e.g.
 
 OB.getSession().getAttribute("SESSIONVAR");
 
@@ -54,7 +54,7 @@ This will retrieve the session variable SESSIONVAR and use it as default value f
     <value column="Name" isTrl="N" original="Filter Expression">Filter Expression</value>
     <value column="PrintName" isTrl="N" original="Filter Expression">Filter Expression</value>
     <value column="Description" isTrl="N" original="Defines a JavaScript expression that returns a HQL where clause">Defines a JavaScript expression that returns a HQL where clause</value>
-    <value column="Help" isTrl="N" original="Defines a JavaScript expression evaluated on the server that returns a HQL where clause string and will be appended in the where clause. HQL where clause is static defined where clause. The filter expression can use JavaScript to access the API evaluate on the fly and return a HQL dynamically. Note: This expression expression must always return a string value, e.g. &quot;e.customer = true&quot;">Defines a JavaScript expression evaluated on the server that returns a HQL where clause string and will be appended in the where clause. HQL where clause is static defined where clause. The filter expression can use JavaScript to access the API evaluate on the fly and return a HQL dynamically. Note: This expression expression must always return a string value, e.g. "e.customer = true"</value>
+    <value column="Help" isTrl="Y" original="Defines a JavaScript expression evaluated on the server that returns a HQL where clause string and will be appended in the where clause. HQL where clause is static defined where clause. The filter expression can use JavaScript to access the API evaluate on the fly and return a HQL dynamically. Note: This expression expression must always return a string value, e.g. &quot;e.customer = true&quot;">Defines a JavaScript expression evaluated on the server that returns a HQL where clause string and will be appended in the where clause. HQL where clause is static defined where clause. The filter expression can use JavaScript to access the Openbravo API evaluate on the fly and return a HQL dynamically. Note: This expression expression must always return a string value, e.g. "e.customer = true"</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -194,10 +194,10 @@ Retrieved columns must have an alias defined, this alias is used to identify the
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="C4B7AF76B82145BC9439ADF6855CBE7E" trl="N">
-    <value column="Name" isTrl="N" original="Selector Field">Selector Field</value>
-    <value column="PrintName" isTrl="N" original="Selector Field">Selector Field</value>
-    <value column="Description" isTrl="N" original="Unique identifying key for the selector field record.">Unique identifying key for the selector field record.</value>
-    <value column="Help" isTrl="N" original="Unique identifying key for the selector field record.">Unique identifying key for the selector field record.</value>
+    <value column="Name" isTrl="Y" original="Selector Field">Переключатель поля</value>
+    <value column="PrintName" isTrl="Y" original="Selector Field">Переключатель поля</value>
+    <value column="Description" isTrl="Y" original="Unique identifying key for the selector field record.">Уникальный ключ для выбора поля записи.</value>
+    <value column="Help" isTrl="Y" original="Unique identifying key for the selector field record.">Уникальный ключ для выбора поля записи.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
     <value column="PO_Name" isTrl="N" original=""/>
@@ -214,9 +214,9 @@ Retrieved columns must have an alias defined, this alias is used to identify the
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="CE0AB5DC107A4D288DE5E83015641750" trl="N">
-    <value column="Name" isTrl="N" original="Filterable">Filterable</value>
-    <value column="PrintName" isTrl="N" original="Filterable">Filterable</value>
-    <value column="Description" isTrl="N" original="Allow filtering on this field.">Allow filtering on this field.</value>
+    <value column="Name" isTrl="Y" original="Filterable">Фильтруется</value>
+    <value column="PrintName" isTrl="Y" original="Filterable">Фильтруется</value>
+    <value column="Description" isTrl="Y" original="Allow filtering on this field.">Разрешить фильтрацию в этом поле.</value>
     <value column="Help" isTrl="N" original="Make it possible to filter in the grid using this field.">Make it possible to filter in the grid using this field.</value>
     <value column="PO_Description" isTrl="N" original=""/>
     <value column="PO_Help" isTrl="N" original=""/>
@@ -234,8 +234,8 @@ Retrieved columns must have an alias defined, this alias is used to identify the
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="D71D9890834E4D4183B4A2872A5107A2" trl="N">
-    <value column="Name" isTrl="N" original="Selector">Selector</value>
-    <value column="PrintName" isTrl="N" original="Selector">Selector</value>
+    <value column="Name" isTrl="Y" original="Selector">Переключатель</value>
+    <value column="PrintName" isTrl="Y" original="Selector">Переключатель</value>
     <value column="Description" isTrl="N" original="The unique identifying key for the selector.">The unique identifying key for the selector.</value>
     <value column="Help" isTrl="N" original="The unique identifying key for the selector.">The unique identifying key for the selector.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -244,8 +244,8 @@ Retrieved columns must have an alias defined, this alias is used to identify the
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="E4FCED1CB10743E8A6BD994F27F939F1" trl="N">
-    <value column="Name" isTrl="N" original="Display Field">Display Field</value>
-    <value column="PrintName" isTrl="N" original="Display Field">Display Field</value>
+    <value column="Name" isTrl="Y" original="Display Field">Отоброжаемое поле</value>
+    <value column="PrintName" isTrl="Y" original="Display Field">Отоброжаемое поле</value>
     <value column="Description" isTrl="N" original="The value of this field will be displayed in the selector text input box.">The value of this field will be displayed in the selector text input box.</value>
     <value column="Help" isTrl="N" original="The value of this field will be displayed in the selector text input box.">The value of this field will be displayed in the selector text input box.</value>
     <value column="PO_Description" isTrl="N" original=""/>

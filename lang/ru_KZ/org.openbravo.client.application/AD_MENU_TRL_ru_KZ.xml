@@ -25,7 +25,7 @@
     <value column="Description" isTrl="N" original="Grid Configuration at Tab and Field level">Grid Configuration at Tab and Field level</value>
   </row>
   <row id="FF8080812EB90459012EBA72B4E7004D" trl="N">
-    <value column="Name" isTrl="N" original="Alert Management">Alert Management</value>
+    <value column="Name" isTrl="Y" original="Alert Management">Управление предупреждениями</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FF8081813157AED2013157C149F40039" trl="N">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_KZ" table="OBUISEL_SELECTOR" version="">
   <row id="00A9109E64DD404CA95719D20A9BBBF0" trl="N">
-    <value column="Name" isTrl="N" original="Products">Products</value>
+    <value column="Name" isTrl="Y" original="Products">Товары</value>
     <value column="Description" isTrl="N" original="This selector shows all the available products">This selector shows all the available products</value>
     <value column="Help" isTrl="N" original="This selector shows all the available products">This selector shows all the available products</value>
   </row>
@@ -66,7 +66,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="2E64F551C7C4470C80C29DBA24B34A5F" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -216,7 +216,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="A25A4A49D65D4460BBDC38EF78F28C09" trl="N">
-    <value column="Name" isTrl="N" original="Process Request">Process Request</value>
+    <value column="Name" isTrl="Y" original="Process Request">Задание обработки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -291,7 +291,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="D47A3616483E46C18A09794B9B276B37" trl="N">
-    <value column="Name" isTrl="N" original="Product">Product</value>
+    <value column="Name" isTrl="Y" original="Product">Товар</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -316,12 +316,12 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="DE9CFEFB6F49404995BE8B0FBF3F7F9E" trl="N">
-    <value column="Name" isTrl="N" original="Payment Schedule">Payment Schedule</value>
+    <value column="Name" isTrl="Y" original="Payment Schedule">График платежей</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="DF21B651CB604FA9A709D7108FA51177" trl="N">
-    <value column="Name" isTrl="N" original="AD_Process_Request">AD_Process_Request</value>
+    <value column="Name" isTrl="Y" original="AD_Process_Request">Обработка запроса</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -336,9 +336,9 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="E65052A724B3451CA643A0CC355CEA40" trl="N">
-    <value column="Name" isTrl="N" original="Asset Selector">Asset Selector</value>
-    <value column="Description" isTrl="N" original="Asset Selector">Asset Selector</value>
-    <value column="Help" isTrl="N" original="Asset Selector">Asset Selector</value>
+    <value column="Name" isTrl="Y" original="Asset Selector">Переключатель основных средств</value>
+    <value column="Description" isTrl="Y" original="Asset Selector">Переключатель основных средств</value>
+    <value column="Help" isTrl="Y" original="Asset Selector">Переключатель основных средств</value>
   </row>
   <row id="E80D7648BF3848BD9DD23B31287CC59B" trl="N">
     <value column="Name" isTrl="N" original="Context Role Direct Accessible Organizations">Context Role Direct Accessible Organizations</value>
@@ -356,12 +356,12 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="EB3C41F0973A4EDA91E475833792A6D4" trl="N">
-    <value column="Name" isTrl="N" original="ProductSimple">ProductSimple</value>
+    <value column="Name" isTrl="Y" original="ProductSimple">Простой товар</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="EBE0615996484135B061F2E15C2E3174" trl="N">
-    <value column="Name" isTrl="N" original="Calendar Selector">Calendar Selector</value>
+    <value column="Name" isTrl="Y" original="Calendar Selector">Календарь</value>
     <value column="Description" isTrl="N" original="Calendar Simple Selector.">Calendar Simple Selector.</value>
     <value column="Help" isTrl="N" original="Calendar Simple Selector.">Calendar Simple Selector.</value>
   </row>
@@ -371,12 +371,12 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="EC317FD8B5B54EC096438659CD06F280" trl="N">
-    <value column="Name" isTrl="N" original="PLM-Status">PLM-Status</value>
+    <value column="Name" isTrl="Y" original="PLM-Status">Статус жизненного цикла товара</value>
     <value column="Description" isTrl="N" original="Product Lifecycle Management Status reference">Product Lifecycle Management Status reference</value>
     <value column="Help" isTrl="N" original="Product Lifecycle Management Status reference">Product Lifecycle Management Status reference</value>
   </row>
   <row id="ED3DEE195F2F482CA4C828FCF9F77D3D" trl="N">
-    <value column="Name" isTrl="N" original="Inventory Status">Inventory Status</value>
+    <value column="Name" isTrl="Y" original="Inventory Status">Статус инветаризации</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -386,7 +386,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="F132874BE0954A9B8C1301BE20704730" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner with contact and location">Business Partner with contact and location</value>
+    <value column="Name" isTrl="Y" original="Business Partner with contact and location">Контрагент с контактными данными</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -421,7 +421,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="FE64BB86B64C4C23A9BB3B595D11D523" trl="N">
-    <value column="Name" isTrl="N" original="Service Price Rule">Service Price Rule</value>
+    <value column="Name" isTrl="Y" original="Service Price Rule">Расчет стоимости сервиса</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

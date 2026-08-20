@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_PROCESS_PARA" version="">
   <row id="123" trl="N">
-    <value column="Name" isTrl="N" original="Product Search Key">Product Search Key</value>
+    <value column="Name" isTrl="Y" original="Product Search Key">Код поиска товара</value>
     <value column="Description" isTrl="N" original="A fast method for finding a particular product.">A fast method for finding a particular product.</value>
     <value column="Help" isTrl="N" original="A product search key allows for a fast method of finding a particular product. ">A product search key allows for a fast method of finding a particular product. </value>
   </row>
@@ -11,33 +11,33 @@
     <value column="Help" isTrl="N" original="The Payment Rule indicates the method of invoice payment.">The Payment Rule indicates the method of invoice payment.</value>
   </row>
   <row id="3401DE925FBB4A3AAC72E914595E1C71" trl="N">
-    <value column="Name" isTrl="N" original="Process action">Process action</value>
+    <value column="Name" isTrl="Y" original="Process action">Действие обработки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="6E19A05CE9564C15BA5FAA118C005859" trl="N">
-    <value column="Name" isTrl="N" original="Language">Language</value>
+    <value column="Name" isTrl="Y" original="Language">Язык</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800007" trl="N">
-    <value column="Name" isTrl="N" original="Storage Bin from">Storage Bin from</value>
+    <value column="Name" isTrl="Y" original="Storage Bin from">Место отправления</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800008" trl="N">
-    <value column="Name" isTrl="N" original="Storage Bin to">Storage Bin to</value>
+    <value column="Name" isTrl="Y" original="Storage Bin to">Места поступления</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800013" trl="N">
-    <value column="Name" isTrl="N" original="Set Book Quantity to zero">Set Book Quantity to zero</value>
+    <value column="Name" isTrl="Y" original="Set Book Quantity to zero">Задать нулевое учтённое кол-во</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="D906A4F1EF4E4372A32DDD1BD34A54BF" trl="N">
-    <value column="Name" isTrl="N" original="Cascade">Cascade</value>
-    <value column="Description" isTrl="N" original="Also mark as ready organization every child organization">Also mark as ready organization every child organization</value>
-    <value column="Help" isTrl="N" original="Also mark as ready organization every child organization">Also mark as ready organization every child organization</value>
+  <row id="D906A4F1EF4E4372A32DDD1BD34A54BF" trl="Y">
+    <value column="Name" isTrl="Y" original="Cascade">Каскадно</value>
+    <value column="Description" isTrl="Y" original="Also mark as ready organization every child organization">Также установить готовность для каждой дочерней организации</value>
+    <value column="Help" isTrl="Y" original="Also mark as ready organization every child organization">Также установить готовность для каждой дочерней организации</value>
   </row>
 </compiereTrl>

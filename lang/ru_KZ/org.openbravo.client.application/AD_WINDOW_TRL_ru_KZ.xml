@@ -8,7 +8,7 @@
   <row id="54AE252A40C34DA285FC48DA94EB3847" trl="N">
     <value column="Name" isTrl="N" original="Navigation Bar Components">Navigation Bar Components</value>
     <value column="Description" isTrl="N" original="Navigation Bar Components">Navigation Bar Components</value>
-    <value column="Help" isTrl="N" original="Makes it possible to define components which are shown in the navigation bar in the main layout of the Etendo user interface.">Makes it possible to define components which are shown in the navigation bar in the main layout of the Etendo user interface.</value>
+    <value column="Help" isTrl="Y" original="Makes it possible to define components which are shown in the navigation bar in the main layout of the Etendo user interface.">Makes it possible to define components which are shown in the navigation bar in the main layout of the Openbravo user interface.</value>
   </row>
   <row id="7E72F3A16C704449BC50FCE1512C3805" trl="N">
     <value column="Name" isTrl="N" original="Grid Configuration at Window/Tab/Field Level">Grid Configuration at Window/Tab/Field Level</value>
@@ -35,7 +35,7 @@ The view implementation defines the component which is capable of generating the
   <row id="FF8081813157AED2013157BE93460020" trl="N">
     <value column="Name" isTrl="N" original="Window Personalization">Window Personalization</value>
     <value column="Description" isTrl="N" original="Maintains ui personalization records">Maintains ui personalization records</value>
-    <value column="Help" isTrl="N" original="Etendo allows the customization of grid and form views. Customize windows and form views are stored once saved in the Window Personalization window.">Etendo allows the customization of grid and form views. Customize windows and form views are stored once saved in the Window Personalization window.</value>
+    <value column="Help" isTrl="Y" original="Etendo allows the customization of grid and form views. Customize windows and form views are stored once saved in the Window Personalization window.">Openbravo allows the customization of grid and form views. Customize windows and form views are stored once saved in the Window Personalization window.</value>
   </row>
   <row id="FF80818132D7FB620132D8193C0C0043" trl="N">
     <value column="Name" isTrl="N" original="Process Definition">Process Definition</value>

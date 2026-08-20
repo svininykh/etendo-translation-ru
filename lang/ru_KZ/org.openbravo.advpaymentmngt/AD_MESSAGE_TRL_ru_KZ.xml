@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_MESSAGE" version="">
-  <row id="00D0839059994323B4596EDA7D0BCF56" trl="N">
-    <value column="MsgText" isTrl="N" original="Invoice %s is already fully paid.">Invoice %s is already fully paid.</value>
+  <row id="00D0839059994323B4596EDA7D0BCF56" trl="Y">
+    <value column="MsgText" isTrl="Y" original="Invoice %s is already fully paid.">Счёт-фактура %s полностью оплачена.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="0267A646C8BD4042AE2422BCB83B4610" trl="N">
@@ -17,7 +17,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="0AF37AC554DE441DB213BA944147E82C" trl="N">
-    <value column="MsgText" isTrl="N" original="Payment No.">Payment No.</value>
+    <value column="MsgText" isTrl="Y" original="Payment No.">Платёж №</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="0BBA71AF0C1F4E069A811E7CFC80FEAD" trl="N">
@@ -37,7 +37,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="14AEEC4ACF9C48A1B39D7A58D057B296" trl="N">
-    <value column="MsgText" isTrl="N" original="Document Type not defined">Document Type not defined</value>
+    <value column="MsgText" isTrl="Y" original="Document Type not defined">Тип документа не определён</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="14EBC11B38634D229D542AAFCEAF4186" trl="N">
@@ -61,7 +61,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1F3D51E013B34F1087BD5416EEB0387F" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount left as credit">Amount left as credit</value>
+    <value column="MsgText" isTrl="Y" original="Amount left as credit">Сумма внесена по кредиту</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="20A08BD18EC44CEE9662419F9A420382" trl="N">
@@ -97,7 +97,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="2FD618C9D5064C75BFF13B57B767C912" trl="N">
-    <value column="MsgText" isTrl="N" original="Document No.">Document No.</value>
+    <value column="MsgText" isTrl="Y" original="Document No.">Документ №</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="355244CE61E647E7822FF281159181E4" trl="N">
@@ -141,11 +141,11 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="53ED8846C7984389AF83AC1DE983859E" trl="N">
-    <value column="MsgText" isTrl="N" original="Value is not a valid number">Value is not a valid number</value>
+    <value column="MsgText" isTrl="Y" original="Value is not a valid number">Значение недопустимое число</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="573263F299C743FAAA82D7750DC21B06" trl="N">
-    <value column="MsgText" isTrl="N" original="The field payment method is mandatory and cannot be left empty">The field payment method is mandatory and cannot be left empty</value>
+    <value column="MsgText" isTrl="Y" original="The field payment method is mandatory and cannot be left empty">Поле способ оплаты обязательное и требует заполнения.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="573676484ABD493A8B34A5783860E776" trl="N">
@@ -218,11 +218,11 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7955CBDC1CB246FBB6BE1E2C5DD36ACC" trl="N">
-    <value column="MsgText" isTrl="N" original="Due Date">Due Date</value>
+    <value column="MsgText" isTrl="Y" original="Due Date">Дата погашения</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7A71FF524AA04923A26AFA67ABE7FD26" trl="N">
-    <value column="MsgText" isTrl="N" original="Amount refunded">Amount refunded</value>
+    <value column="MsgText" isTrl="Y" original="Amount refunded">Сумма возвратв</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7ADA423DD28042B181D3EB9AC5CF1DC0" trl="N">
@@ -278,7 +278,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="8FC3C9524EE54E518B679D58F709119D" trl="N">
-    <value column="MsgText" isTrl="N" original="Do you want the algorithm to be run against unmatched bank statement lines? This process may create transactions which will be saved in the system.">Do you want the algorithm to be run against unmatched bank statement lines? This process may create transactions which will be saved in the system.</value>
+    <value column="MsgText" isTrl="Y" original="Do you want the algorithm to be run against unmatched bank statement lines? This process may create transactions which will be saved in the system.">Do you want the algorithm to be run against unmatched bank statement lines?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="9124E0172DAA4B07B4C4F035BDDA2424" trl="N">
@@ -298,7 +298,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="962525CB12714F8EA3C06FAD8A3FAB4A" trl="N">
-    <value column="MsgText" isTrl="N" original="The invoice has related payments.">The invoice has related payments.</value>
+    <value column="MsgText" isTrl="Y" original="The invoice has related payments.">Счёт-фактура связана с платежами.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="98D98BDB439647EBA0F5D680CDC414F3" trl="N">
@@ -342,7 +342,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B3D6AF0669DD4DF5BDF48A4D55F84C3C" trl="N">
-    <value column="MsgText" isTrl="N" original="Business Partner">Business Partner</value>
+    <value column="MsgText" isTrl="Y" original="Business Partner">Контрагент</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="B51BB312751F42348FB240284FF9BC33" trl="N">
@@ -466,7 +466,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="EF56DCF572A94E6CAFE4F13948268050" trl="N">
-    <value column="MsgText" isTrl="N" original="Bank statement line amount [%0] and transaction amount [%1] does not match. Do you want to perform a partial match?">Bank statement line amount [%0] and transaction amount [%1] does not match. Do you want to perform a partial match?</value>
+    <value column="MsgText" isTrl="Y" original="Bank statement line amount [%0] and transaction amount [%1] does not match. Do you want to perform a partial match?">Bank statement line and transaction amount does not match. Do you want to perform a partial match?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="EFA91F88357E42B4826349C32C9E0383" trl="N">
@@ -498,7 +498,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F579E42461DC472AA4F21B14DD3D680B" trl="N">
-    <value column="MsgText" isTrl="N" original="GL Item">GL Item</value>
+    <value column="MsgText" isTrl="Y" original="GL Item">Проводка Г/К</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FC953B2C0069441DB85EB9BECDF9B7A8" trl="N">
@@ -518,7 +518,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F5805CF012F5843BD3A005B" trl="N">
-    <value column="MsgText" isTrl="N" original="Bank Statement No.:">Bank Statement No.:</value>
+    <value column="MsgText" isTrl="Y" original="Bank Statement No.:">Выписка банка №:</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8080812F967128012F969D366A0046" trl="N">
@@ -534,7 +534,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808081332719060133272C1D46003B" trl="N">
-    <value column="MsgText" isTrl="N" original="Reconciled">Reconciled</value>
+    <value column="MsgText" isTrl="Y" original="Reconciled">Согласовано</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808081332719060133272C92070040" trl="N">
@@ -546,7 +546,7 @@ Please, unpost the reconciliation if you wan to split a bank statement line.</va
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF808081332719060133272D70CE0048" trl="N">
-    <value column="MsgText" isTrl="N" original="Un-Reconciled">Un-Reconciled</value>
+    <value column="MsgText" isTrl="Y" original="Un-Reconciled">Несоласованно</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818130B6856A0130B6956220002D" trl="N">

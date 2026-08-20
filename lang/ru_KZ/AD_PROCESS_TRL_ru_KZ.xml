@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_PROCESS" version="">
   <row id="0515E6559C31478E92703A3D10E6783B" trl="N">
-    <value column="Name" isTrl="N" original="Schedule Process">Schedule Process</value>
+    <value column="Name" isTrl="Y" original="Schedule Process">Планировать обработку</value>
     <value column="Description" isTrl="N" original="Request a process to be run in the background or scheduled.">Request a process to be run in the background or scheduled.</value>
     <value column="Help" isTrl="N" original="Request a process to be run in the background or scheduled.">Request a process to be run in the background or scheduled.</value>
   </row>
-  <row id="100" trl="N">
-    <value column="Name" isTrl="N" original="Create Periods">Create Periods</value>
-    <value column="Description" isTrl="N" original="Create 12 standard calendar periods (Jan-Dec) and an optional 13th period">Create 12 standard calendar periods (Jan-Dec) and an optional 13th period</value>
-    <value column="Help" isTrl="N" original="Create 12 standard calendar periods (Jan-Dec) and an optional 13th period for adjustments">Create 12 standard calendar periods (Jan-Dec) and an optional 13th period for adjustments</value>
+  <row id="100" trl="Y">
+    <value column="Name" isTrl="Y" original="Create Periods">Создать периоды</value>
+    <value column="Description" isTrl="Y" original="Create 12 standard calendar periods (Jan-Dec) and an optional 13th period">Создать 12 стандартных календарных периода (Янв-Дек) и опционально 13-ый период.</value>
+    <value column="Help" isTrl="Y" original="Create 12 standard calendar periods (Jan-Dec) and an optional 13th period for adjustments">Создать 12 стандартных календарных периода (Янв-Дек) и опционально 13-ый период для корректировок.</value>
   </row>
   <row id="1000500002" trl="N">
     <value column="Name" isTrl="N" original="Print orders process">Print orders process</value>
@@ -26,61 +26,61 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1002100000" trl="N">
-    <value column="Name" isTrl="N" original="Create Vat Registers">Create Vat Registers</value>
-    <value column="Description" isTrl="N" original="Create Vat Registers">Create Vat Registers</value>
-    <value column="Help" isTrl="N" original="Create Vat Registers">Create Vat Registers</value>
+    <value column="Name" isTrl="Y" original="Create Vat Registers">Создать регистры НДС</value>
+    <value column="Description" isTrl="Y" original="Create Vat Registers">Создать регистры НДС</value>
+    <value column="Help" isTrl="Y" original="Create Vat Registers">Создать регистры НДС</value>
   </row>
-  <row id="1002100001" trl="N">
-    <value column="Name" isTrl="N" original="Report VAT Register">Report VAT Register</value>
-    <value column="Description" isTrl="N" original="Report VAT Register">Report VAT Register</value>
-    <value column="Help" isTrl="N" original="Report VAT Register">Report VAT Register</value>
+  <row id="1002100001" trl="Y">
+    <value column="Name" isTrl="Y" original="Report VAT Register">Отчёт Регистр НДС</value>
+    <value column="Description" isTrl="Y" original="Report VAT Register">Отчёт Регистр НДС</value>
+    <value column="Help" isTrl="Y" original="Report VAT Register">Отчёт Регистр НДС</value>
   </row>
-  <row id="1002100002" trl="N">
-    <value column="Name" isTrl="N" original="Report Tax Payment">Report Tax Payment</value>
-    <value column="Description" isTrl="N" original="Report Tax Payment">Report Tax Payment</value>
-    <value column="Help" isTrl="N" original="Report Tax Payment">Report Tax Payment</value>
+  <row id="1002100002" trl="Y">
+    <value column="Name" isTrl="Y" original="Report Tax Payment">Отчёт Оплата налога</value>
+    <value column="Description" isTrl="Y" original="Report Tax Payment">Отчёт Оплата налога</value>
+    <value column="Help" isTrl="Y" original="Report Tax Payment">Отчёт Оплата налога</value>
   </row>
-  <row id="1002100003" trl="N">
-    <value column="Name" isTrl="N" original="Withholding Report">Withholding Report</value>
-    <value column="Description" isTrl="N" original="Withholding Report">Withholding Report</value>
-    <value column="Help" isTrl="N" original="Withholding Report">Withholding Report</value>
+  <row id="1002100003" trl="Y">
+    <value column="Name" isTrl="Y" original="Withholding Report">Отчёт Удержание налога</value>
+    <value column="Description" isTrl="Y" original="Withholding Report">Отчёт Удержание налога</value>
+    <value column="Help" isTrl="Y" original="Withholding Report">Отчёт Удержание налога</value>
   </row>
-  <row id="1003900000" trl="N">
-    <value column="Name" isTrl="N" original="TaxPayment Post">TaxPayment Post</value>
-    <value column="Description" isTrl="N" original="TaxPayment Post">TaxPayment Post</value>
-    <value column="Help" isTrl="N" original="Post the TaxPayment">Post the TaxPayment</value>
+  <row id="1003900000" trl="Y">
+    <value column="Name" isTrl="Y" original="TaxPayment Post">Провести оплату налога</value>
+    <value column="Description" isTrl="Y" original="TaxPayment Post">Провести оплату налога</value>
+    <value column="Help" isTrl="Y" original="Post the TaxPayment">Провести оплату налога</value>
   </row>
-  <row id="1004400000" trl="N">
-    <value column="Name" isTrl="N" original="Create Purchase Order">Create Purchase Order</value>
+  <row id="1004400000" trl="Y">
+    <value column="Name" isTrl="Y" original="Create Purchase Order">Создать заказ закупкм</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="In order to create a Purchase Order from selected Requisition Lines, it is necessary to set some values:&lt;br/&gt;&#10;Order Date: The date of the Purchase Order&lt;br/&gt;&#10;Business Partner, Price List and Organization: If all the selected requisition lines have a common Business Partner, Price List or Organization, then the common value is shown in the appropriate field.&lt;br/&gt;&#10;For other required values the corresponding default values are used.&lt;br/&gt;&#10;Once the Purchase Order is created, it is marked as Completed and its Document Number is shown in the success message.">In order to create a Purchase Order from selected Requisition Lines, it is necessary to set some values:&lt;br/&gt;
-Order Date: The date of the Purchase Order&lt;br/&gt;
-Business Partner, Price List and Organization: If all the selected requisition lines have a common Business Partner, Price List or Organization, then the common value is shown in the appropriate field.&lt;br/&gt;
-For other required values the corresponding default values are used.&lt;br/&gt;
-Once the Purchase Order is created, it is marked as Completed and its Document Number is shown in the success message.</value>
+    <value column="Help" isTrl="Y" original="In order to create a Purchase Order from selected Requisition Lines, it is necessary to set some values:&lt;br/&gt;&#10;Order Date: The date of the Purchase Order&lt;br/&gt;&#10;Business Partner, Price List and Organization: If all the selected requisition lines have a common Business Partner, Price List or Organization, then the common value is shown in the appropriate field.&lt;br/&gt;&#10;For other required values the corresponding default values are used.&lt;br/&gt;&#10;Once the Purchase Order is created, it is marked as Completed and its Document Number is shown in the success message.">Для создания заказа поставщика по выбранным строкам заказа, необходимо установить следующие значения:&lt;br/&gt;
+Дата оредра: Дата заказа поставщика&lt;br/&gt;
+Контрагент, Прейскурант и Организация: Если у всех выбранных строк заказа задан отдельный Контрагент, Прейскурант или Организация, тогда заданное значение остаётся в соответствующем поле.&lt;br/&gt;
+Иначе будет задано значение выбранное по умолчанию.&lt;br/&gt;
+После создания заказа поставщика, он будет отмечен как выполненный и его номер документа будет показан в сообщение об успешном завершении обработки.</value>
   </row>
-  <row id="1004400002" trl="N">
-    <value column="Name" isTrl="N" original="Change status">Change status</value>
+  <row id="1004400002" trl="Y">
+    <value column="Name" isTrl="Y" original="Change status">Изменить статус</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="This process changes the status of the requisition. If it is open an has purchase order lines assigned it is set to closed, in case it hasn't any purchase order it is set as canceled. When the requisition is closed or canceled the process set it as open.">This process changes the status of the requisition. If it is open an has purchase order lines assigned it is set to closed, in case it hasn't any purchase order it is set as canceled. When the requisition is closed or canceled the process set it as open.</value>
+    <value column="Help" isTrl="Y" original="This process changes the status of the requisition. If it is open an has purchase order lines assigned it is set to closed, in case it hasn't any purchase order it is set as canceled. When the requisition is closed or canceled the process set it as open.">Эта обработка изменяет статус заявки. Если у заявки есть связанные строки в заказе на закупку, то она будет закрыта. Но если она не связанна ни с одним заказом, то он будет отменён. Когда заказ закрыт или отменён обработка сделает его открытым.</value>
   </row>
   <row id="1004400003" trl="N">
-    <value column="Name" isTrl="N" original="Post Requisition">Post Requisition</value>
+    <value column="Name" isTrl="Y" original="Post Requisition">Опубликовать заказ</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1004400004" trl="N">
-    <value column="Name" isTrl="N" original="Print Requisition">Print Requisition</value>
+    <value column="Name" isTrl="Y" original="Print Requisition">Печать заказа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1005400001" trl="N">
-    <value column="Name" isTrl="N" original="TestHeartbeat">TestHeartbeat</value>
+    <value column="Name" isTrl="Y" original="TestHeartbeat">Тестировать кардиограмму</value>
     <value column="Description" isTrl="N" original="Test the Heartbeat Configuration">Test the Heartbeat Configuration</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1005400002" trl="N">
-    <value column="Name" isTrl="N" original="Update Registration">Update Registration</value>
+    <value column="Name" isTrl="Y" original="Update Registration">Обновить регистрацию</value>
     <value column="Description" isTrl="N" original="Register with Openbravo">Register with Openbravo</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -89,65 +89,65 @@ Once the Purchase Order is created, it is marked as Completed and its Document N
     <value column="Description" isTrl="N" original="Payment Aging Balance">Payment Aging Balance</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="1005800000" trl="N">
-    <value column="Name" isTrl="N" original="Heartbeat Process">Heartbeat Process</value>
-    <value column="Description" isTrl="N" original="Heartbeat Process">Heartbeat Process</value>
-    <value column="Help" isTrl="N" original="Heartbeat Process">Heartbeat Process</value>
+  <row id="1005800000" trl="Y">
+    <value column="Name" isTrl="Y" original="Heartbeat Process">Обработка Кардиограммы</value>
+    <value column="Description" isTrl="Y" original="Heartbeat Process">Обработка Кардиограммы</value>
+    <value column="Help" isTrl="Y" original="Heartbeat Process">Обработка Кардиограммы</value>
   </row>
   <row id="1005900000" trl="N">
-    <value column="Name" isTrl="N" original="Project Progress">Project Progress</value>
+    <value column="Name" isTrl="Y" original="Project Progress">Выполнение проекта</value>
     <value column="Description" isTrl="N" original="Report that shows the progress of the projects.">Report that shows the progress of the projects.</value>
     <value column="Help" isTrl="N" original="The Project Progress report permits to track the progress of projects with useful indicators such as the time burned or the completion percentage.">The Project Progress report permits to track the progress of projects with useful indicators such as the time burned or the completion percentage.</value>
   </row>
   <row id="101" trl="N">
-    <value column="Name" isTrl="N" original="Renumber">Renumber</value>
+    <value column="Name" isTrl="Y" original="Renumber">Перенумеровать</value>
     <value column="Description" isTrl="N" original="Renumber Discount entries">Renumber Discount entries</value>
     <value column="Help" isTrl="N" original="Renumber Discount entries">Renumber Discount entries</value>
   </row>
-  <row id="103" trl="N">
-    <value column="Name" isTrl="N" original="Create Price List">Create Price List</value>
-    <value column="Description" isTrl="N" original="Create Prices based on parameters of this version">Create Prices based on parameters of this version</value>
-    <value column="Help" isTrl="N" original="Create Prices for this pricelist version in the sequence of the Discount Schema Price List.|Lines with a higher sequence overwrite existing prices.  The sequence should be from generic to specific.">Create Prices for this pricelist version in the sequence of the Discount Schema Price List.|Lines with a higher sequence overwrite existing prices.  The sequence should be from generic to specific.</value>
+  <row id="103" trl="Y">
+    <value column="Name" isTrl="Y" original="Create Price List">Создать прейскурант</value>
+    <value column="Description" isTrl="Y" original="Create Prices based on parameters of this version">Установить цены согласно настроек для этой версии.</value>
+    <value column="Help" isTrl="Y" original="Create Prices for this pricelist version in the sequence of the Discount Schema Price List.|Lines with a higher sequence overwrite existing prices.  The sequence should be from generic to specific.">Установить цены для этой версии в последовательности применения схемы скидок для этого прейскуранта. В строках с приоритетной последовательностью перезаписывать существующие цены. Последовательность должна быть от общего к частному.</value>
   </row>
-  <row id="104" trl="N">
-    <value column="Name" isTrl="N" original="Process Order">Process Order</value>
-    <value column="Description" isTrl="N" original="Process Order">Process Order</value>
-    <value column="Help" isTrl="N" original="Process Order">Process Order</value>
+  <row id="104" trl="Y">
+    <value column="Name" isTrl="Y" original="Process Order">Обработать заказ</value>
+    <value column="Description" isTrl="Y" original="Process Order">Обработать заказ</value>
+    <value column="Help" isTrl="Y" original="Process Order">Обработать заказ</value>
   </row>
   <row id="105" trl="N">
-    <value column="Name" isTrl="N" original="Create Inventory Count List">Create Inventory Count List</value>
-    <value column="Description" isTrl="N" original="Create Inventory Count List">Create Inventory Count List</value>
-    <value column="Help" isTrl="N" original="The inventory count lines are generated.  You can add new lines or delete lines.">The inventory count lines are generated.  You can add new lines or delete lines.</value>
+    <value column="Name" isTrl="Y" original="Create Inventory Count List">Создать список пересчёта</value>
+    <value column="Description" isTrl="Y" original="Create Inventory Count List">Создать список пересчёта</value>
+    <value column="Help" isTrl="Y" original="The inventory count lines are generated.  You can add new lines or delete lines.">Строки инвентаризационной описи сформированы. Вы можете добавлять новые строки или удалять существующие</value>
   </row>
   <row id="106" trl="N">
-    <value column="Name" isTrl="N" original="Update Quantity">Update Quantity</value>
+    <value column="Name" isTrl="Y" original="Update Quantity">Обновить кол-во</value>
     <value column="Description" isTrl="N" original="The Book Quantity is updated with current book quantity">The Book Quantity is updated with current book quantity</value>
-    <value column="Help" isTrl="N" original="The Update Quantity Process will update the book quantity with the current book quantity.">The Update Quantity Process will update the book quantity with the current book quantity.</value>
+    <value column="Help" isTrl="Y" original="The Update Quantity Process will update the book quantity with the current book quantity.">Процесс обновления количества актуализирует учетное количество товаров с текущим учетным количеством.</value>
   </row>
   <row id="107" trl="N">
-    <value column="Name" isTrl="N" original="Process Inventory Count">Process Inventory Count</value>
+    <value column="Name" isTrl="Y" original="Process Inventory Count">Обработать список пересчёта</value>
     <value column="Description" isTrl="N" original="Process Inventory count and update Inventory">Process Inventory count and update Inventory</value>
     <value column="Help" isTrl="N" original="Process Inventory count and update Inventory">Process Inventory count and update Inventory</value>
   </row>
-  <row id="108" trl="N">
-    <value column="Name" isTrl="N" original="Copy Accounts">Copy Accounts</value>
-    <value column="Description" isTrl="N" original="Copy and overwrite all accounts to system defaults (DANGEROUS!!!)">Copy and overwrite all accounts to system defaults (DANGEROUS!!!)</value>
-    <value column="Help" isTrl="N" original="Copy and overwrite all accounts to system defaults (DANGEROUS!!!)">Copy and overwrite all accounts to system defaults (DANGEROUS!!!)</value>
+  <row id="108" trl="Y">
+    <value column="Name" isTrl="Y" original="Copy Accounts">Копировать счета</value>
+    <value column="Description" isTrl="Y" original="Copy and overwrite all accounts to system defaults (DANGEROUS!!!)">Копировать и переписать все системные счета установленные по-умолчанию (ОПАСНО!!!)</value>
+    <value column="Help" isTrl="Y" original="Copy and overwrite all accounts to system defaults (DANGEROUS!!!)">Копировать и переписать все системные счета установленные по-умолчанию (ОПАСНО!!!)</value>
   </row>
   <row id="109" trl="N">
-    <value column="Name" isTrl="N" original="Process Shipment">Process Shipment</value>
-    <value column="Description" isTrl="N" original="Process Shipment (Update Inventory)">Process Shipment (Update Inventory)</value>
-    <value column="Help" isTrl="N" original="This process will move products in/out of inventory and mark line items as received/shipped.">This process will move products in/out of inventory and mark line items as received/shipped.</value>
+    <value column="Name" isTrl="Y" original="Process Shipment">Обработка накладной</value>
+    <value column="Description" isTrl="Y" original="Process Shipment (Update Inventory)">Обработка накладной (Обновление остатков)</value>
+    <value column="Help" isTrl="Y" original="This process will move products in/out of inventory and mark line items as received/shipped.">Данная обработка переместить товары с/на склад и отметить строки позиций выданны/получены.</value>
   </row>
   <row id="110" trl="N">
-    <value column="Name" isTrl="N" original="Order Print">Order Print</value>
+    <value column="Name" isTrl="Y" original="Order Print">Печать заказа</value>
     <value column="Description" isTrl="N" original="** Special **">** Special **</value>
     <value column="Help" isTrl="N" original="** Special **">** Special **</value>
   </row>
   <row id="111" trl="N">
-    <value column="Name" isTrl="N" original="Process Invoice">Process Invoice</value>
-    <value column="Description" isTrl="N" original="Process Invoice">Process Invoice</value>
-    <value column="Help" isTrl="N" original="Process Invoice">Process Invoice</value>
+    <value column="Name" isTrl="Y" original="Process Invoice">Обработать счёт-фактуру</value>
+    <value column="Description" isTrl="Y" original="Process Invoice">Обработать счёт-фактуру</value>
+    <value column="Help" isTrl="Y" original="Process Invoice">Обработать счёт-фактуру</value>
   </row>
   <row id="112" trl="N">
     <value column="Name" isTrl="N" original="Copy Accounts">Copy Accounts</value>
@@ -169,37 +169,35 @@ Once the Purchase Order is created, it is marked as Completed and its Document N
     <value column="Description" isTrl="N" original="Products with more than one vendor">Products with more than one vendor</value>
     <value column="Help" isTrl="N" original="Vendor Selection is initiated when there is a product that is supplied by more than one vendor.  It allows the selection of a specific vendor for a Purchase Order.">Vendor Selection is initiated when there is a product that is supplied by more than one vendor.  It allows the selection of a specific vendor for a Purchase Order.</value>
   </row>
-  <row id="116" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Print">Invoice Print</value>
+  <row id="116" trl="Y">
+    <value column="Name" isTrl="Y" original="Invoice Print">Печать счёт-фактуры</value>
     <value column="Description" isTrl="N" original="** Special **">** Special **</value>
     <value column="Help" isTrl="N" original="** Special **">** Special **</value>
   </row>
   <row id="118" trl="N">
-    <value column="Name" isTrl="N" original="Generate Shipments">Generate Shipments</value>
+    <value column="Name" isTrl="Y" original="Generate Shipments">Создать накладные</value>
     <value column="Description" isTrl="N" original="Generate shipment">Generate shipment</value>
     <value column="Help" isTrl="N" original="Creates shipments from the selected organization and all its descends">Creates shipments from the selected organization and all its descends</value>
   </row>
   <row id="119" trl="N">
     <value column="Name" isTrl="N" original="Generate Invoices">Generate Invoices</value>
     <value column="Description" isTrl="N" original="Generate Invoices">Generate Invoices</value>
-    <value column="Help" isTrl="N" original="Generate Invoices executes automatic bulk generation of Sales Invoices for all Sales Orders pending to be invoiced that belongs to the selected Organization or, if the Include Child Organizations checkbox is checked, to the selected Organization and it's children.&#10;The Invoices generated are going to be created all of them against the selected Organization.&#10;">Generate Invoices executes automatic bulk generation of Sales Invoices for all Sales Orders pending to be invoiced that belongs to the selected Organization or, if the Include Child Organizations checkbox is checked, to the selected Organization and it's children.
-The Invoices generated are going to be created all of them against the selected Organization.
-</value>
+    <value column="Help" isTrl="Y" original="Generate Invoices executes automatic bulk generation of Sales Invoices for all Sales Orders pending to be invoiced that belongs to the selected Organization or, if the Include Child Organizations checkbox is checked, to the selected Organization and it's children.&#10;The Invoices generated are going to be created all of them against the selected Organization.&#10;">Generate Invoices</value>
   </row>
   <row id="120" trl="N">
-    <value column="Name" isTrl="N" original="Order Transactions">Order Transactions</value>
-    <value column="Description" isTrl="N" original="Sales Order Transaction Report">Sales Order Transaction Report</value>
-    <value column="Help" isTrl="N" original="Sales Order Transaction Report">Sales Order Transaction Report</value>
+    <value column="Name" isTrl="Y" original="Order Transactions">Операции по заказу</value>
+    <value column="Description" isTrl="Y" original="Sales Order Transaction Report">Отчёт по операциям заказа покупателя</value>
+    <value column="Help" isTrl="Y" original="Sales Order Transaction Report">Отчёт по операциям заказа покупателя</value>
   </row>
   <row id="121" trl="N">
-    <value column="Name" isTrl="N" original="Open Orders">Open Orders</value>
-    <value column="Description" isTrl="N" original="Open Orders">Open Orders</value>
-    <value column="Help" isTrl="N" original="Open Orders">Open Orders</value>
+    <value column="Name" isTrl="Y" original="Open Orders">Открыть заказа</value>
+    <value column="Description" isTrl="Y" original="Open Orders">Открыть заказа</value>
+    <value column="Help" isTrl="Y" original="Open Orders">Открыть заказа</value>
   </row>
   <row id="122" trl="N">
-    <value column="Name" isTrl="N" original="Process Movements">Process Movements</value>
-    <value column="Description" isTrl="N" original="Process Inventory Movements">Process Inventory Movements</value>
-    <value column="Help" isTrl="N" original="Process Inventory Movements will update inventory quantities based on the defined movements between warehouses or locations.">Process Inventory Movements will update inventory quantities based on the defined movements between warehouses or locations.</value>
+    <value column="Name" isTrl="Y" original="Process Movements">Обработать перемещения</value>
+    <value column="Description" isTrl="Y" original="Process Inventory Movements">Обработать складские перемещения</value>
+    <value column="Help" isTrl="Y" original="Process Inventory Movements will update inventory quantities based on the defined movements between warehouses or locations.">В результате успешной обработки обновится количество на складе, согласно заявленному перемещению между складами или местами хранения товаров.</value>
   </row>
   <row id="123" trl="N">
     <value column="Name" isTrl="N" original="Generate Commission">Generate Commission</value>
@@ -212,24 +210,24 @@ The Invoices generated are going to be created all of them against the selected 
     <value column="Help" isTrl="N" original="The report shows transaction summary for stored products">The report shows transaction summary for stored products</value>
   </row>
   <row id="127" trl="N">
-    <value column="Name" isTrl="N" original="Invoice Transactions">Invoice Transactions</value>
-    <value column="Description" isTrl="N" original="Invoice Transactions">Invoice Transactions</value>
-    <value column="Help" isTrl="N" original="Invoice Transactions">Invoice Transactions</value>
+    <value column="Name" isTrl="Y" original="Invoice Transactions">Проводки по счет-фактуре</value>
+    <value column="Description" isTrl="Y" original="Invoice Transactions">Проводки по счет-фактуре</value>
+    <value column="Help" isTrl="Y" original="Invoice Transactions">Проводки по счет-фактуре</value>
   </row>
   <row id="128" trl="N">
-    <value column="Name" isTrl="N" original="Daily Invoice">Daily Invoice</value>
-    <value column="Description" isTrl="N" original="Daily Invoice">Daily Invoice</value>
-    <value column="Help" isTrl="N" original="Daily Invoice">Daily Invoice</value>
+    <value column="Name" isTrl="Y" original="Daily Invoice">Ежедневная счет-фактура</value>
+    <value column="Description" isTrl="Y" original="Daily Invoice">Ежедневная счет-фактура</value>
+    <value column="Help" isTrl="Y" original="Daily Invoice">Ежедневная счет-фактура</value>
   </row>
   <row id="129" trl="N">
-    <value column="Name" isTrl="N" original="Monthly Invoice">Monthly Invoice</value>
-    <value column="Description" isTrl="N" original="Monthly Invoice">Monthly Invoice</value>
-    <value column="Help" isTrl="N" original="Monthly Invoice">Monthly Invoice</value>
+    <value column="Name" isTrl="Y" original="Monthly Invoice">Ежемесячная счет-фактура</value>
+    <value column="Description" isTrl="Y" original="Monthly Invoice">Ежемесячная счет-фактура</value>
+    <value column="Help" isTrl="Y" original="Monthly Invoice">Ежемесячная счет-фактура</value>
   </row>
   <row id="130" trl="N">
-    <value column="Name" isTrl="N" original="Weekly Invoice">Weekly Invoice</value>
-    <value column="Description" isTrl="N" original="Weekly Invoice">Weekly Invoice</value>
-    <value column="Help" isTrl="N" original="Weekly Invoice">Weekly Invoice</value>
+    <value column="Name" isTrl="Y" original="Weekly Invoice">Еженедельная счет-фактура</value>
+    <value column="Description" isTrl="Y" original="Weekly Invoice">Еженедельная счет-фактура</value>
+    <value column="Help" isTrl="Y" original="Weekly Invoice">Еженедельная счет-фактура</value>
   </row>
   <row id="131" trl="N">
     <value column="Name" isTrl="N" original="Weekly Product Invoice">Weekly Product Invoice</value>
@@ -252,14 +250,14 @@ The Invoices generated are going to be created all of them against the selected 
     <value column="Help" isTrl="N" original="This process generates invoices from completed sales shipments. It also has filter utilities">This process generates invoices from completed sales shipments. It also has filter utilities</value>
   </row>
   <row id="136" trl="N">
-    <value column="Name" isTrl="N" original="Verify BOM">Verify BOM</value>
+    <value column="Name" isTrl="Y" original="Verify BOM">Проверить спецификацию</value>
     <value column="Description" isTrl="N" original="Verify BOM Structure">Verify BOM Structure</value>
-    <value column="Help" isTrl="N" original="The Verify BOM Structure checks the elements and steps which comprise a Bill of Materials.">The Verify BOM Structure checks the elements and steps which comprise a Bill of Materials.</value>
+    <value column="Help" isTrl="Y" original="The Verify BOM Structure checks the elements and steps which comprise a Bill of Materials.">Провести сверку компонентов и этапов производства по спецификации необходимого сырья и материалов.</value>
   </row>
   <row id="137" trl="N">
-    <value column="Name" isTrl="N" original="Create/Process Production">Create/Process Production</value>
+    <value column="Name" isTrl="Y" original="Create/Process Production">Создать/Обработать производство</value>
     <value column="Description" isTrl="N" original="Create production lines, if not created - otherwise process the production">Create production lines, if not created - otherwise process the production</value>
-    <value column="Help" isTrl="N" original="Create/Post Production will generate the production lines and process the production.  If the production lines already exists, the production will be processed">Create/Post Production will generate the production lines and process the production.  If the production lines already exists, the production will be processed</value>
+    <value column="Help" isTrl="Y" original="Create/Post Production will generate the production lines and process the production.  If the production lines already exists, the production will be processed">Будет создан по спецификации список необходимого сырья для производства. Если этот список уже заполнен, будет выполнена обработка производства по спецификации.</value>
   </row>
   <row id="138" trl="N">
     <value column="Name" isTrl="N" original="Quarterly Customer Invoice by Product">Quarterly Customer Invoice by Product</value>
@@ -297,14 +295,14 @@ The Invoices generated are going to be created all of them against the selected 
     <value column="Help" isTrl="N" original="Invoice Summary">Invoice Summary</value>
   </row>
   <row id="154" trl="N">
-    <value column="Name" isTrl="N" original="Generate Invoice from Receipt">Generate Invoice from Receipt</value>
+    <value column="Name" isTrl="Y" original="Generate Invoice from Receipt">СФ по накладной</value>
     <value column="Description" isTrl="N" original="Create and process Invoice from this receipt. The receipt should be correct and completed.">Create and process Invoice from this receipt. The receipt should be correct and completed.</value>
-    <value column="Help" isTrl="N" original="Generate Invoice from Receipt will create an invoice based on the selected receipt and match the invoice to that receipt. If the receipt line is related to an existing order line, then the price of the invoice line is taken from that order line. In other case, it uses the retrieved price from the price list selected in the below drop-down list.">Generate Invoice from Receipt will create an invoice based on the selected receipt and match the invoice to that receipt. If the receipt line is related to an existing order line, then the price of the invoice line is taken from that order line. In other case, it uses the retrieved price from the price list selected in the below drop-down list.</value>
+    <value column="Help" isTrl="Y" original="Generate Invoice from Receipt will create an invoice based on the selected receipt and match the invoice to that receipt. If the receipt line is related to an existing order line, then the price of the invoice line is taken from that order line. In other case, it uses the retrieved price from the price list selected in the below drop-down list.">Генерация счёт-фактуры по накладной основывается на данных текущей накладной. Если строки накладной связаны с строками заказа, тогда цена в счёт-фактуре берётся из строки заказа. Иначе, цена берётся по прейскуранту заданному из выпадающего ниже списка.</value>
   </row>
   <row id="155" trl="N">
-    <value column="Name" isTrl="N" original="Create Payment">Create Payment</value>
-    <value column="Description" isTrl="N" original="Create Payment">Create Payment</value>
-    <value column="Help" isTrl="N" original="Create Payment">Create Payment</value>
+    <value column="Name" isTrl="Y" original="Create Payment">Создать платеж</value>
+    <value column="Description" isTrl="Y" original="Create Payment">Создать платеж</value>
+    <value column="Help" isTrl="Y" original="Create Payment">Создать платеж</value>
   </row>
   <row id="159" trl="N">
     <value column="Name" isTrl="N" original="Dunning Letter">Dunning Letter</value>
@@ -332,25 +330,25 @@ The Invoices generated are going to be created all of them against the selected 
     <value column="Help" isTrl="N" original="The Generate Order process will generate a new Order document based on the project phase. A price list and warehouse/service point must be defined on the project.">The Generate Order process will generate a new Order document based on the project phase. A price list and warehouse/service point must be defined on the project.</value>
   </row>
   <row id="165" trl="N">
-    <value column="Name" isTrl="N" original="Copy Lines">Copy Lines</value>
+    <value column="Name" isTrl="Y" original="Copy Lines">Копия с-к</value>
     <value column="Description" isTrl="N" original="Copy Commission Lines from other Commission">Copy Commission Lines from other Commission</value>
     <value column="Help" isTrl="N" original="Copy Commission Lines from other Commission">Copy Commission Lines from other Commission</value>
   </row>
   <row id="166" trl="N">
-    <value column="Name" isTrl="N" original="Create Invoice">Create Invoice</value>
+    <value column="Name" isTrl="Y" original="Create Invoice">Создать счёт</value>
     <value column="Description" isTrl="N" original="Create Invoice from Commission Calculation">Create Invoice from Commission Calculation</value>
     <value column="Help" isTrl="N" original="Create Invoice from Commission Calculation">Create Invoice from Commission Calculation</value>
   </row>
   <row id="167" trl="N">
-    <value column="Name" isTrl="N" original="Open/Close All">Open/Close All</value>
+    <value column="Name" isTrl="Y" original="Open/Close All">Открыть/Закрыть все</value>
     <value column="Description" isTrl="N" original="Open/Close all Base Document Types">Open/Close all Base Document Types</value>
     <value column="Help" isTrl="N" original="Open/Close all Base Document Types.&#10;NOTE: You will not be able to close the fiscal year if you close all its periods permanently. Maybe you should close it before changing the last period from closed to permanently closed.">Open/Close all Base Document Types.
 NOTE: You will not be able to close the fiscal year if you close all its periods permanently. Maybe you should close it before changing the last period from closed to permanently closed.</value>
   </row>
   <row id="168" trl="N">
-    <value column="Name" isTrl="N" original="Open/Close">Open/Close</value>
-    <value column="Description" isTrl="N" original="Open/Close">Open/Close</value>
-    <value column="Help" isTrl="N" original="Open/Close">Open/Close</value>
+    <value column="Name" isTrl="Y" original="Open/Close">Открыть/Закрыть</value>
+    <value column="Description" isTrl="Y" original="Open/Close">Открыть/Закрыть</value>
+    <value column="Help" isTrl="Y" original="Open/Close">Открыть/Закрыть</value>
   </row>
   <row id="169" trl="N">
     <value column="Name" isTrl="N" original="Process Journal">Process Journal</value>
@@ -358,9 +356,9 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Process Journal">Process Journal</value>
   </row>
   <row id="172" trl="N">
-    <value column="Name" isTrl="N" original="Synchronize Terminology">Synchronize Terminology</value>
+    <value column="Name" isTrl="Y" original="Synchronize Terminology">Синхронизация интерфейса</value>
     <value column="Description" isTrl="N" original="Synchronize the terminology within the system.">Synchronize the terminology within the system.</value>
-    <value column="Help" isTrl="N" original="Based on the entries in Window Element, the fields in windows, parameters, etc. are synchronized, if they are centrally maintained.">Based on the entries in Window Element, the fields in windows, parameters, etc. are synchronized, if they are centrally maintained.</value>
+    <value column="Help" isTrl="Y" original="Based on the entries in Window Element, the fields in windows, parameters, etc. are synchronized, if they are centrally maintained.">Все записи связанные с элементами интерфейса окон, полей, параметров и т.д. будут синхронизированы, если они хранились на сервере.</value>
   </row>
   <row id="173" trl="N">
     <value column="Name" isTrl="N" original="Create Columns from DB">Create Columns from DB</value>
@@ -373,9 +371,9 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Based on the Table of this Tab, this procedure creates the missing Fields">Based on the Table of this Tab, this procedure creates the missing Fields</value>
   </row>
   <row id="179" trl="N">
-    <value column="Name" isTrl="N" original="Verify Languages">Verify Languages</value>
+    <value column="Name" isTrl="Y" original="Verify Languages">Проверить языки</value>
     <value column="Description" isTrl="N" original="Verify existence of language translation in system (required after creating a new language)">Verify existence of language translation in system (required after creating a new language)</value>
-    <value column="Help" isTrl="N" original="Verify the translation creates missing translation records. Start this process after creating a new language. It will create new records by copying the base language entries.">Verify the translation creates missing translation records. Start this process after creating a new language. It will create new records by copying the base language entries.</value>
+    <value column="Help" isTrl="Y" original="Verify the translation creates missing translation records. Start this process after creating a new language. It will create new records by copying the base language entries.">Проверка перевода создаёт отсутствующие записи в словаре переведённых фраз. Запустите обработку после создания нового языка. После её выполнения будут созданы новые записи в словаре и скопировано значение для перевода из базового языка.</value>
   </row>
   <row id="180" trl="N">
     <value column="Name" isTrl="N" original="Inventory Valuation Report">Inventory Valuation Report</value>
@@ -408,23 +406,23 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Process Batch">Process Batch</value>
   </row>
   <row id="189" trl="N">
-    <value column="Name" isTrl="N" original="Copy Columns">Copy Columns</value>
+    <value column="Name" isTrl="Y" original="Copy Columns">Копировать столбцы</value>
     <value column="Description" isTrl="N" original="Copy Report Columns from other Column Set">Copy Report Columns from other Column Set</value>
     <value column="Help" isTrl="N" original="Copy columns at the end of this Column Set">Copy columns at the end of this Column Set</value>
   </row>
   <row id="190" trl="N">
-    <value column="Name" isTrl="N" original="Copy Lines">Copy Lines</value>
+    <value column="Name" isTrl="Y" original="Copy Lines">Копия с-к</value>
     <value column="Description" isTrl="N" original="Copy Report Lines from other Line Set">Copy Report Lines from other Line Set</value>
     <value column="Help" isTrl="N" original="Copy lines at the end of this Line Set">Copy lines at the end of this Line Set</value>
   </row>
   <row id="192" trl="N">
-    <value column="Name" isTrl="N" original="Copy/Create">Copy/Create</value>
+    <value column="Name" isTrl="Y" original="Copy/Create">Копировать/Создать</value>
     <value column="Description" isTrl="N" original="Copy existing OR create Print Format from Table">Copy existing OR create Print Format from Table</value>
     <value column="Help" isTrl="N" original="Select either a table to create a print format [creates initial rough layout]|OR a print format to copy into the current print format [copies layout].">Select either a table to create a print format [creates initial rough layout]|OR a print format to copy into the current print format [copies layout].</value>
   </row>
   <row id="193" trl="N">
-    <value column="Name" isTrl="N" original="Generate PO from Sales Order">Generate PO from Sales Order</value>
-    <value column="Description" isTrl="N" original="Create Purchase Order from Sales Orders">Create Purchase Order from Sales Orders</value>
+    <value column="Name" isTrl="Y" original="Generate PO from Sales Order">Заказ Закупки по Заказу Продаж</value>
+    <value column="Description" isTrl="Y" original="Create Purchase Order from Sales Orders">Создать заказ поставщику на основании заказа покупателя</value>
     <value column="Help" isTrl="N" original="After completing sales orders, you can create one or more purchase orders for each sales order. A purchase order references always only one sales order (i.e. no consolidation of sales orders).||POs are created for all sales order lines where the product h">After completing sales orders, you can create one or more purchase orders for each sales order. A purchase order references always only one sales order (i.e. no consolidation of sales orders).||POs are created for all sales order lines where the product h</value>
   </row>
   <row id="198" trl="N">
@@ -453,7 +451,7 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Select a Period (current period if empty) or enter a Account Date Range">Select a Period (current period if empty) or enter a Account Date Range</value>
   </row>
   <row id="205" trl="N">
-    <value column="Name" isTrl="N" original="Cache Reset">Cache Reset</value>
+    <value column="Name" isTrl="Y" original="Cache Reset">Очистить кэш</value>
     <value column="Description" isTrl="N" original="Reset Cache of the System ** Close all Windows before proceeding **">Reset Cache of the System ** Close all Windows before proceeding **</value>
     <value column="Help" isTrl="N" original="To increase performance, Openbravo caches repeatedly used data. This process clears the local cache.">To increase performance, Openbravo caches repeatedly used data. This process clears the local cache.</value>
   </row>
@@ -463,19 +461,19 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Start Replication with Remote Host">Start Replication with Remote Host</value>
   </row>
   <row id="210" trl="N">
-    <value column="Name" isTrl="N" original="Copy Lines">Copy Lines</value>
-    <value column="Description" isTrl="N" original="Copy lines (products) from an existing Invoice.">Copy lines (products) from an existing Invoice.</value>
-    <value column="Help" isTrl="N" original="Copy lines (products) from an existing Invoice. By selecting any existing past  invoice, the process will copy all lines (products) from it to the one currently  being edited. This process can be used repetitively to copy lines (products) from several invoices into a new one.">Copy lines (products) from an existing Invoice. By selecting any existing past  invoice, the process will copy all lines (products) from it to the one currently  being edited. This process can be used repetitively to copy lines (products) from several invoices into a new one.</value>
+    <value column="Name" isTrl="Y" original="Copy Lines">Копия с-к</value>
+    <value column="Description" isTrl="Y" original="Copy lines (products) from an existing Invoice.">Копировать строки(товары) из существующих счёт-фактур.</value>
+    <value column="Help" isTrl="Y" original="Copy lines (products) from an existing Invoice. By selecting any existing past  invoice, the process will copy all lines (products) from it to the one currently  being edited. This process can be used repetitively to copy lines (products) from several invoices into a new one.">Копировать строки(товары) из существующих счёт-фактур.Выбрав любую из существующих счёт-фактур, обработка скопирует все строки(товары) из неё в открытую счёт-фактуру. Эта обработка может использоваться повторна для копирования строк(товаров) из нескольки счёт-фактур в одну.</value>
   </row>
   <row id="211" trl="N">
-    <value column="Name" isTrl="N" original="Copy Lines">Copy Lines</value>
-    <value column="Description" isTrl="N" original="Browse history of this particular document type for the selected business partner to be able to select lines (products) from these.">Browse history of this particular document type for the selected business partner to be able to select lines (products) from these.</value>
+    <value column="Name" isTrl="Y" original="Copy Lines">Копия с-к</value>
+    <value column="Description" isTrl="Y" original="Browse history of this particular document type for the selected business partner to be able to select lines (products) from these.">Просмотреть историю для этого типа документа и для выбранного контрагента, чтобы из них подобрать строки(товары).</value>
     <value column="Help" isTrl="N" original="Browse history of this particular document type for the selected business partner to be able to select lines (products) from these. For example, if you are creating a new sales order for business partner A, Copy Lines window will give you the history of products ordered and the prices given to business partner A within the last X days. X can be set within the business partner window. Consider this as a tiny CRM window.">Browse history of this particular document type for the selected business partner to be able to select lines (products) from these. For example, if you are creating a new sales order for business partner A, Copy Lines window will give you the history of products ordered and the prices given to business partner A within the last X days. X can be set within the business partner window. Consider this as a tiny CRM window.</value>
   </row>
   <row id="212" trl="N">
-    <value column="Name" isTrl="N" original="Copy Details">Copy Details</value>
-    <value column="Description" isTrl="N" original="Copy Lines/Phases/Tasks from another existing project">Copy Lines/Phases/Tasks from another existing project</value>
-    <value column="Help" isTrl="N" original="Copy Lines/Phases/Tasks from another existing project">Copy Lines/Phases/Tasks from another existing project</value>
+    <value column="Name" isTrl="Y" original="Copy Details">Копировать детали</value>
+    <value column="Description" isTrl="Y" original="Copy Lines/Phases/Tasks from another existing project">Копировать строки/фазы/задачи из других существующих проектов</value>
+    <value column="Help" isTrl="Y" original="Copy Lines/Phases/Tasks from another existing project">Копировать строки/фазы/задачи из других существующих проектов</value>
   </row>
   <row id="213" trl="N">
     <value column="Name" isTrl="N" original="Start Process">Start Process</value>
@@ -483,9 +481,9 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Start Recurring Run">Start Recurring Run</value>
   </row>
   <row id="214" trl="N">
-    <value column="Name" isTrl="N" original="Copy Details">Copy Details</value>
-    <value column="Description" isTrl="N" original="Copy Journal/Lines from other Journal Batch">Copy Journal/Lines from other Journal Batch</value>
-    <value column="Help" isTrl="N" original="Copy Journal/Lines from other Journal Batch">Copy Journal/Lines from other Journal Batch</value>
+    <value column="Name" isTrl="Y" original="Copy Details">Копировать детали</value>
+    <value column="Description" isTrl="Y" original="Copy Journal/Lines from other Journal Batch">Копировать поля журнала/строки из других записей в журнале</value>
+    <value column="Help" isTrl="Y" original="Copy Journal/Lines from other Journal Batch">Копировать поля журнала/строки из других записей в журнале</value>
   </row>
   <row id="215" trl="N">
     <value column="Name" isTrl="N" original="Set Project Type">Set Project Type</value>
@@ -538,9 +536,9 @@ NOTE: You will not be able to close the fiscal year if you close all its periods
     <value column="Help" isTrl="N" original="Project Detail Accounting Report">Project Detail Accounting Report</value>
   </row>
   <row id="227" trl="N">
-    <value column="Name" isTrl="N" original="Close Project">Close Project</value>
-    <value column="Description" isTrl="N" original="Close Project">Close Project</value>
-    <value column="Help" isTrl="N" original="Close Project">Close Project</value>
+    <value column="Name" isTrl="Y" original="Close Project">Закрыть проект</value>
+    <value column="Description" isTrl="Y" original="Close Project">Закрыть проект</value>
+    <value column="Help" isTrl="Y" original="Close Project">Закрыть проект</value>
   </row>
   <row id="228" trl="N">
     <value column="Name" isTrl="N" original="Project Lines not Issued">Project Lines not Issued</value>
@@ -584,7 +582,7 @@ In case there is any characteristic configured with the Defines Price or Defines
 If the Generic Product already has any Variant created the process returns an error message and no new Variant is created.</value>
   </row>
   <row id="3F2B4AAC707B4CE7B98D2005CF7310B5" trl="N">
-    <value column="Name" isTrl="N" original="Costing Background process">Costing Background process</value>
+    <value column="Name" isTrl="Y" original="Costing Background process">Фоновая обработка калькуляции</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -594,24 +592,24 @@ If the Generic Product already has any Variant created the process returns an er
     <value column="Help" isTrl="N" original="Asset report for depreciation schedule">Asset report for depreciation schedule</value>
   </row>
   <row id="468156B616E04DB39CBAD3592316FD50" trl="N">
-    <value column="Name" isTrl="N" original="Reschedule Process">Reschedule Process</value>
+    <value column="Name" isTrl="Y" original="Reschedule Process">Перезапустить обработку</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="49DEE812BF0545269781FCEBF2235924" trl="N">
-    <value column="Name" isTrl="N" original="Process Shipment Java">Process Shipment Java</value>
-    <value column="Description" isTrl="N" original="Process Shipment (Update Inventory)">Process Shipment (Update Inventory)</value>
-    <value column="Help" isTrl="N" original="This process will move products in/out of inventory and mark line items as received/shipped.">This process will move products in/out of inventory and mark line items as received/shipped.</value>
+    <value column="Name" isTrl="Y" original="Process Shipment Java">Java обработка накладной</value>
+    <value column="Description" isTrl="Y" original="Process Shipment (Update Inventory)">Обработка накладной (Обновление остатков)</value>
+    <value column="Help" isTrl="Y" original="This process will move products in/out of inventory and mark line items as received/shipped.">Данная обработка переместить товары с/на склад и отметить строки позиций выданны/получены.</value>
   </row>
   <row id="4BFAA697355C46DFB0E62325C1D9AAA8" trl="N">
     <value column="Name" isTrl="N" original="Job Runner">Job Runner</value>
     <value column="Description" isTrl="N" original="Runs Jobs in background">Runs Jobs in background</value>
     <value column="Help" isTrl="N" original="Runs Jobs in background">Runs Jobs in background</value>
   </row>
-  <row id="53863D4359114ADE92133F772135AEEB" trl="N">
-    <value column="Name" isTrl="N" original="Set as Ready">Set as Ready</value>
-    <value column="Description" isTrl="N" original="Set an organization as ready">Set an organization as ready</value>
-    <value column="Help" isTrl="N" original="This procedure checks if the organization fulfills every requirement before setting it as ready.">This procedure checks if the organization fulfills every requirement before setting it as ready.</value>
+  <row id="53863D4359114ADE92133F772135AEEB" trl="Y">
+    <value column="Name" isTrl="Y" original="Set as Ready">Установить готовность</value>
+    <value column="Description" isTrl="Y" original="Set an organization as ready">Установить готовность организации</value>
+    <value column="Help" isTrl="Y" original="This procedure checks if the organization fulfills every requirement before setting it as ready.">Данная обработка проверяет заполнение всех необходимых полей перед тем, как сделать выбранную организацию доступной для работы в приложение.</value>
   </row>
   <row id="58591E3E0F7648E4A09058E037CE49FC" trl="N">
     <value column="Name" isTrl="N" original="Update Product Characteristics Description">Update Product Characteristics Description</value>
@@ -634,7 +632,7 @@ If the Generic Product already has any Variant created the process returns an er
     <value column="Help" isTrl="N" original="This process updates the required infrastructure to track complete audit for the tables selected as Fully Audited.">This process updates the required infrastructure to track complete audit for the tables selected as Fully Audited.</value>
   </row>
   <row id="69DFD737ACC74499A44574B046F8983C" trl="N">
-    <value column="Name" isTrl="N" original="Unschedule Process">Unschedule Process</value>
+    <value column="Name" isTrl="Y" original="Unschedule Process">Приостановить обработку</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -674,13 +672,13 @@ If the Generic Product already has any Variant created the process returns an er
     <value column="Help" isTrl="N" original="Creates standard module for customizations">Creates standard module for customizations</value>
   </row>
   <row id="800000" trl="N">
-    <value column="Name" isTrl="N" original="Journal Entries Report">Journal Entries Report</value>
-    <value column="Description" isTrl="N" original="Journal Entries Report">Journal Entries Report</value>
+    <value column="Name" isTrl="Y" original="Journal Entries Report">Отчет по проводкам</value>
+    <value column="Description" isTrl="Y" original="Journal Entries Report">Отчет по проводкам</value>
     <value column="Help" isTrl="N" original="The journal entries report is a list of all the journal vouchers of an organization and general ledger shown in a chronological order.">The journal entries report is a list of all the journal vouchers of an organization and general ledger shown in a chronological order.</value>
   </row>
   <row id="800001" trl="N">
-    <value column="Name" isTrl="N" original="General Ledger Report">General Ledger Report</value>
-    <value column="Description" isTrl="N" original="Report general ledger">Report general ledger</value>
+    <value column="Name" isTrl="Y" original="General Ledger Report">Отчет по Главной книге</value>
+    <value column="Description" isTrl="Y" original="Report general ledger">Отчет по Главной книге</value>
     <value column="Help" isTrl="N" original="The General Ledger report lists every ledger &quot;subaccount&quot; and its debit and credit ledger entries within a given period of time.">The General Ledger report lists every ledger "subaccount" and its debit and credit ledger entries within a given period of time.</value>
   </row>
   <row id="800002" trl="N">
@@ -704,7 +702,7 @@ If the Generic Product already has any Variant created the process returns an er
     <value column="Help" isTrl="N" original="Generate Purchase Order From Project">Generate Purchase Order From Project</value>
   </row>
   <row id="800010" trl="N">
-    <value column="Name" isTrl="N" original="Update Attributes from Shipment">Update Attributes from Shipment</value>
+    <value column="Name" isTrl="Y" original="Update Attributes from Shipment">Обновить атрибуты из накладной</value>
     <value column="Description" isTrl="N" original="Update attributes from shipment">Update attributes from shipment</value>
     <value column="Help" isTrl="N" original="Update attributes from shipment">Update attributes from shipment</value>
   </row>
@@ -719,13 +717,13 @@ If the Generic Product already has any Variant created the process returns an er
     <value column="Help" isTrl="N" original="Report Total Product Template">Report Total Product Template</value>
   </row>
   <row id="800021" trl="N">
-    <value column="Name" isTrl="N" original="Balance sheet and P&amp;L structure">Balance sheet and P&amp;L structure</value>
-    <value column="Description" isTrl="N" original="Balance sheet and P&amp;L structure">Balance sheet and P&amp;L structure</value>
+    <value column="Name" isTrl="Y" original="Balance sheet and P&amp;L structure">Структура Баланса и Отчета о ПиУ</value>
+    <value column="Description" isTrl="Y" original="Balance sheet and P&amp;L structure">Структура Баланса и Отчета о Прибылях и Убытках</value>
     <value column="Help" isTrl="N" original="The Balance sheet and P&amp;L structure report engine allows to launch the Balance Sheet and P&amp;L which need to be previously configured.">The Balance sheet and P&amp;L structure report engine allows to launch the Balance Sheet and P&amp;L which need to be previously configured.</value>
   </row>
   <row id="800022" trl="N">
-    <value column="Name" isTrl="N" original="Copy Product Template">Copy Product Template</value>
-    <value column="Description" isTrl="N" original="Copy products from the business partner's template of that sales order.">Copy products from the business partner's template of that sales order.</value>
+    <value column="Name" isTrl="Y" original="Copy Product Template">Копировать шаблон товара</value>
+    <value column="Description" isTrl="Y" original="Copy products from the business partner's template of that sales order.">Копировать товары для данного контрагента из шаблона этого заказа покупателя.</value>
     <value column="Help" isTrl="N" original="Copy products from the business partner's template of that sales order.">Copy products from the business partner's template of that sales order.</value>
   </row>
   <row id="800023" trl="N">
@@ -759,7 +757,7 @@ If the Generic Product already has any Variant created the process returns an er
     <value column="Help" isTrl="N" original="Report Warehouse Control">Report Warehouse Control</value>
   </row>
   <row id="800036" trl="N">
-    <value column="Name" isTrl="N" original="Close Year">Close Year</value>
+    <value column="Name" isTrl="Y" original="Close Year">Закрыть год</value>
     <value column="Description" isTrl="N" original="This proces creates the closing transactions and the corresponding opening transactions for the following year.">This proces creates the closing transactions and the corresponding opening transactions for the following year.</value>
     <value column="Help" isTrl="N" original="This proces creates the closing transactions and the corresponding opening transactions for the following year.&#10;The following year must already exist in the system and the first period must be open.&#10;The ledger accounting entries created by the Fiscal Year closing process are:&#10;     1. P&amp;L Closing: Resets all revenue and costs accounts and posts P&amp;L transaction. Currently posted into last day of last period of closing year.&#10;     2. Closing entry or Balance Sheet Closing: Creates closing transactions for asset and liabilities. Currently posted into last day of last period of closing year.&#10;     3. Opening entry: Posts opposite entry of closing entry. First day of first period of new year">This proces creates the closing transactions and the corresponding opening transactions for the following year.
 The following year must already exist in the system and the first period must be open.
@@ -769,19 +767,19 @@ The ledger accounting entries created by the Fiscal Year closing process are:
      3. Opening entry: Posts opposite entry of closing entry. First day of first period of new year</value>
   </row>
   <row id="800038" trl="N">
-    <value column="Name" isTrl="N" original="Undo Close Year">Undo Close Year</value>
+    <value column="Name" isTrl="Y" original="Undo Close Year">Отменить закрытие года</value>
     <value column="Description" isTrl="N" original="This process undo all what was done by the closing year process; all the accounting entries which were generated are undo or reverted.">This process undo all what was done by the closing year process; all the accounting entries which were generated are undo or reverted.</value>
     <value column="Help" isTrl="N" original="This process undo all what was done by the closing year process; all the accounting entries which were generated are undo or reverted.">This process undo all what was done by the closing year process; all the accounting entries which were generated are undo or reverted.</value>
   </row>
   <row id="800039" trl="N">
-    <value column="Name" isTrl="N" original="Trial Balance">Trial Balance</value>
+    <value column="Name" isTrl="Y" original="Trial Balance">Обортно-сальдовая ведомость</value>
     <value column="Description" isTrl="N" original="Trial Balance Report">Trial Balance Report</value>
     <value column="Help" isTrl="N" original="The trial balance helps to check that the total amount of debits are equal to the total amount of credits.">The trial balance helps to check that the total amount of debits are equal to the total amount of credits.</value>
   </row>
   <row id="800040" trl="N">
-    <value column="Name" isTrl="N" original="Create All Price Lists">Create All Price Lists</value>
-    <value column="Description" isTrl="N" original="Create price list version for a price list">Create price list version for a price list</value>
-    <value column="Help" isTrl="N" original="Create price list version for a price list">Create price list version for a price list</value>
+    <value column="Name" isTrl="Y" original="Create All Price Lists">Создать все прейскуранты</value>
+    <value column="Description" isTrl="Y" original="Create price list version for a price list">Создать версии для прейскурантов</value>
+    <value column="Help" isTrl="Y" original="Create price list version for a price list">Создать версии для прейскурантов</value>
   </row>
   <row id="800046" trl="N">
     <value column="Name" isTrl="N" original="Product Movements Report">Product Movements Report</value>
@@ -789,9 +787,9 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Help" isTrl="N" original="Report product movement">Report product movement</value>
   </row>
   <row id="800048" trl="N">
-    <value column="Name" isTrl="N" original="Move a Storage Bin">Move a Storage Bin</value>
-    <value column="Description" isTrl="N" original="Move a Storage Bin">Move a Storage Bin</value>
-    <value column="Help" isTrl="N" original="Move a Storage Bin">Move a Storage Bin</value>
+    <value column="Name" isTrl="Y" original="Move a Storage Bin">Переместить на складе</value>
+    <value column="Description" isTrl="Y" original="Move a Storage Bin">Переместить на складе</value>
+    <value column="Help" isTrl="Y" original="Move a Storage Bin">Переместить на складе</value>
   </row>
   <row id="800058" trl="N">
     <value column="Name" isTrl="N" original="Shipments Dimensional Report">Shipments Dimensional Report</value>
@@ -803,20 +801,20 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Description" isTrl="N" original="Report expense">Report expense</value>
     <value column="Help" isTrl="N" original="Report expense">Report expense</value>
   </row>
-  <row id="800064" trl="N">
-    <value column="Name" isTrl="N" original="Acct Server Process">Acct Server Process</value>
-    <value column="Description" isTrl="N" original="Acct Server Process">Acct Server Process</value>
-    <value column="Help" isTrl="N" original="Acct Server Process">Acct Server Process</value>
+  <row id="800064" trl="Y">
+    <value column="Name" isTrl="Y" original="Acct Server Process">Оработка сервера проводок</value>
+    <value column="Description" isTrl="Y" original="Acct Server Process">Оработка сервера проводок</value>
+    <value column="Help" isTrl="Y" original="Acct Server Process">Оработка сервера проводок</value>
   </row>
   <row id="800068" trl="N">
-    <value column="Name" isTrl="N" original="Create Invoice  (Volume Discount)">Create Invoice  (Volume Discount)</value>
-    <value column="Description" isTrl="N" original="Create invoice">Create invoice</value>
-    <value column="Help" isTrl="N" original="Create invoice">Create invoice</value>
+    <value column="Name" isTrl="Y" original="Create Invoice  (Volume Discount)">Создать cчёт-фактуру(Скидка от объёма)</value>
+    <value column="Description" isTrl="Y" original="Create invoice">Создать cчёт-фактуру</value>
+    <value column="Help" isTrl="Y" original="Create invoice">Создать cчёт-фактуру</value>
   </row>
   <row id="800069" trl="N">
-    <value column="Name" isTrl="N" original="Create Price List Version">Create Price List Version</value>
-    <value column="Description" isTrl="N" original="Create Price List Version">Create Price List Version</value>
-    <value column="Help" isTrl="N" original="Create Price List Version">Create Price List Version</value>
+    <value column="Name" isTrl="Y" original="Create Price List Version">Создать версию прейскуранта</value>
+    <value column="Description" isTrl="Y" original="Create Price List Version">Создать версию прейскуранта</value>
+    <value column="Help" isTrl="Y" original="Create Price List Version">Создать версию прейскуранта</value>
   </row>
   <row id="800073" trl="N">
     <value column="Name" isTrl="N" original="Sales Rep Pricelist">Sales Rep Pricelist</value>
@@ -864,7 +862,7 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Help" isTrl="N" original="Update all the table identifiers SQL">Update all the table identifiers SQL</value>
   </row>
   <row id="800089" trl="N">
-    <value column="Name" isTrl="N" original="Grant Access">Grant Access</value>
+    <value column="Name" isTrl="Y" original="Grant Access">Установить уровень доступа</value>
     <value column="Description" isTrl="N" original="Inserts access to module and window, process, task, workflow and forms.">Inserts access to module and window, process, task, workflow and forms.</value>
     <value column="Help" isTrl="N" original="Inserts access to module and window, process, task, workflow and forms.">Inserts access to module and window, process, task, workflow and forms.</value>
   </row>
@@ -894,8 +892,8 @@ The ledger accounting entries created by the Fiscal Year closing process are:
     <value column="Help" isTrl="N" original="** special **">** special **</value>
   </row>
   <row id="800100" trl="N">
-    <value column="Name" isTrl="N" original="Business Partner Contract">Business Partner Contract</value>
-    <value column="Description" isTrl="N" original="Creates business partner contract">Creates business partner contract</value>
+    <value column="Name" isTrl="Y" original="Business Partner Contract">Договор контрагента</value>
+    <value column="Description" isTrl="Y" original="Creates business partner contract">Создать договора с контрагентом</value>
     <value column="Help" isTrl="N" original="Creates a PDF report containing the business partner name, address,... And the price list for the customer.">Creates a PDF report containing the business partner name, address,... And the price list for the customer.</value>
   </row>
   <row id="800102" trl="N">
@@ -952,9 +950,9 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="With this process are planed all the gatherings of the periodic control selected.">With this process are planed all the gatherings of the periodic control selected.</value>
   </row>
   <row id="800123" trl="N">
-    <value column="Name" isTrl="N" original="G/L Items Report">G/L Items Report</value>
-    <value column="Description" isTrl="N" original="G/L Items Report">G/L Items Report</value>
-    <value column="Help" isTrl="N" original="G/L Items Report">G/L Items Report</value>
+    <value column="Name" isTrl="Y" original="G/L Items Report">Отчет Проводки Г/К</value>
+    <value column="Description" isTrl="Y" original="G/L Items Report">Отчет Проводки Г/К</value>
+    <value column="Help" isTrl="Y" original="G/L Items Report">Отчет Проводки Г/К</value>
   </row>
   <row id="800124" trl="N">
     <value column="Name" isTrl="N" original="Performance Scorecard">Performance Scorecard</value>
@@ -997,9 +995,9 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Process Internal Consumption">Process Internal Consumption</value>
   </row>
   <row id="800133" trl="N">
-    <value column="Name" isTrl="N" original="Journal Entries Report Detail">Journal Entries Report Detail</value>
-    <value column="Description" isTrl="N" original="Journal Entries Report detail">Journal Entries Report detail</value>
-    <value column="Help" isTrl="N" original="Journal Entries Report detail">Journal Entries Report detail</value>
+    <value column="Name" isTrl="Y" original="Journal Entries Report Detail">Отчет по проводкам детально</value>
+    <value column="Description" isTrl="Y" original="Journal Entries Report detail">Отчет по проводкам детально</value>
+    <value column="Help" isTrl="Y" original="Journal Entries Report detail">Отчет по проводкам детально</value>
   </row>
   <row id="800134" trl="N">
     <value column="Name" isTrl="N" original="Post Amortization">Post Amortization</value>
@@ -1012,7 +1010,7 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Copy Budget">Copy Budget</value>
   </row>
   <row id="800136" trl="N">
-    <value column="Name" isTrl="N" original="Copy Accounts">Copy Accounts</value>
+    <value column="Name" isTrl="Y" original="Copy Accounts">Копировать счета</value>
     <value column="Description" isTrl="N" original="Copy and overwrite Accounts">Copy and overwrite Accounts</value>
     <value column="Help" isTrl="N" original="The Copy Accounts Process will take the accounts defined for a asset group and copy them to any asset that references this group.  If an account exists at the product level it will be overwritten.">The Copy Accounts Process will take the accounts defined for a asset group and copy them to any asset that references this group.  If an account exists at the product level it will be overwritten.</value>
   </row>
@@ -1032,14 +1030,14 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Post Payment Management">Post Payment Management</value>
   </row>
   <row id="800141" trl="N">
-    <value column="Name" isTrl="N" original="Calculate Freight Amount">Calculate Freight Amount</value>
-    <value column="Description" isTrl="N" original="Calculate Freight Amount">Calculate Freight Amount</value>
-    <value column="Help" isTrl="N" original="Calculate Freight Amount">Calculate Freight Amount</value>
+    <value column="Name" isTrl="Y" original="Calculate Freight Amount">Рассчитать стоимость фрахта</value>
+    <value column="Description" isTrl="Y" original="Calculate Freight Amount">Рассчитать стоимость фрахта</value>
+    <value column="Help" isTrl="Y" original="Calculate Freight Amount">Рассчитать стоимость фрахта</value>
   </row>
-  <row id="800142" trl="N">
-    <value column="Name" isTrl="N" original="Process">Process</value>
-    <value column="Description" isTrl="N" original="Process">Process</value>
-    <value column="Help" isTrl="N" original="Process">Process</value>
+  <row id="800142" trl="Y">
+    <value column="Name" isTrl="Y" original="Process">Обработка</value>
+    <value column="Description" isTrl="Y" original="Process">Обработка</value>
+    <value column="Help" isTrl="Y" original="Process">Обработка</value>
   </row>
   <row id="800143" trl="N">
     <value column="Name" isTrl="N" original="Shipper Report">Shipper Report</value>
@@ -1047,7 +1045,7 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Help" isTrl="N" original="Shipper Report">Shipper Report</value>
   </row>
   <row id="800144" trl="N">
-    <value column="Name" isTrl="N" original="User Defined Accounting Report">User Defined Accounting Report</value>
+    <value column="Name" isTrl="Y" original="User Defined Accounting Report">Отчет по бухгалтерским счетам</value>
     <value column="Description" isTrl="N" original="Selects an accounting model to obtain its report.">Selects an accounting model to obtain its report.</value>
     <value column="Help" isTrl="N" original="Selects an accounting model to obtain its report.">Selects an accounting model to obtain its report.</value>
   </row>
@@ -1061,12 +1059,10 @@ Depending on the configuration of the Cost Center the process will also calculat
     <value column="Description" isTrl="N" original="Remittance printed">Remittance printed</value>
     <value column="Help" isTrl="N" original="Remittance printed">Remittance printed</value>
   </row>
-  <row id="800147" trl="N">
-    <value column="Name" isTrl="N" original="Delete Client">Delete Client</value>
-    <value column="Description" isTrl="N" original="This process deletes a client">This process deletes a client</value>
-    <value column="Help" isTrl="N" original="This process deletes a client and all of its data. This operation cannot be undone so please exercise caution.&#10;Under certain circumstances, this process fails to complete successfully, leaving the system in an inconsistent state that prevents it from working correctly. We strongly advise to backup your system before initiating this operation.&#10;This operation can take a long time to complete.">This process deletes a client and all of its data. This operation cannot be undone so please exercise caution.
-Under certain circumstances, this process fails to complete successfully, leaving the system in an inconsistent state that prevents it from working correctly. We strongly advise to backup your system before initiating this operation.
-This operation can take a long time to complete.</value>
+  <row id="800147" trl="Y">
+    <value column="Name" isTrl="Y" original="Delete Client">Удалить подключение</value>
+    <value column="Description" isTrl="Y" original="This process deletes a client">Эта обработка удаляет подключение</value>
+    <value column="Help" isTrl="Y" original="This process deletes a client and all of its data. This operation cannot be undone so please exercise caution.&#10;Under certain circumstances, this process fails to complete successfully, leaving the system in an inconsistent state that prevents it from working correctly. We strongly advise to backup your system before initiating this operation.&#10;This operation can take a long time to complete.">Эта обработка предназначена для удаления выбранного подключения и всех связанных с ним данных. Пожалуйста будьте осторожны, её выполнение нельзя прервать. Также при определённых условиях данная обработка может быть завершена с ошибками, что приведёт к неустойчивой работе всей системы. Мы настоятельно рекомендуем сделать резервную копию вашей системы до начала этой операции. Выполнение этой обработки может потребовать достаточно продолжительного времени.</value>
   </row>
   <row id="800148" trl="N">
     <value column="Name" isTrl="N" original="Offers Report">Offers Report</value>
@@ -1094,9 +1090,9 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="**Special**">**Special**</value>
   </row>
   <row id="800159" trl="N">
-    <value column="Name" isTrl="N" original="Generate Material Requisitions">Generate Material Requisitions</value>
-    <value column="Description" isTrl="N" original="Generate Material Requisitions">Generate Material Requisitions</value>
-    <value column="Help" isTrl="N" original="Generate Material Requisitions">Generate Material Requisitions</value>
+    <value column="Name" isTrl="Y" original="Generate Material Requisitions">Создать заявки на материалы</value>
+    <value column="Description" isTrl="Y" original="Generate Material Requisitions">Создать заявки на материалы</value>
+    <value column="Help" isTrl="Y" original="Generate Material Requisitions">Создать заявки на материалы</value>
   </row>
   <row id="800160" trl="N">
     <value column="Name" isTrl="N" original="Generate Work Requirements">Generate Work Requirements</value>
@@ -1124,19 +1120,19 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="Process Purchase Plan">Process Purchase Plan</value>
   </row>
   <row id="800168" trl="N">
-    <value column="Name" isTrl="N" original="Not Posted Transaction Report">Not Posted Transaction Report</value>
-    <value column="Description" isTrl="N" original="Not Posted Transaction Report">Not Posted Transaction Report</value>
+    <value column="Name" isTrl="Y" original="Not Posted Transaction Report">Отчёт по непроведённым операциям</value>
+    <value column="Description" isTrl="Y" original="Not Posted Transaction Report">Отчёт по непроведённым операциям</value>
     <value column="Help" isTrl="N" original="Not Posted Transaction Report list the transactions and/or documents in status &quot;Complete&quot; which are not already posted.">Not Posted Transaction Report list the transactions and/or documents in status "Complete" which are not already posted.</value>
   </row>
   <row id="800169" trl="N">
-    <value column="Name" isTrl="N" original="Create Tax Report">Create Tax Report</value>
-    <value column="Description" isTrl="N" original="Create Tax Report">Create Tax Report</value>
-    <value column="Help" isTrl="N" original="Create Tax Report">Create Tax Report</value>
+    <value column="Name" isTrl="Y" original="Create Tax Report">Создать отчёт по налогу</value>
+    <value column="Description" isTrl="Y" original="Create Tax Report">Создать отчёт по налогу</value>
+    <value column="Help" isTrl="Y" original="Create Tax Report">Создать отчёт по налогу</value>
   </row>
-  <row id="800170" trl="N">
-    <value column="Name" isTrl="N" original="Alert Process">Alert Process</value>
-    <value column="Description" isTrl="N" original="Alert Process">Alert Process</value>
-    <value column="Help" isTrl="N" original="AlertProcess">AlertProcess</value>
+  <row id="800170" trl="Y">
+    <value column="Name" isTrl="Y" original="Alert Process">Обработка предупреждений</value>
+    <value column="Description" isTrl="Y" original="Alert Process">Обработка предупреждений</value>
+    <value column="Help" isTrl="Y" original="AlertProcess">Обработка предупреждений</value>
   </row>
   <row id="800172" trl="N">
     <value column="Name" isTrl="N" original="Sales Report by Partner and Product">Sales Report by Partner and Product</value>
@@ -1159,8 +1155,8 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="Customer Invoice Report JR">Customer Invoice Report JR</value>
   </row>
   <row id="800176" trl="N">
-    <value column="Name" isTrl="N" original="Sales Order Report">Sales Order Report</value>
-    <value column="Description" isTrl="N" original="Sales Order Report">Sales Order Report</value>
+    <value column="Name" isTrl="Y" original="Sales Order Report">Отчет Заказы покупателя</value>
+    <value column="Description" isTrl="Y" original="Sales Order Report">Отчёт по заказам покупателя</value>
     <value column="Help" isTrl="N" original="Sales Order Report JR">Sales Order Report JR</value>
   </row>
   <row id="800177" trl="N">
@@ -1174,13 +1170,13 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="Orders Awaiting Invoice Report JR">Orders Awaiting Invoice Report JR</value>
   </row>
   <row id="800179" trl="N">
-    <value column="Name" isTrl="N" original="Expiration Date Report">Expiration Date Report</value>
-    <value column="Description" isTrl="N" original="Expiration Date Report">Expiration Date Report</value>
+    <value column="Name" isTrl="Y" original="Expiration Date Report">Отчет по сроку годности</value>
+    <value column="Description" isTrl="Y" original="Expiration Date Report">Отчет по сроку годности</value>
     <value column="Help" isTrl="N" original="Expiration Date Report JR">Expiration Date Report JR</value>
   </row>
   <row id="800180" trl="N">
-    <value column="Name" isTrl="N" original="Vendor Invoice Report">Vendor Invoice Report</value>
-    <value column="Description" isTrl="N" original="Report Invoice Vendor">Report Invoice Vendor</value>
+    <value column="Name" isTrl="Y" original="Vendor Invoice Report">Отчёт Счёт-фактуры поставщика</value>
+    <value column="Description" isTrl="Y" original="Report Invoice Vendor">Отчёт Счёт-фактуры поставщика</value>
     <value column="Help" isTrl="N" original="This report provides information about the total amount invoiced by each supplier within a given time period and for a given currency.">This report provides information about the total amount invoiced by each supplier within a given time period and for a given currency.</value>
   </row>
   <row id="800181" trl="N">
@@ -1205,7 +1201,7 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="Sales dimensional analyze JR">Sales dimensional analyze JR</value>
   </row>
   <row id="800185" trl="N">
-    <value column="Name" isTrl="N" original="Stock Report">Stock Report</value>
+    <value column="Name" isTrl="Y" original="Stock Report">Отчет Остатки товара</value>
     <value column="Description" isTrl="N" original="Customer Stock Report">Customer Stock Report</value>
     <value column="Help" isTrl="N" original="Stock Report shows a stock level of all products (that have quantity on hand different from zero) and their location (warehouse and storage bin) grouped by product category. For each row product, quantity, unit, attribute, shelves, column, height and warehouse">Stock Report shows a stock level of all products (that have quantity on hand different from zero) and their location (warehouse and storage bin) grouped by product category. For each row product, quantity, unit, attribute, shelves, column, height and warehouse</value>
   </row>
@@ -1290,7 +1286,7 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="This process will generate the amortization plan based on the depreciation method selected in the asset.">This process will generate the amortization plan based on the depreciation method selected in the asset.</value>
   </row>
   <row id="970EAD9B846648A7AB1F0CCA5058356C" trl="N">
-    <value column="Name" isTrl="N" original="Import Client">Import Client</value>
+    <value column="Name" isTrl="Y" original="Import Client">Импортировать подключение</value>
     <value column="Description" isTrl="N" original="Import a client from xml">Import a client from xml</value>
     <value column="Help" isTrl="N" original="Import a client and its data from a xml file">Import a client and its data from a xml file</value>
   </row>
@@ -1300,24 +1296,24 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="Updates a Org specific column of the product depending on the Pareto distribution">Updates a Org specific column of the product depending on the Pareto distribution</value>
   </row>
   <row id="9DB4D30BFC5144B9B431CB49DDE9270D" trl="N">
-    <value column="Name" isTrl="N" original="Kill Session">Kill Session</value>
+    <value column="Name" isTrl="Y" original="Kill Session">Разорвать сессию</value>
     <value column="Description" isTrl="N" original="Kill the selected session">Kill the selected session</value>
     <value column="Help" isTrl="N" original="Kills the selected session and logs the user out.">Kills the selected session and logs the user out.</value>
   </row>
   <row id="9EB2228A60684C0DBEC12D5CD8D85218" trl="N">
-    <value column="Name" isTrl="N" original="Calculate Promotions">Calculate Promotions</value>
+    <value column="Name" isTrl="Y" original="Calculate Promotions">Рассчитать промо-акцию</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Calculates and applies the promotions that can valid for the current document modifying final prices if any of them is applicable.">Calculates and applies the promotions that can valid for the current document modifying final prices if any of them is applicable.</value>
   </row>
   <row id="A34A85C161B342E0916642E86842086F" trl="N">
-    <value column="Name" isTrl="N" original="Export Reference Data">Export Reference Data</value>
+    <value column="Name" isTrl="Y" original="Export Reference Data">Экспорт набора данных</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="A3FE1F9892394386A49FB707AA50A0FA" trl="N">
-    <value column="Name" isTrl="N" original="Create Order">Create Order</value>
+  <row id="A3FE1F9892394386A49FB707AA50A0FA" trl="Y">
+    <value column="Name" isTrl="Y" original="Create Order">Создать Заказ</value>
     <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original="A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity. If the firm quote check box is not selected and the price list is modified after the quotation then the new prices will be reflected in the sales order or invoice">A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity. If the firm quote check box is not selected and the price list is modified after the quotation then the new prices will be reflected in the sales order or invoice</value>
+    <value column="Help" isTrl="Y" original="A firm quote establishes a commitment to the customer at a quoted price for a indicated quantity. If the firm quote check box is not selected and the price list is modified after the quotation then the new prices will be reflected in the sales order or invoice">Квота для покупателя устанавливает обязательство перед покупателем по реализации установленного количества товара по заявленной цене. Если не установлена квота покупателя, то в случае изменения прейскуранта после регистрации заявки покупателя товары в заказе или расходной счёт-фактуре будут отражены уже по новой цене.</value>
   </row>
   <row id="ABDFC8131D964936AD2EF7E0CED97FD9" trl="N">
     <value column="Name" isTrl="N" original="Update Actuals">Update Actuals</value>
@@ -1340,12 +1336,12 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="BB35E1D5CE2648EB8C955DD022E994DA" trl="N">
-    <value column="Name" isTrl="N" original="Instance Purpose Configuration">Instance Purpose Configuration</value>
+    <value column="Name" isTrl="Y" original="Instance Purpose Configuration">Настройка цели экземпляра Openbravo</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="BDB3B6FCA0AB453DB4E83503BAB82470" trl="N">
-    <value column="Name" isTrl="N" original="Apply Modules">Apply Modules</value>
+    <value column="Name" isTrl="Y" original="Apply Modules">Применить модули</value>
     <value column="Description" isTrl="N" original="This process apply all the installed modules">This process apply all the installed modules</value>
     <value column="Help" isTrl="N" original="This process applies all the installed modules. It loads the module definition in the database and generate and compiles the corresponding code.">This process applies all the installed modules. It loads the module definition in the database and generate and compiles the corresponding code.</value>
   </row>
@@ -1355,14 +1351,14 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="CD7283DF804B449C97DA09446669EEEF" trl="N">
-    <value column="Name" isTrl="N" original="Process Batch">Process Batch</value>
-    <value column="Description" isTrl="N" original="GL Journal Batch Process">GL Journal Batch Process</value>
-    <value column="Help" isTrl="N" original="GL Journal Batch Process">GL Journal Batch Process</value>
+    <value column="Name" isTrl="Y" original="Process Batch">Пакетная обраб.</value>
+    <value column="Description" isTrl="Y" original="GL Journal Batch Process">Пакетная обработка для журнала Главной книги</value>
+    <value column="Help" isTrl="Y" original="GL Journal Batch Process">Пакетная обработка для журнала Главной книги</value>
   </row>
-  <row id="D234AE084F7040DCB66E281A4237FF99" trl="N">
-    <value column="Name" isTrl="N" original="Customer Statement">Customer Statement</value>
-    <value column="Description" isTrl="N" original="Customer statement is a consolidated statement of every transaction of a customer posted to the ledger over a given period">Customer statement is a consolidated statement of every transaction of a customer posted to the ledger over a given period</value>
-    <value column="Help" isTrl="N" original="Customer statement is a consolidated statement of every transaction of a customer posted to the ledger over a given period">Customer statement is a consolidated statement of every transaction of a customer posted to the ledger over a given period</value>
+  <row id="D234AE084F7040DCB66E281A4237FF99" trl="Y">
+    <value column="Name" isTrl="Y" original="Customer Statement">Акт сверки</value>
+    <value column="Description" isTrl="Y" original="Customer statement is a consolidated statement of every transaction of a customer posted to the ledger over a given period">Акт сверки это консолидированный отчёт по каждой сделки с покупателем зарегестрированной в главной книге за указанный период.</value>
+    <value column="Help" isTrl="Y" original="Customer statement is a consolidated statement of every transaction of a customer posted to the ledger over a given period">Акт сверки это консолидированный отчёт по каждой сделки с покупателем зарегистрированной в главной книге за указанный период.</value>
   </row>
   <row id="D56220370A774B7FA51323BE3C6E0F22" trl="N">
     <value column="Name" isTrl="N" original="Create Payment in Advance">Create Payment in Advance</value>
@@ -1370,7 +1366,7 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="Create Payment in Advance">Create Payment in Advance</value>
   </row>
   <row id="D85D5B5E368A49B1A6293BA4AE15F0F9" trl="N">
-    <value column="Name" isTrl="N" original="Export Client">Export Client</value>
+    <value column="Name" isTrl="Y" original="Export Client">Экспорт подключения</value>
     <value column="Description" isTrl="N" original="Export a client to xml">Export a client to xml</value>
     <value column="Help" isTrl="N" original="Export a client to a xml file">Export a client to a xml file</value>
   </row>
@@ -1395,17 +1391,17 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="FB740AB61B0E42B198D2C88D3A0D0CE6" trl="N">
-    <value column="Name" isTrl="N" original="Update Payment Plan">Update Payment Plan</value>
+    <value column="Name" isTrl="Y" original="Update Payment Plan">Обновить график платежей</value>
     <value column="Description" isTrl="N" original="This process will update some details of the payment plan.">This process will update some details of the payment plan.</value>
     <value column="Help" isTrl="N" original="This process will update some details of the payment plan.">This process will update some details of the payment plan.</value>
   </row>
   <row id="FF80808133362F6A013336781FCE0066" trl="N">
-    <value column="Name" isTrl="N" original="Create Invoice">Create Invoice</value>
+    <value column="Name" isTrl="Y" original="Create Invoice">Создать счёт-фактуру</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="FF8081813219E68E013219ECFE930004" trl="N">
-    <value column="Name" isTrl="N" original="Create Product Copy">Create Product Copy</value>
+    <value column="Name" isTrl="Y" original="Create Product Copy">Создать копию товара</value>
     <value column="Description" isTrl="N" original="Create a product copied from the line product and insert a new line in the sequence using this new product created">Create a product copied from the line product and insert a new line in the sequence using this new product created</value>
     <value column="Help" isTrl="N" original="Create a product copied from the line product and insert a new line in the sequence using this new product created">Create a product copied from the line product and insert a new line in the sequence using this new product created</value>
   </row>
@@ -1420,7 +1416,7 @@ This operation can take a long time to complete.</value>
     <value column="Help" isTrl="N" original="Process to validate the work effort in Production Run Window. With this process the work effort is closed. Stocks are actualized and average costs are calculated">Process to validate the work effort in Production Run Window. With this process the work effort is closed. Stocks are actualized and average costs are calculated</value>
   </row>
   <row id="FF80818132A4F6AD0132A573DD7A0021" trl="N">
-    <value column="Name" isTrl="N" original="Create Standards">Create Standards</value>
+    <value column="Name" isTrl="Y" original="Create Standards">Создать стандарты</value>
     <value column="Description" isTrl="N" original="Inserts the standard values for the selected Work Requirement Phase and Cost Center version">Inserts the standard values for the selected Work Requirement Phase and Cost Center version</value>
     <value column="Help" isTrl="N" original="With this process the products involved on the selected work requirement phase will be inserted. If the phase is of global use all the used products (P-) will go to the global use tab and if it is of no quantity all the quantities will be zero.&#10;This process also inserts the correspondent machines, salary categories and indirect costs of the selected Cost Center version.&#10;If the Activity of the Work Requirement Phase uses toolsets they are also inserted.&#10;Depending on the configuration of the Cost Center the process will also calculate the Cost Center use.">With this process the products involved on the selected work requirement phase will be inserted. If the phase is of global use all the used products (P-) will go to the global use tab and if it is of no quantity all the quantities will be zero.
 This process also inserts the correspondent machines, salary categories and indirect costs of the selected Cost Center version.
@@ -1428,7 +1424,7 @@ If the Activity of the Work Requirement Phase uses toolsets they are also insert
 Depending on the configuration of the Cost Center the process will also calculate the Cost Center use.</value>
   </row>
   <row id="FF80818132C964E30132C9747257002E" trl="N">
-    <value column="Name" isTrl="N" original="Get Stock">Get Stock</value>
+    <value column="Name" isTrl="Y" original="Get Stock">Получить остатки</value>
     <value column="Description" isTrl="N" original="Insert the available stock prioritized by user defined rules into M_Stock_Proposed table.">Insert the available stock prioritized by user defined rules into M_Stock_Proposed table.</value>
     <value column="Help" isTrl="N" original="Insert the available stock prioritized by user defined rules into M_Stock_Proposed table.">Insert the available stock prioritized by user defined rules into M_Stock_Proposed table.</value>
   </row>

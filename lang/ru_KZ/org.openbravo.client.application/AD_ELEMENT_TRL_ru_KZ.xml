@@ -122,8 +122,8 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="31DCDECE67A34C418930D50405D8057D" trl="N">
-    <value column="Name" isTrl="N" original="Start in New Line">Start in New Line</value>
-    <value column="PrintName" isTrl="N" original="Startinnewline">Startinnewline</value>
+    <value column="Name" isTrl="Y" original="Start in New Line">Начать с новой строки</value>
+    <value column="PrintName" isTrl="Y" original="Startinnewline">Начать с новой строки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -152,8 +152,8 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="3C899452C68646A7A3E35A0CDCA8CA7A" trl="N">
-    <value column="Name" isTrl="N" original="Summary Function">Summary Function</value>
-    <value column="PrintName" isTrl="N" original="Summary Function">Summary Function</value>
+    <value column="Name" isTrl="Y" original="Summary Function">Функция статистики</value>
+    <value column="PrintName" isTrl="Y" original="Summary Function">Функция статистики</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Defines the summary function to use, valid values: sum, avg, max, min, count">Defines the summary function to use, valid values: sum, avg, max, min, count</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -162,8 +162,8 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="3F9E2C7B705C46ACADEDA8CF477FC9C5" trl="N">
-    <value column="Name" isTrl="N" original="New Function">New Function</value>
-    <value column="PrintName" isTrl="N" original="New Function">New Function</value>
+    <value column="Name" isTrl="Y" original="New Function">Новая функция</value>
+    <value column="PrintName" isTrl="Y" original="New Function">Новая функция</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original="Defines the function that will called when adding a new row to the grid">Defines the function that will called when adding a new row to the grid</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -182,8 +182,8 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="41A5FEDD70F140BF8438B8C8FA03B876" trl="N">
-    <value column="Name" isTrl="N" original="Validation Function">Validation Function</value>
-    <value column="PrintName" isTrl="N" original="Validation Function">Validation Function</value>
+    <value column="Name" isTrl="Y" original="Validation Function">Функция проверки</value>
+    <value column="PrintName" isTrl="Y" original="Validation Function">Функция проверки</value>
     <value column="Description" isTrl="N" original="Defines the function to be used as part of fields validatiors">Defines the function to be used as part of fields validatiors</value>
     <value column="Help" isTrl="N" original="By default a field have a set of validation functions, isNumber, isBoolean, etc. The developer can define a custom validator function to check the value entered by a the user.">By default a field have a set of validation functions, isNumber, isBoolean, etc. The developer can define a custom validator function to check the value entered by a the user.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -212,8 +212,8 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="4B3999F4700C4C93ABEA49C89A8E484E" trl="N">
-    <value column="Name" isTrl="N" original="Available for All Roles">Available for All Roles</value>
-    <value column="PrintName" isTrl="N" original="Available for All Roles">Available for All Roles</value>
+    <value column="Name" isTrl="Y" original="Available for All Roles">Доступно для всех ролей</value>
+    <value column="PrintName" isTrl="Y" original="Available for All Roles">Доступно для всех ролей</value>
     <value column="Description" isTrl="N" original="Defines that this navigation bar component is available to all roles or that role access is defined specifically by role.">Defines that this navigation bar component is available to all roles or that role access is defined specifically by role.</value>
     <value column="Help" isTrl="N" original="Defines that this navigation bar component is available to all roles or that role access is defined specifically by role through the navigation bar role access table.">Defines that this navigation bar component is available to all roles or that role access is defined specifically by role through the navigation bar role access table.</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -313,8 +313,8 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="6DBAB16113DB4879A0EA095E80FBA959" trl="N">
-    <value column="Name" isTrl="N" original="Can Delete">Can Delete</value>
-    <value column="PrintName" isTrl="N" original="Can Delete">Can Delete</value>
+    <value column="Name" isTrl="Y" original="Can Delete">Можно удалить</value>
+    <value column="PrintName" isTrl="Y" original="Can Delete">Можно удалить</value>
     <value column="Description" isTrl="N" original="Defines if a user is allowed to delete lines">Defines if a user is allowed to delete lines</value>
     <value column="Help" isTrl="N" original="Defines if a user is allowed to delete lines">Defines if a user is allowed to delete lines</value>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -393,7 +393,7 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="801D650DB70C49448DFD0E73C8EEF143" trl="N">
-    <value column="Name" isTrl="N" original="Show In Description">Show In Description</value>
+    <value column="Name" isTrl="Y" original="Show In Description">Отображать в описании</value>
     <value column="PrintName" isTrl="N" original="ATT_Showindescription">ATT_Showindescription</value>
     <value column="Description" isTrl="N" original="Defines if this parameter is relevant in Text column on C_File table.">Defines if this parameter is relevant in Text column on C_File table.</value>
     <value column="Help" isTrl="N" original="Defines if this parameter is relevant in Text column on C_File table.">Defines if this parameter is relevant in Text column on C_File table.</value>
@@ -423,8 +423,8 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="927E4DC3105D1526E040A8C0CF072A46" trl="N">
-    <value column="Name" isTrl="N" original="Fixed Value">Fixed Value</value>
-    <value column="PrintName" isTrl="N" original="Fixed Value">Fixed Value</value>
+    <value column="Name" isTrl="Y" original="Fixed Value">Фиксированное значение</value>
+    <value column="PrintName" isTrl="Y" original="Fixed Value">Фиксированное значение</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -433,8 +433,8 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="927E4DC3105F1526E040A8C0CF072A46" trl="N">
-    <value column="Name" isTrl="N" original="Parameter">Parameter</value>
-    <value column="PrintName" isTrl="N" original="Parameter">Parameter</value>
+    <value column="Name" isTrl="Y" original="Parameter">Параметр</value>
+    <value column="PrintName" isTrl="Y" original="Parameter">Параметр</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -453,8 +453,8 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="927FD512FEF6BBA9E040A8C0CF073D3C" trl="N">
-    <value column="Name" isTrl="N" original="Value Number">Value Number</value>
-    <value column="PrintName" isTrl="N" original="Value Number">Value Number</value>
+    <value column="Name" isTrl="Y" original="Value Number">Значение число</value>
+    <value column="PrintName" isTrl="Y" original="Value Number">Значение число</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -473,8 +473,8 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="927FD512FEFABBA9E040A8C0CF073D3C" trl="N">
-    <value column="Name" isTrl="N" original="Value Date">Value Date</value>
-    <value column="PrintName" isTrl="N" original="Value Date">Value Date</value>
+    <value column="Name" isTrl="Y" original="Value Date">Значение дата</value>
+    <value column="PrintName" isTrl="Y" original="Value Date">Значение дата</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>
@@ -483,8 +483,8 @@ The 'Compatibility with Legacy Grids' flag should only be checked if its handler
     <value column="PO_PrintName" isTrl="N" original=""/>
   </row>
   <row id="927FD512FEFCBBA9E040A8C0CF073D3C" trl="N">
-    <value column="Name" isTrl="N" original="Value String">Value String</value>
-    <value column="PrintName" isTrl="N" original="Value String">Value String</value>
+    <value column="Name" isTrl="Y" original="Value String">Значение строка</value>
+    <value column="PrintName" isTrl="Y" original="Value String">Значение строка</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
     <value column="PO_Description" isTrl="N" original=""/>

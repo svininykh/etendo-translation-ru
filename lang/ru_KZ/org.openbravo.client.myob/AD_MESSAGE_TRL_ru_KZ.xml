@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_MESSAGE" version="">
   <row id="01E166C76B5A49E5A321738145D112B2" trl="N">
-    <value column="MsgText" isTrl="N" original="Delete this widget?">Delete this widget?</value>
+    <value column="MsgText" isTrl="Y" original="Delete this widget?">Удалить этот виджет?</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="03D018ABB0414D18A1B60782C0DD1389" trl="N">
-    <value column="MsgText" isTrl="N" original="Admin Others">Admin Others</value>
+    <value column="MsgText" isTrl="Y" original="Admin Others">Прочие настройки</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="06E9344CB05A46F0BFEF458B0407002C" trl="N">
-    <value column="MsgText" isTrl="N" original="No widgets have been added.">No widgets have been added.</value>
+    <value column="MsgText" isTrl="Y" original="No widgets have been added.">Нет виджетов для добавления.</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="091F3DEA915E4A56A0F076513C33F2AE" trl="N">
-    <value column="MsgText" isTrl="N" original="Refresh">Refresh</value>
+    <value column="MsgText" isTrl="Y" original="Refresh">Обновить</value>
     <value column="MsgTip" isTrl="N" original="WMO: Widget Menu Option">WMO: Widget Menu Option</value>
   </row>
   <row id="0A3B691314614A099CFD4B599E937134" trl="N">
@@ -21,35 +21,35 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1547AA8E541249B1979258E8D5443594" trl="N">
-    <value column="MsgText" isTrl="N" original="Role">Role</value>
+    <value column="MsgText" isTrl="Y" original="Role">Роль</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="1EB68E2D11EF4404ADFB6470D052EB99" trl="N">
-    <value column="MsgText" isTrl="N" original="Value">Value</value>
+    <value column="MsgText" isTrl="Y" original="Value">Значение</value>
     <value column="MsgTip" isTrl="N" original="Label uses in the 'Admin Others' dialog's second combo">Label uses in the 'Admin Others' dialog's second combo</value>
   </row>
   <row id="2AEA0063724C4EB69EA7829F37CCACF4" trl="N">
-    <value column="MsgText" isTrl="N" original="Widget">Widget</value>
+    <value column="MsgText" isTrl="Y" original="Widget">Виджет</value>
     <value column="MsgTip" isTrl="N" original="Label uses in the 'Add Widget' dialog">Label uses in the 'Add Widget' dialog</value>
   </row>
   <row id="2E9BF9F5877342E7A56AF057AEB0C21F" trl="N">
-    <value column="MsgText" isTrl="N" original="Delete this widget">Delete this widget</value>
+    <value column="MsgText" isTrl="Y" original="Delete this widget">Удалить виджет</value>
     <value column="MsgTip" isTrl="N" original="WMO: Widget Menu Option">WMO: Widget Menu Option</value>
   </row>
   <row id="2F7CA97F29E54308A86908AB1D328EEF" trl="N">
-    <value column="MsgText" isTrl="N" original="Parameter Values">Parameter Values</value>
+    <value column="MsgText" isTrl="Y" original="Parameter Values">Значения параметра</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="3BD0E336B1D34CC8ABCF214ED7C6AD4B" trl="N">
-    <value column="MsgText" isTrl="N" original="Client">Client</value>
+    <value column="MsgText" isTrl="Y" original="Client">Подключение</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="44A806E26F1647F1A7A5D83A2D6F053D" trl="N">
-    <value column="MsgText" isTrl="N" original="Organization">Organization</value>
+    <value column="MsgText" isTrl="Y" original="Organization">Организация</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="46B38C05D7054F3E91EFE26B96153B26" trl="N">
-    <value column="MsgText" isTrl="N" original="Edit Parameters">Edit Parameters</value>
+    <value column="MsgText" isTrl="Y" original="Edit Parameters">Редактировать параметры</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="4D4433A442EB4F0C8DF2F2A57A8BBE31" trl="N">
@@ -57,7 +57,7 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="5461DD962C8B441FB02C1AC880642493" trl="N">
-    <value column="MsgText" isTrl="N" original="Add">Add</value>
+    <value column="MsgText" isTrl="Y" original="Add">Добавить</value>
     <value column="MsgTip" isTrl="N" original="This label is used in the 'Add Widget' Dialog">This label is used in the 'Add Widget' Dialog</value>
   </row>
   <row id="5B8E92850CA74EB2B17EEF4AC099032B" trl="N">
@@ -73,11 +73,11 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="68DF6DE9C5504710A6698DF1D3569374" trl="N">
-    <value column="MsgText" isTrl="N" original="Level">Level</value>
+    <value column="MsgText" isTrl="Y" original="Level">Уровень</value>
     <value column="MsgTip" isTrl="N" original="Label uses in the 'Admin Others' dialog's first combo">Label uses in the 'Admin Others' dialog's first combo</value>
   </row>
   <row id="6B3520F1A0F5415B9A8C5CA78D06AA75" trl="N">
-    <value column="MsgText" isTrl="N" original="System">System</value>
+    <value column="MsgText" isTrl="Y" original="System">Системный</value>
     <value column="MsgTip" isTrl="N" original="The label for System admin mode option">The label for System admin mode option</value>
   </row>
   <row id="6D9EC1A8E9204820A371B5CDD35E3570" trl="N">
@@ -85,27 +85,27 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="7EDEEA0AE0D74F37AE006AD9AB25D198" trl="N">
-    <value column="MsgText" isTrl="N" original="Manage Workspace">Manage Workspace</value>
+    <value column="MsgText" isTrl="Y" original="Manage Workspace">Управление рабочим столом</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="88A4B1F1CC734C139C60CDFD17028E35" trl="N">
-    <value column="MsgText" isTrl="N" original="Recent Views">Recent Views</value>
+    <value column="MsgText" isTrl="Y" original="Recent Views">Последние просмотры</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="95BB721B09B04ABA812A79BBB2AD9EBF" trl="N">
-    <value column="MsgText" isTrl="N" original="Publish">Publish</value>
+    <value column="MsgText" isTrl="Y" original="Publish">Опубликованный</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="9A0BD5C58B094E0884DD43D4281EDF06" trl="N">
-    <value column="MsgText" isTrl="N" original="Add Widget">Add Widget</value>
+    <value column="MsgText" isTrl="Y" original="Add Widget">Добавить виджет</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="9E19BE42AD6443D28196CC71DF96D0B2" trl="N">
-    <value column="MsgText" isTrl="N" original="Edit">Edit</value>
+    <value column="MsgText" isTrl="Y" original="Edit">Изменить</value>
     <value column="MsgTip" isTrl="N" original="Label uses in the 'Admin Others' button">Label uses in the 'Admin Others' button</value>
   </row>
   <row id="A1F6CE173F6F4C188FD66D5F23256F00" trl="N">
-    <value column="MsgText" isTrl="N" original="Edit Settings">Edit Settings</value>
+    <value column="MsgText" isTrl="Y" original="Edit Settings">Изменить параметры</value>
     <value column="MsgTip" isTrl="N" original="WMO: Widget Menu Option">WMO: Widget Menu Option</value>
   </row>
   <row id="B542D76D375D496F8BB8C684F306D359" trl="N">
@@ -117,7 +117,7 @@
     <value column="MsgTip" isTrl="N" original="Do not remove _level_ and _levelvalue_ are placeholders for a dynamic message">Do not remove _level_ and _levelvalue_ are placeholders for a dynamic message</value>
   </row>
   <row id="D51589640C7D4E488C3DE86C84B54DA4" trl="N">
-    <value column="MsgText" isTrl="N" original="Create New">Create New</value>
+    <value column="MsgText" isTrl="Y" original="Create New">Создать новый</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="D59B2FE26D0A40A5B40450B671A2F4E0" trl="N">
@@ -133,7 +133,7 @@
     <value column="MsgTip" isTrl="N" original="_level_ and _levelvalue_ are place holdes, do not remove from the message">_level_ and _levelvalue_ are place holdes, do not remove from the message</value>
   </row>
   <row id="E3D1B923F8E04C779E7D21999B43D709" trl="N">
-    <value column="MsgText" isTrl="N" original="Community instances are not allowed to move down default Widget Instances delivered by Etendo">Community instances are not allowed to move down default Widget Instances delivered by Etendo</value>
+    <value column="MsgText" isTrl="Y" original="Community instances are not allowed to move down default Widget Instances delivered by Etendo">Community instances are not allowed to move down default Widget Instances delivered by Openbravo</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="F074D98ECE654C8A9D8D9B39AA81CFD3" trl="N">
@@ -149,83 +149,83 @@
     <value column="MsgTip" isTrl="N" original="Title of a dialog to the user">Title of a dialog to the user</value>
   </row>
   <row id="FF808081304A113601304A69D3300065" trl="N">
-    <value column="MsgText" isTrl="N" original="Learn More">Learn More</value>
+    <value column="MsgText" isTrl="Y" original="Learn More">Узнать больше</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14EAAEB40011" trl="N">
-    <value column="MsgText" isTrl="N" original="About">About</value>
+    <value column="MsgText" isTrl="Y" original="About">Описание</value>
     <value column="MsgTip" isTrl="N" original="WMO: Widget Menu Option">WMO: Widget Menu Option</value>
   </row>
   <row id="FF8081812E14E58B012E14EC708B002C" trl="N">
-    <value column="MsgText" isTrl="N" original="Widget">Widget</value>
+    <value column="MsgText" isTrl="Y" original="Widget">Виджет</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14ED0DF50035" trl="N">
-    <value column="MsgText" isTrl="N" original="Parent Module">Parent Module</value>
+    <value column="MsgText" isTrl="Y" original="Parent Module">Родительский модуль</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14EDBD4F0044" trl="N">
-    <value column="MsgText" isTrl="N" original="Widget Title">Widget Title</value>
+    <value column="MsgText" isTrl="Y" original="Widget Title">Заголовок виджета</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14EE1780004B" trl="N">
-    <value column="MsgText" isTrl="N" original="Widget Superclass">Widget Superclass</value>
+    <value column="MsgText" isTrl="Y" original="Widget Superclass">Супер класс виджета</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14EE71E30052" trl="N">
-    <value column="MsgText" isTrl="N" original="Author Message">Author Message</value>
+    <value column="MsgText" isTrl="Y" original="Author Message">Сообщение автора</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14EECF460059" trl="N">
-    <value column="MsgText" isTrl="N" original="Data Access Level">Data Access Level</value>
+    <value column="MsgText" isTrl="Y" original="Data Access Level">Уровень доступа к данным</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14EF26E20060" trl="N">
-    <value column="MsgText" isTrl="N" original="Author URL">Author URL</value>
+    <value column="MsgText" isTrl="Y" original="Author URL">URL автора</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14EF8D5E0067" trl="N">
-    <value column="MsgText" isTrl="N" original="Enabled For All Users">Enabled For All Users</value>
+    <value column="MsgText" isTrl="Y" original="Enabled For All Users">Доступно всем пользователям</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14EFDA22006E" trl="N">
-    <value column="MsgText" isTrl="N" original="Widget Description">Widget Description</value>
+    <value column="MsgText" isTrl="Y" original="Widget Description">Описание виджета</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14F038030075" trl="N">
-    <value column="MsgText" isTrl="N" original="Module Name">Module Name</value>
+    <value column="MsgText" isTrl="Y" original="Module Name">Название модуля</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14F08F5A007C" trl="N">
-    <value column="MsgText" isTrl="N" original="License Type">License Type</value>
+    <value column="MsgText" isTrl="Y" original="License Type">Тип лицензии</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14F0DB090083" trl="N">
-    <value column="MsgText" isTrl="N" original="Module Version">Module Version</value>
+    <value column="MsgText" isTrl="Y" original="Module Version">Версия модуля</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14F11F84008A" trl="N">
-    <value column="MsgText" isTrl="N" original="Update Information">Update Information</value>
+    <value column="MsgText" isTrl="Y" original="Update Information">Обновить информацию</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14F175840091" trl="N">
-    <value column="MsgText" isTrl="N" original="Maturity Status">Maturity Status</value>
+    <value column="MsgText" isTrl="Y" original="Maturity Status">Статус готовности</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14F1C0D00098" trl="N">
-    <value column="MsgText" isTrl="N" original="License Text">License Text</value>
+    <value column="MsgText" isTrl="Y" original="License Text">Текст лицензии</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14F2151A009F" trl="N">
-    <value column="MsgText" isTrl="N" original="Java Package">Java Package</value>
+    <value column="MsgText" isTrl="Y" original="Java Package">Пакет Java</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14F25BC100A6" trl="N">
-    <value column="MsgText" isTrl="N" original="Author">Author</value>
+    <value column="MsgText" isTrl="Y" original="Author">Автор</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14F2A85F00AD" trl="N">
-    <value column="MsgText" isTrl="N" original="Type">Type</value>
+    <value column="MsgText" isTrl="Y" original="Type">Тип</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E14E58B012E14F2ED5300B4" trl="N">
@@ -233,11 +233,11 @@
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF8081812E9F4334012E9F4645BF0007" trl="N">
-    <value column="MsgText" isTrl="N" original="Recent Documents">Recent Documents</value>
+    <value column="MsgText" isTrl="Y" original="Recent Documents">Последние документы</value>
     <value column="MsgTip" isTrl="N" original=""/>
   </row>
   <row id="FF80818131E162F30131E16910BF0003" trl="N">
-    <value column="MsgText" isTrl="N" original="Instance Purpose">Instance Purpose</value>
-    <value column="MsgTip" isTrl="N" original="Instance Purpose">Instance Purpose</value>
+    <value column="MsgText" isTrl="Y" original="Instance Purpose">Цели экземпляра Openbravo</value>
+    <value column="MsgTip" isTrl="Y" original="Instance Purpose">Цели экземпляра Openbravo</value>
   </row>
 </compiereTrl>

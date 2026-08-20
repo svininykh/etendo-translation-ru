@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_FORM" version="">
   <row id="100" trl="N">
-    <value column="Name" isTrl="N" original="Create Invoices from Orders">Create Invoices from Orders</value>
+    <value column="Name" isTrl="Y" original="Create Invoices from Orders">Создать счёт-фактуры по заказам</value>
     <value column="Description" isTrl="N" original="Create invoices for all processed sales orders/goods shipments that have not been invoiced.">Create invoices for all processed sales orders/goods shipments that have not been invoiced.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1003100000" trl="N">
-    <value column="Name" isTrl="N" original="Session Preferences">Session Preferences</value>
+    <value column="Name" isTrl="Y" original="Session Preferences">Параметры сессии</value>
     <value column="Description" isTrl="N" original="View session information and set certain system settings.">View session information and set certain system settings.</value>
     <value column="Help" isTrl="N" original="Session preferences allow showing or hiding accounting tabs or translation tabs for a given user, role, client and organization.">Session preferences allow showing or hiding accounting tabs or translation tabs for a given user, role, client and organization.</value>
   </row>
   <row id="1003100002" trl="N">
-    <value column="Name" isTrl="N" original="Session Variables">Session Variables</value>
+    <value column="Name" isTrl="Y" original="Session Variables">Переменные сессии</value>
     <value column="Description" isTrl="N" original="View and set session variables.">View and set session variables.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1004400000" trl="N">
-    <value column="Name" isTrl="N" original="Requisition To Order">Requisition To Order</value>
+    <value column="Name" isTrl="Y" original="Requisition To Order">Заказ по заявке</value>
     <value column="Description" isTrl="N" original="Create a Purchase Order from Requisition lines.">Create a Purchase Order from Requisition lines.</value>
     <value column="Help" isTrl="N" original="Procurement management team can use this window to manage &quot;Completed&quot; requisitions all at once.">Procurement management team can use this window to manage "Completed" requisitions all at once.</value>
   </row>
   <row id="1005800001" trl="N">
-    <value column="Name" isTrl="N" original="Heartbeat">Heartbeat</value>
-    <value column="Description" isTrl="N" original="Heartbeat pop-up window">Heartbeat pop-up window</value>
+    <value column="Name" isTrl="Y" original="Heartbeat">Кардиограмма</value>
+    <value column="Description" isTrl="Y" original="Heartbeat pop-up window">Всплывающее окно Кардиограммы</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="102" trl="N">
-    <value column="Name" isTrl="N" original="Initial Client Setup">Initial Client Setup</value>
+    <value column="Name" isTrl="Y" original="Initial Client Setup">Начальные параметры подключения</value>
     <value column="Description" isTrl="N" original="Create a new empty client from scratch.">Create a new empty client from scratch.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="110" trl="N">
-    <value column="Name" isTrl="N" original="Create Shipments from Orders">Create Shipments from Orders</value>
+    <value column="Name" isTrl="Y" original="Create Shipments from Orders">Создать накладные отгрузки по заказам покупателя</value>
     <value column="Description" isTrl="N" original="Create shipments for all processed sales orders that fit the criteria and the parameters specified.">Create shipments for all processed sales orders that fit the criteria and the parameters specified.</value>
     <value column="Help" isTrl="N" original="Generate Shipments manually&lt;hints id=&quot;hah_hints&quot; /&gt;">Generate Shipments manually&lt;hints id="hah_hints" /&gt;</value>
   </row>
   <row id="12D4CE60E8694097829C8FBBDBD503C4" trl="N">
-    <value column="Name" isTrl="N" original="Audit Trail">Audit Trail</value>
+    <value column="Name" isTrl="Y" original="Audit Trail">Метки аудита</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="25C886DA08E947F29AAC1D30D8B753A1" trl="N">
-    <value column="Name" isTrl="N" original="Module Management">Module Management</value>
+    <value column="Name" isTrl="Y" original="Module Management">Управление модулями</value>
     <value column="Description" isTrl="N" original="Mangament for installed modules">Mangament for installed modules</value>
-    <value column="Help" isTrl="N" original="&#10;Use Module Management to browse the currently installed modules, to check for updates to installed modules and search for new modules to install.&#10;&lt;div class=&quot;HelpItems&quot;&gt;&#10;&lt;h3&gt;&lt;a name=&quot;installed&quot;&gt;Installed Modules&lt;/a&gt;&lt;/h3&gt;&#10;&lt;span&gt;View the details of currently installed modules. You can also find updates to installed modules. Uninstall installed modules, disable or enable modules and rebuild the system after installing/uninstalling a module.&lt;/span&gt;&#10;&lt;h3&gt;&lt;a name=&quot;add&quot;&gt;Add Modules&lt;/a&gt;&lt;/h3&gt;&#10;&lt;span&gt;Search for a specific module, or browse all available modules in the Central Repository. You can also browse for modules from the file system. Click Install Now to install a module.&lt;/span&gt;&#10;&lt;h3&gt;&lt;a name=&quot;history&quot;&gt;Installation History&lt;/a&gt;&lt;/h3&gt;&#10;&lt;span&gt;View the history of module installations/uninstallations and errors that may have occurred during these processes.&lt;/span&gt;&#10;&lt;h3&gt;&lt;a name=&quot;history&quot;&gt;System Rebuild&lt;/a&gt;&lt;/h3&gt;&#10;&lt;span&gt;After installing or uninstalling a module, you must rebulid the application and restart the application context for any changes to take effect. &lt;a target=&quot;_blank&quot; href=&quot;http://wiki.openbravo.com/wiki/Modules_Management#Rebuild&quot;&gt;Learn how to do it&lt;/a&gt;&lt;/span&gt;&#10;&lt;/div&gt;">
+    <value column="Help" isTrl="Y" original="&#10;Use Module Management to browse the currently installed modules, to check for updates to installed modules and search for new modules to install.&#10;&lt;div class=&quot;HelpItems&quot;&gt;&#10;&lt;h3&gt;&lt;a name=&quot;installed&quot;&gt;Installed Modules&lt;/a&gt;&lt;/h3&gt;&#10;&lt;span&gt;View the details of currently installed modules. You can also find updates to installed modules. Uninstall installed modules, disable or enable modules and rebuild the system after installing/uninstalling a module.&lt;/span&gt;&#10;&lt;h3&gt;&lt;a name=&quot;add&quot;&gt;Add Modules&lt;/a&gt;&lt;/h3&gt;&#10;&lt;span&gt;Search for a specific module, or browse all available modules in the Central Repository. You can also browse for modules from the file system. Click Install Now to install a module.&lt;/span&gt;&#10;&lt;h3&gt;&lt;a name=&quot;history&quot;&gt;Installation History&lt;/a&gt;&lt;/h3&gt;&#10;&lt;span&gt;View the history of module installations/uninstallations and errors that may have occurred during these processes.&lt;/span&gt;&#10;&lt;h3&gt;&lt;a name=&quot;history&quot;&gt;System Rebuild&lt;/a&gt;&lt;/h3&gt;&#10;&lt;span&gt;After installing or uninstalling a module, you must rebulid the application and restart the application context for any changes to take effect. &lt;a target=&quot;_blank&quot; href=&quot;http://wiki.openbravo.com/wiki/Modules_Management#Rebuild&quot;&gt;Learn how to do it&lt;/a&gt;&lt;/span&gt;&#10;&lt;/div&gt;">
 Use Module Management to browse the currently installed modules, to check for updates to installed modules and search for new modules to install.
 &lt;div class="HelpItems"&gt;
 &lt;h3&gt;&lt;a name="installed"&gt;Installed Modules&lt;/a&gt;&lt;/h3&gt;
@@ -53,8 +53,11 @@ Use Module Management to browse the currently installed modules, to check for up
 &lt;h3&gt;&lt;a name="history"&gt;Installation History&lt;/a&gt;&lt;/h3&gt;
 &lt;span&gt;View the history of module installations/uninstallations and errors that may have occurred during these processes.&lt;/span&gt;
 &lt;h3&gt;&lt;a name="history"&gt;System Rebuild&lt;/a&gt;&lt;/h3&gt;
-&lt;span&gt;After installing or uninstalling a module, you must rebulid the application and restart the application context for any changes to take effect. &lt;a target="_blank" href="http://wiki.openbravo.com/wiki/Modules_Management#Rebuild"&gt;Learn how to do it&lt;/a&gt;&lt;/span&gt;
-&lt;/div&gt;</value>
+&lt;span&gt;After installing or uninstalling a module, you must restart the application context for any changes to take effect.&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;&lt;a name="restart"&gt;Restart server:&lt;/a&gt;&lt;/b&gt; Restarts the application server and launches the login screen.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;a name="nothing"&gt;Take no action:&lt;/a&gt;&lt;/b&gt; Select if you intend to restart the server or reload the application manually, later.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</value>
   </row>
   <row id="800002" trl="N">
     <value column="Name" isTrl="N" original="Payments Selection (Bank)">Payments Selection (Bank)</value>
@@ -67,32 +70,32 @@ Use Module Management to browse the currently installed modules, to check for up
     <value column="Help" isTrl="N" original="The G/L Posting by DB Table allows to massively post the transactions related to a given transactional table or to all of them.">The G/L Posting by DB Table allows to massively post the transactions related to a given transactional table or to all of them.</value>
   </row>
   <row id="800007" trl="N">
-    <value column="Name" isTrl="N" original="Background Process">Background Process</value>
+    <value column="Name" isTrl="Y" original="Background Process">Обработка по фону</value>
     <value column="Description" isTrl="N" original="Edit predefined processes made by the user.">Edit predefined processes made by the user.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800009" trl="N">
-    <value column="Name" isTrl="N" original="Pending Goods Receipts">Pending Goods Receipts</value>
+    <value column="Name" isTrl="Y" original="Pending Goods Receipts">Ожидаемые товары по заказам</value>
     <value column="Description" isTrl="N" original="This window provides a view of the order lines pending to be received and a process to automatically create goods receipt/s for the ones received.">This window provides a view of the order lines pending to be received and a process to automatically create goods receipt/s for the ones received.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800011" trl="N">
-    <value column="Name" isTrl="N" original="SQL Query">SQL Query</value>
-    <value column="Description" isTrl="N" original="Execute SQL query and view results within the Etendo application.">Execute SQL query and view results within the Etendo application.</value>
+    <value column="Name" isTrl="Y" original="SQL Query">SQL запрос</value>
+    <value column="Description" isTrl="Y" original="Execute SQL query and view results within the Etendo application.">Execute SQL query and view results within the Openbravo application.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="800014" trl="N">
-    <value column="Name" isTrl="N" original="Import/Export Translations">Import/Export Translations</value>
-    <value column="Description" isTrl="N" original="Import or export localizations.">Import or export localizations.</value>
+  <row id="800014" trl="Y">
+    <value column="Name" isTrl="Y" original="Import/Export Translations">Импорт/Экспорт переводов</value>
+    <value column="Description" isTrl="Y" original="Import or export localizations.">Импортировать или экспортировать перевод интерфейса.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800015" trl="N">
-    <value column="Name" isTrl="N" original="About">About</value>
+    <value column="Name" isTrl="Y" original="About">Описание</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="800016" trl="N">
-    <value column="Name" isTrl="N" original="Alert Management">Alert Management</value>
+    <value column="Name" isTrl="Y" original="Alert Management">Управление предупреждениями</value>
     <value column="Description" isTrl="N" original="Edit predefined alerts made by the user.">Edit predefined alerts made by the user.</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -108,16 +111,16 @@ Use Module Management to browse the currently installed modules, to check for up
   </row>
   <row id="8D6282279F464B1696B0EE3E23023B65" trl="N">
     <value column="Name" isTrl="N" original="Instance Activation">Instance Activation</value>
-    <value column="Description" isTrl="N" original="Manage current instance (old)">Manage current instance (old)</value>
+    <value column="Description" isTrl="Y" original="Manage current instance (old)">Manage current instance</value>
     <value column="Help" isTrl="N" original="Manage current instance, it allows to activate the instance.">Manage current instance, it allows to activate the instance.</value>
   </row>
   <row id="C09B000F160B47BE938A77FDE3207643" trl="N">
-    <value column="Name" isTrl="N" original="Enterprise module management">Enterprise module management</value>
+    <value column="Name" isTrl="Y" original="Enterprise module management">Управление модулями организации</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="DE2329ABCAA84D5F99B59043CFFFE454" trl="N">
-    <value column="Name" isTrl="N" original="Initial organization setup">Initial organization setup</value>
+    <value column="Name" isTrl="Y" original="Initial organization setup">Начальные параметры организации</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

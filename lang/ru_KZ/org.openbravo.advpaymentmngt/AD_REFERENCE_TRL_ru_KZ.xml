@@ -11,17 +11,17 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1221BEA5C19F4FA89D3565CA8877A82E" trl="N">
-    <value column="Name" isTrl="N" original="Organization Selector">Organization Selector</value>
+    <value column="Name" isTrl="Y" original="Organization Selector">Выбор организации</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="125FEBA3F9E841FF928C2D13F33540EC" trl="N">
-    <value column="Name" isTrl="N" original="Match Type">Match Type</value>
+    <value column="Name" isTrl="Y" original="Match Type">Тип сверки</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1543EE40981840C3929CBC16320FE155" trl="N">
-    <value column="Name" isTrl="N" original="Add Payment Transaction Type">Add Payment Transaction Type</value>
+    <value column="Name" isTrl="Y" original="Add Payment Transaction Type">Добавить тип операции платежа</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -31,7 +31,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="1A6C5E0A5868417786ECCF3C02B17D65" trl="N">
-    <value column="Name" isTrl="N" original="GL Item selector">GL Item selector</value>
+    <value column="Name" isTrl="Y" original="GL Item selector">Выбор проводки Г/К</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>
@@ -191,7 +191,7 @@
     <value column="Help" isTrl="N" original=""/>
   </row>
   <row id="F378D8FAEF9441F29D3974ADE211BF98" trl="N">
-    <value column="Name" isTrl="N" original="Payment Method Selector">Payment Method Selector</value>
+    <value column="Name" isTrl="Y" original="Payment Method Selector">Выбор способа оплаты</value>
     <value column="Description" isTrl="N" original=""/>
     <value column="Help" isTrl="N" original=""/>
   </row>

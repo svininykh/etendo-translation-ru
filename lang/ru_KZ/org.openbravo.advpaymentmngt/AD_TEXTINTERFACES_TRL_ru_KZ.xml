@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_TEXTINTERFACES" version="">
   <row id="053D4ECDDD664B65AF752FDF72B459F0" trl="N">
-    <value column="Text" isTrl="N" original="Details">Details</value>
+    <value column="Text" isTrl="Y" original="Details">Детализация</value>
   </row>
   <row id="15A3F36895F54DD2986C2A0E3790CBB0" trl="N">
     <value column="Text" isTrl="N" original="Ending Balance">Ending Balance</value>
@@ -10,40 +10,40 @@
     <value column="Text" isTrl="N" original="Hide cleared">Hide cleared</value>
   </row>
   <row id="2166D682A6024E839AD674C2E9624C37" trl="N">
-    <value column="Text" isTrl="N" original="Payment In/Out Ref.">Payment In/Out Ref.</value>
+    <value column="Text" isTrl="Y" original="Payment In/Out Ref.">Поступление/Выплата ссылка</value>
   </row>
   <row id="37B32EEA0B6C4342B63602C168810F8B" trl="N">
     <value column="Text" isTrl="N" original="(this is the result of the last reconciliation)">(this is the result of the last reconciliation)</value>
   </row>
   <row id="37E1FD8CD50B4835B9D0C3679B7C447F" trl="N">
-    <value column="Text" isTrl="N" original="Clear all">Clear all</value>
+    <value column="Text" isTrl="Y" original="Clear all">Очистить всё</value>
   </row>
   <row id="484BD487D11C43D194DC141355466F64" trl="N">
     <value column="Text" isTrl="N" original="Statement Date">Statement Date</value>
   </row>
   <row id="4D520EE7612540089C5572934EC3C11F" trl="N">
-    <value column="Text" isTrl="N" original="Cleared">Cleared</value>
+    <value column="Text" isTrl="Y" original="Cleared">Очищено</value>
   </row>
   <row id="61655846581A4E85A62483FFD1550C0B" trl="N">
     <value column="Text" isTrl="N" original="Difference to clear">Difference to clear</value>
   </row>
   <row id="62BA1CFBB74F40A8A7FABBE150773580" trl="N">
-    <value column="Text" isTrl="N" original="This process will generate payments">This process will generate payments</value>
+    <value column="Text" isTrl="Y" original="This process will generate payments">Эта обработка генерирует платежи</value>
   </row>
   <row id="667D14BAF0EA47AB8E81C911C4059D02" trl="N">
     <value column="Text" isTrl="N" original="Reconciliation Report Summary">Reconciliation Report Summary</value>
   </row>
   <row id="67711D5EF7E94630BACE0DD8020EEAE1" trl="N">
-    <value column="Text" isTrl="N" original="Import Bank File">Import Bank File</value>
+    <value column="Text" isTrl="Y" original="Import Bank File">Импорт файла банка</value>
   </row>
   <row id="6DD60FD81F5B4D17A5101D7BFED7E910" trl="N">
     <value column="Text" isTrl="N" original="Reconciliation">Reconciliation</value>
   </row>
   <row id="8410F4A3878C872EE040007F010014BF" trl="N">
-    <value column="Text" isTrl="N" original="Bank File">Bank File</value>
+    <value column="Text" isTrl="Y" original="Bank File">Файл банка</value>
   </row>
   <row id="8410F4A3878E872EE040007F010014BF" trl="N">
-    <value column="Text" isTrl="N" original="File Format">File Format</value>
+    <value column="Text" isTrl="Y" original="File Format">Формат файла</value>
   </row>
   <row id="8410F4EF23F651ADE040007F0100150D" trl="N">
     <value column="Text" isTrl="N" original="Total Outstanding Deposits">Total Outstanding Deposits</value>
@@ -64,13 +64,13 @@
     <value column="Text" isTrl="N" original="GL Item Differences">GL Item Differences</value>
   </row>
   <row id="8F869C21DCF14031BC01CCD9D158190E" trl="N">
-    <value column="Text" isTrl="N" original="for">for</value>
+    <value column="Text" isTrl="Y" original="for">для</value>
   </row>
   <row id="91709F28D5A5483782CBF452932312C9" trl="N">
-    <value column="Text" isTrl="N" original="Paid out">Paid out</value>
+    <value column="Text" isTrl="Y" original="Paid out">Выплата</value>
   </row>
   <row id="9370255AD32E4EED889DEFDCBBD48646" trl="N">
-    <value column="Text" isTrl="N" original="Action">Action</value>
+    <value column="Text" isTrl="Y" original="Action">Действие</value>
   </row>
   <row id="949AA49A4D7C6BEAE040007F0100565C" trl="N">
     <value column="Text" isTrl="N" original="Account Balance In Openbravo">Account Balance In Openbravo</value>
@@ -97,16 +97,16 @@
     <value column="Text" isTrl="N" original="Total Un-reconciled Bank Statement Lines">Total Un-reconciled Bank Statement Lines</value>
   </row>
   <row id="95638A97B31045FCE040007F01000E19" trl="N">
-    <value column="Text" isTrl="N" original="Reconcile">Reconcile</value>
+    <value column="Text" isTrl="Y" original="Reconcile">Согласовать</value>
   </row>
   <row id="972DE4AEBFD54C43B8042F289015F5FF" trl="N">
-    <value column="Text" isTrl="N" original="Beginning Balance">Beginning Balance</value>
+    <value column="Text" isTrl="Y" original="Beginning Balance">Начальный баланс</value>
   </row>
   <row id="9C14EE536A664AEEB16CCB3FF177A121" trl="N">
     <value column="Text" isTrl="N" original="Hide Transactions after statement date">Hide Transactions after statement date</value>
   </row>
   <row id="A16D40CBB17E473799C90DD16E9EC7F0" trl="N">
-    <value column="Text" isTrl="N" original="Received in">Received in</value>
+    <value column="Text" isTrl="Y" original="Received in">Поступление</value>
   </row>
   <row id="A8C9A7A0B28D4C94B22CD692E33136CC" trl="N">
     <value column="Text" isTrl="N" original="Currently cleared">Currently cleared</value>

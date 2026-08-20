@@ -13,11 +13,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="25889363327D44FC851D97EA78F6BCFC" trl="N">
-    <value column="Name" isTrl="N" original="Process Made Payment(s) and Withdrawal">Process Made Payment(s) and Withdrawal</value>
-    <value column="Description" isTrl="N" original="Process Made Payment(s) and Withdrawal">Process Made Payment(s) and Withdrawal</value>
+    <value column="Name" isTrl="Y" original="Process Made Payment(s) and Withdrawal">Провести платёж(и) и выплату</value>
+    <value column="Description" isTrl="Y" original="Process Made Payment(s) and Withdrawal">Провести платёж(и) и выплату</value>
   </row>
   <row id="2C34F10F111E4645B26445502193CC7D" trl="N">
-    <value column="Name" isTrl="N" original="Orders">Orders</value>
+    <value column="Name" isTrl="Y" original="Orders">Заказы</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="3F087596A0A14DE5BAECAD211AB393BA" trl="N">
@@ -49,11 +49,11 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="57103E10E8484EBD9EE0428575197985" trl="N">
-    <value column="Name" isTrl="N" original="Order">Order</value>
+    <value column="Name" isTrl="Y" original="Order">Заказ</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="574F85B3E7A047CDAA7C3E192366D2C6" trl="N">
-    <value column="Name" isTrl="N" original="Invoices">Invoices</value>
+    <value column="Name" isTrl="Y" original="Invoices">Счета-фактуры</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="5B87C97B045D4CC8B09F6578A305D826" trl="N">
@@ -89,8 +89,8 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="7AC4F4FF644247B7BD320BBF67C4F066" trl="N">
-    <value column="Name" isTrl="N" original="Process Received Payment(s)">Process Received Payment(s)</value>
-    <value column="Description" isTrl="N" original="Process Received Payment(s)">Process Received Payment(s)</value>
+    <value column="Name" isTrl="Y" original="Process Received Payment(s)">Провести поступление платёжа(ей)</value>
+    <value column="Description" isTrl="Y" original="Process Received Payment(s)">Провести поступление платёжа(ей)</value>
   </row>
   <row id="94334E10107D4F3C868191FF2C9AEAD0" trl="N">
     <value column="Name" isTrl="N" original="Unmatch Selected">Unmatch Selected</value>
@@ -109,12 +109,12 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="A86E37A9B86C4EF4821E12765C04E525" trl="N">
-    <value column="Name" isTrl="N" original="Order">Order</value>
+    <value column="Name" isTrl="Y" original="Order">Заказ</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="C0D9FAD1047343BAA53AF6F60D572DD0" trl="N">
-    <value column="Name" isTrl="N" original="Process Received Payment(s) and Deposit">Process Received Payment(s) and Deposit</value>
-    <value column="Description" isTrl="N" original="Process Received Payment(s) and Deposit">Process Received Payment(s) and Deposit</value>
+    <value column="Name" isTrl="Y" original="Process Received Payment(s) and Deposit">Провести поступление платёжа(ей) и пополнение</value>
+    <value column="Description" isTrl="Y" original="Process Received Payment(s) and Deposit">Провести поступление платёжа(ей) и пополнение</value>
   </row>
   <row id="C219A5CC3FFD48FDBD00845200E3E33C" trl="N">
     <value column="Name" isTrl="N" original="Auto">Auto</value>
@@ -145,7 +145,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="E20CDC34CA3C43D39A25855EF6D1D37B" trl="N">
-    <value column="Name" isTrl="N" original="Manual">Manual</value>
+    <value column="Name" isTrl="Y" original="Manual">Вручную</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="EC3A644549FE409D92BB8FDAB394E50C" trl="N">
@@ -157,7 +157,7 @@
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FD081D76045444C691F7E1D40060486C" trl="N">
-    <value column="Name" isTrl="N" original="Orders and Invoices">Orders and Invoices</value>
+    <value column="Name" isTrl="Y" original="Orders and Invoices">Заказы и счет-фактуры</value>
     <value column="Description" isTrl="N" original=""/>
   </row>
   <row id="FF8080812E443491012E443C4ED60020" trl="N">
