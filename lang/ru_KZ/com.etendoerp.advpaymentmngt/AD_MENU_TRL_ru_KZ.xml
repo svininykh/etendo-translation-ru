@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_MENU" version="">
+  <row id="5EAFFA3FB3464A8191E6C1CB2929197D" trl="N">
+    <value column="Name" isTrl="N" original="Payment Execution">Payment Execution</value>
+    <value column="Description" isTrl="N" original="This window allows payment execution management for payments in status &quot;awaiting execution&quot;.">This window allows payment execution management for payments in status "awaiting execution".</value>
+  </row>
+</compiereTrl>

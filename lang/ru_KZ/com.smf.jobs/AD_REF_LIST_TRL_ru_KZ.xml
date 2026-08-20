@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_REF_LIST" version="">
+  <row id="0E56637F81E84F3089CFE1445C5F4B1B" trl="N">
+    <value column="Name" isTrl="N" original="Info">Info</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="18F9EFD914834F7AB7847FCAD20C4409" trl="N">
+    <value column="Name" isTrl="N" original="Warning">Warning</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="1A050788725849929BC64237BDD9AC38" trl="N">
+    <value column="Name" isTrl="N" original="Error">Error</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="22495BC78F5B4BFEB93C99A994663324" trl="N">
+    <value column="Name" isTrl="N" original="Pending">Pending</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="33FC5479ADCA40438B1F9A78FDA5C1E2" trl="N">
+    <value column="Name" isTrl="N" original="Success">Success</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="C96B664177994A3ABE2DC0EE83915358" trl="N">
+    <value column="Name" isTrl="N" original="Running">Running</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_MESSAGE" version="">
+  <row id="0A8DB3EF430044FC83B90C5409F0C9BC" trl="N">
+    <value column="MsgText" isTrl="N" original="Could not find entity with name %0">Could not find entity with name %0</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

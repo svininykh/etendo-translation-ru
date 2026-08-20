@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_MESSAGE" version="">
+  <row id="3CA815AD85BB497DA81D5CEC7143B7EA" trl="N">
+    <value column="MsgText" isTrl="N" original="Job is executing">Job is executing</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="6EC0F3E79B154A58869BC381AFF2E296" trl="N">
+    <value column="MsgText" isTrl="N" original="This job instance is not currently running">This job instance is not currently running</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="F4DD7157BE1A47E4983648AD4252D9A2" trl="N">
+    <value column="MsgText" isTrl="N" original="Kill signal sent to job">Kill signal sent to job</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_MESSAGE" version="">
+  <row id="4B7DA612CAAC41C29B040A1F60E6BF8B" trl="N">
+    <value column="MsgText" isTrl="N" original="No emails were send. Please check if the documents are 'completed'.">No emails were send. Please check if the documents are 'completed'.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="7CDA1706EE5D4293B0E62C8DAE643D44" trl="N">
+    <value column="MsgText" isTrl="N" original="PROCESS EXECUTED: %s registers successfully processed and %s registers failed.">PROCESS EXECUTED: %s registers successfully processed and %s registers failed.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="CD227920280440E3BF1551274119D613" trl="N">
+    <value column="MsgText" isTrl="N" original="Email(s) sent successfully.">Email(s) sent successfully.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

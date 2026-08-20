@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_REF_LIST" version="">
+  <row id="39412DFED0BC42A1988F17FA953DDB40" trl="N">
+    <value column="Name" isTrl="N" original="Enable UI Debug Features">Enable UI Debug Features</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

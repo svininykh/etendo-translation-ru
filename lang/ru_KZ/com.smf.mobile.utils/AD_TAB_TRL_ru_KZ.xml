@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_TAB" version="">
+  <row id="1B10DE5796054E09BB89BF6F3643E65D" trl="N">
+    <value column="Name" isTrl="N" original="Mobile Configuration">Mobile Configuration</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="988A835336614CF8B920DF002FFF7BF7" trl="N">
+    <value column="Name" isTrl="N" original="Mobile Identifier">Mobile Identifier</value>
+    <value column="CommitWarning" isTrl="N" original=""/>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Filtername" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

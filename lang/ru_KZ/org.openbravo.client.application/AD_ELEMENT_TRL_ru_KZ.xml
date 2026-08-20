@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_ELEMENT" version="">
+  <row id="040F483B4A434F4C940F1D1451D83128" trl="N">
+    <value column="Name" isTrl="N" original="By Default Allow Filtering">By Default Allow Filtering</value>
+    <value column="PrintName" isTrl="N" original="By Default Allow Filtering">By Default Allow Filtering</value>
+    <value column="Description" isTrl="N" original="It defines it the filter is allowed">It defines it the filter is allowed</value>
+    <value column="Help" isTrl="N" original="It defines it the filter is allowed. If it is set, all the elements within the system will take this value as the default one.">It defines it the filter is allowed. If it is set, all the elements within the system will take this value as the default one.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="08AF323AC6C566ADE050007F0100548B" trl="N">
+    <value column="Name" isTrl="N" original="Report Definition">Report Definition</value>
+    <value column="PrintName" isTrl="N" original="Report Definition">Report Definition</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="The Report Definition of a Process Definition created as Report.">The Report Definition of a Process Definition created as Report.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="08AF323AC6C666ADE050007F0100548B" trl="N">
+    <value column="Name" isTrl="N" original="PDF Template">PDF Template</value>
+    <value column="PrintName" isTrl="N" original="PDF Template">PDF Template</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="JRXML PDF Template">JRXML PDF Template</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="08AF323AC6C766ADE050007F0100548B" trl="N">
+    <value column="Name" isTrl="N" original="Excel Template">Excel Template</value>
+    <value column="PrintName" isTrl="N" original="Excel Template">Excel Template</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="JRXML template to export to Excel the report when a specific template is required for excel">JRXML template to export to Excel the report when a specific template is required for excel</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="08AF323AC6C866ADE050007F0100548B" trl="N">
+    <value column="Name" isTrl="N" original="Use PDF as Excel Template">Use PDF as Excel Template</value>
+    <value column="PrintName" isTrl="N" original="Use PDF as Excel Template">Use PDF as Excel Template</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Determines whether the PDF Template needs to be used to generate the Excel report instead of defining a specific template for it.">Determines whether the PDF Template needs to be used to generate the Excel report instead of defining a specific template for it.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="0E87BDD6E59C4B5FB9273E2580CC76B2" trl="N">
+    <value column="Name" isTrl="N" original="Navigation Bar Component Role Access">Navigation Bar Component Role Access</value>
+    <value column="PrintName" isTrl="N" original="Navigation Bar Component Role Access">Navigation Bar Component Role Access</value>
+    <value column="Description" isTrl="N" original="Defines which roles have access to which navigation bar components.">Defines which roles have access to which navigation bar components.</value>
+    <value column="Help" isTrl="N" original="Defines which roles have access to which navigation bar components.">Defines which roles have access to which navigation bar components.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="0FA9076400FE4EF2BEACC722292144C5" trl="N">
+    <value column="Name" isTrl="N" original="Use PDF as HTML Template">Use PDF as HTML Template</value>
+    <value column="PrintName" isTrl="N" original="Use PDF as HTML Template">Use PDF as HTML Template</value>
+    <value column="Description" isTrl="N" original="Determines whether the PDF Template needs to be used to generate the HTML report instead of defining a specific template for it.">Determines whether the PDF Template needs to be used to generate the HTML report instead of defining a specific template for it.</value>
+    <value column="Help" isTrl="N" original="Determines whether the PDF Template needs to be used to generate the HTML report instead of defining a specific template for it.">Determines whether the PDF Template needs to be used to generate the HTML report instead of defining a specific template for it.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="10922048465547F48765035389E22977" trl="N">
+    <value column="Name" isTrl="N" original="Lazy Filtering on Grid">Lazy Filtering on Grid</value>
+    <value column="PrintName" isTrl="N" original="Lazy Filtering on Grid">Lazy Filtering on Grid</value>
+    <value column="Description" isTrl="N" original="If it is set, the grid won't perform a filter and/or a sorting action until the 'Apply Filters' button be pressed. In the same way, the summary functions present in the grid won't be recalculated until this button be pressed.">If it is set, the grid won't perform a filter and/or a sorting action until the 'Apply Filters' button be pressed. In the same way, the summary functions present in the grid won't be recalculated until this button be pressed.</value>
+    <value column="Help" isTrl="N" original="If it is set, the grid won't perform a filter and/or a sorting action until the 'Apply Filters' button be pressed. In the same way, the summary functions present in the grid won't be recalculated until this button be pressed.">If it is set, the grid won't perform a filter and/or a sorting action until the 'Apply Filters' button be pressed. In the same way, the summary functions present in the grid won't be recalculated until this button be pressed.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="1185A82966EA40ABA990B5DDBD9B8FBA" trl="N">
+    <value column="Name" isTrl="N" original="Disable Foreign Key Combo">Disable Foreign Key Combo</value>
+    <value column="PrintName" isTrl="N" original="Disable Foreign Key Filter Combo">Disable Foreign Key Filter Combo</value>
+    <value column="Description" isTrl="N" original="If this flag is checked, the foreign key combo will be disabled and the column will be filtered like a standard text column">If this flag is checked, the foreign key combo will be disabled and the column will be filtered like a standard text column</value>
+    <value column="Help" isTrl="N" original="If this flag is checked, the foreign key combo will be disabled and the column will be filtered like a standard text column">If this flag is checked, the foreign key combo will be disabled and the column will be filtered like a standard text column</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="1DD68F7AE78B4F0EB010F507D4B7A0D4" trl="N">
+    <value column="Name" isTrl="N" original="Compatibility with Legacy Grids">Compatibility with Legacy Grids</value>
+    <value column="PrintName" isTrl="N" original="Compatibility with Legacy Grids">Compatibility with Legacy Grids</value>
+    <value column="Description" isTrl="N" original="This flags is used to specify if this process should be compatible with the legacy parameter windows.">This flags is used to specify if this process should be compatible with the legacy parameter windows.</value>
+    <value column="Help" isTrl="N" original="This flags is used to specify if this process should be compatible with the legacy parameter windows.&#10;&#10;The legacy parameter windows could only contain one grid, so the _selection and _allRows properties of the grid were directly accessible in the handler from the params object. I.e:&#10;&#10;JSONArray gridRows = jsonparams.getJSONArray(ApplicationConstants.ALL_ROWS_PARAM);&#10;&#10;New process definitions should access these value like this:&#10;JSONObject myGridItem = jsonparams.getJSONObject(&quot;myGridItemName&quot;);&#10;JSONArray myGridSelectedRows = myGridItem.getJSONArray(&quot;_selection&quot;);&#10;&#10;The 'Compatibility with Legacy Grids' flag should only be checked if its handler retrieves the grid values in the old way.&#10;">This flags is used to specify if this process should be compatible with the legacy parameter windows.
+
+The legacy parameter windows could only contain one grid, so the _selection and _allRows properties of the grid were directly accessible in the handler from the params object. I.e:
+
+JSONArray gridRows = jsonparams.getJSONArray(ApplicationConstants.ALL_ROWS_PARAM);
+
+New process definitions should access these value like this:
+JSONObject myGridItem = jsonparams.getJSONObject("myGridItemName");
+JSONArray myGridSelectedRows = myGridItem.getJSONArray("_selection");
+
+The 'Compatibility with Legacy Grids' flag should only be checked if its handler retrieves the grid values in the old way.
+</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="2D51BCE155184D34A5F38FFE515D5C23" trl="N">
+    <value column="Name" isTrl="N" original="Unfiltered Foreign Key Combo">Unfiltered Foreign Key Combo</value>
+    <value column="PrintName" isTrl="N" original="Is FK Dropdown Unfiltered">Is FK Dropdown Unfiltered</value>
+    <value column="Description" isTrl="N" original="If this flag if checked, the filter drop down will show the rows from the referenced table unfiltered by specific rows being referenced in the referencing table.">If this flag if checked, the filter drop down will show the rows from the referenced table unfiltered by specific rows being referenced in the referencing table.</value>
+    <value column="Help" isTrl="N" original="If this flag if checked, the filter drop down will show the rows from the referenced table unfiltered by specific rows being referenced in the referencing table. The filters entered by the user in the grid filter editor will be applied.">If this flag if checked, the filter drop down will show the rows from the referenced table unfiltered by specific rows being referenced in the referencing table. The filters entered by the user in the grid filter editor will be applied.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="31DCDECE67A34C418930D50405D8057D" trl="N">
+    <value column="Name" isTrl="N" original="Start in New Line">Start in New Line</value>
+    <value column="PrintName" isTrl="N" original="Startinnewline">Startinnewline</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="32132ACAB66A4BC89710D81C143FDA6D" trl="N">
+    <value column="Name" isTrl="N" original="On Grid Load Function">On Grid Load Function</value>
+    <value column="PrintName" isTrl="N" original="ongridloadfunction">ongridloadfunction</value>
+    <value column="Description" isTrl="N" original="This function is invoked when the grid parameter is loaded for the first time.">This function is invoked when the grid parameter is loaded for the first time.</value>
+    <value column="Help" isTrl="N" original="This function is invoked when the grid parameter is loaded for the first time.">This function is invoked when the grid parameter is loaded for the first time.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="3303E3F5D9714BFB81B967BAFD6AE5C9" trl="N">
+    <value column="Name" isTrl="N" original="Obuiapp_Data_Pool_Sel_ID">Obuiapp_Data_Pool_Sel_ID</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_Data_Pool_Sel_ID">Obuiapp_Data_Pool_Sel_ID</value>
+    <value column="Description" isTrl="N" original="Data pool selection for Reports">Data pool selection for Reports</value>
+    <value column="Help" isTrl="N" original="Holds the relationship between a report and the database pool where its data will be fetched.">Holds the relationship between a report and the database pool where its data will be fetched.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="3C899452C68646A7A3E35A0CDCA8CA7A" trl="N">
+    <value column="Name" isTrl="N" original="Summary Function">Summary Function</value>
+    <value column="PrintName" isTrl="N" original="Summary Function">Summary Function</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Defines the summary function to use, valid values: sum, avg, max, min, count">Defines the summary function to use, valid values: sum, avg, max, min, count</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="3F9E2C7B705C46ACADEDA8CF477FC9C5" trl="N">
+    <value column="Name" isTrl="N" original="New Function">New Function</value>
+    <value column="PrintName" isTrl="N" original="New Function">New Function</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Defines the function that will called when adding a new row to the grid">Defines the function that will called when adding a new row to the grid</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="3FEB862D8D6C4BACA9B58BBC51A61B27" trl="N">
+    <value column="Name" isTrl="N" original="Number of Displayed Rows">Number of Displayed Rows</value>
+    <value column="PrintName" isTrl="N" original="Number of Displayed Rows">Number of Displayed Rows</value>
+    <value column="Description" isTrl="N" original="The height of the grid will be adjusted to display the number of rows specified in this field.">The height of the grid will be adjusted to display the number of rows specified in this field.</value>
+    <value column="Help" isTrl="N" original="The height of the grid will be adjusted to display the number of rows specified in this field.">The height of the grid will be adjusted to display the number of rows specified in this field.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="41A5FEDD70F140BF8438B8C8FA03B876" trl="N">
+    <value column="Name" isTrl="N" original="Validation Function">Validation Function</value>
+    <value column="PrintName" isTrl="N" original="Validation Function">Validation Function</value>
+    <value column="Description" isTrl="N" original="Defines the function to be used as part of fields validatiors">Defines the function to be used as part of fields validatiors</value>
+    <value column="Help" isTrl="N" original="By default a field have a set of validation functions, isNumber, isBoolean, etc. The developer can define a custom validator function to check the value entered by a the user.">By default a field have a set of validation functions, isNumber, isBoolean, etc. The developer can define a custom validator function to check the value entered by a the user.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="4322338243C1432A9BF0BAEF13FD5181" trl="N">
+    <value column="Name" isTrl="N" original="Allow Sorting">Allow Sorting</value>
+    <value column="PrintName" isTrl="N" original="Allow Sorting">Allow Sorting</value>
+    <value column="Description" isTrl="N" original="It defines it the sort is allowed">It defines it the sort is allowed</value>
+    <value column="Help" isTrl="N" original="If it is set, it will overwrite the system defaults.">If it is set, it will overwrite the system defaults.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="4813809446914A86B03E9211DEA0A0E5" trl="N">
+    <value column="Name" isTrl="N" original="Multi Record">Multi Record</value>
+    <value column="PrintName" isTrl="N" original="Multi Record">Multi Record</value>
+    <value column="Description" isTrl="N" original="Allow execution on multiple records at the same time">Allow execution on multiple records at the same time</value>
+    <value column="Help" isTrl="N" original="Multi Record allows to execute the process in multiple records at the same time. When this flag is set, multiple records can be selected in grid mode and the process can be executed in all of them at the same time.">Multi Record allows to execute the process in multiple records at the same time. When this flag is set, multiple records can be selected in grid mode and the process can be executed in all of them at the same time.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="4B3999F4700C4C93ABEA49C89A8E484E" trl="N">
+    <value column="Name" isTrl="N" original="Available for All Roles">Available for All Roles</value>
+    <value column="PrintName" isTrl="N" original="Available for All Roles">Available for All Roles</value>
+    <value column="Description" isTrl="N" original="Defines that this navigation bar component is available to all roles or that role access is defined specifically by role.">Defines that this navigation bar component is available to all roles or that role access is defined specifically by role.</value>
+    <value column="Help" isTrl="N" original="Defines that this navigation bar component is available to all roles or that role access is defined specifically by role through the navigation bar role access table.">Defines that this navigation bar component is available to all roles or that role access is defined specifically by role through the navigation bar role access table.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="4BB73BF22E424254BE5C01005C5C3744" trl="N">
+    <value column="Name" isTrl="N" original="Column Number">Column Number</value>
+    <value column="PrintName" isTrl="N" original="Column Number">Column Number</value>
+    <value column="Description" isTrl="N" original="Column number in which the current field is set (allowed values ​​between 1 and 4)">Column number in which the current field is set (allowed values ​​between 1 and 4)</value>
+    <value column="Help" isTrl="N" original="Column number in which the current field is set (allowed values ​​between 1 and 4)&#10;">Column number in which the current field is set (allowed values ​​between 1 and 4)
+</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="4F42DE67C7DE44F6AD3C24E7C3B13844" trl="N">
+    <value column="Name" isTrl="N" original="Remove Function">Remove Function</value>
+    <value column="PrintName" isTrl="N" original="Remove Function">Remove Function</value>
+    <value column="Description" isTrl="N" original="Function that will get executed when removing a row from the grid">Function that will get executed when removing a row from the grid</value>
+    <value column="Help" isTrl="N" original="When the grid allows remove rows you can specify a &quot;on remove&quot; function that will get executed when trying remove a row. If the function returns false, the row will not get removed.">When the grid allows remove rows you can specify a "on remove" function that will get executed when trying remove a row. If the function returns false, the row will not get removed.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="4F9B5A7E1E744830A7378CC67D3BCFD2" trl="N">
+    <value column="Name" isTrl="N" original="Logger">Logger</value>
+    <value column="PrintName" isTrl="N" original="Logger">Logger</value>
+    <value column="Description" isTrl="N" original="Logger name">Logger name</value>
+    <value column="Help" isTrl="N" original="Name used to identify a Logger. It usually corresponds to the name of the class being logged, but it can also be named using an arbitrary name.">Name used to identify a Logger. It usually corresponds to the name of the class being logged, but it can also be named using an arbitrary name.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="50069593057E4B64AE1FCF29E2898A74" trl="N">
+    <value column="Name" isTrl="N" original="Obuiapp_Uipersonalization_ID">Obuiapp_Uipersonalization_ID</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_Uipersonalization_ID">Obuiapp_Uipersonalization_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="520A61A4210C4197B3D6C68EFD39AE2F" trl="N">
+    <value column="Name" isTrl="N" original="Property Path">Property Path</value>
+    <value column="PrintName" isTrl="N" original="Property Path">Property Path</value>
+    <value column="Description" isTrl="N" original="Defines the property path taken for this parameter.">Defines the property path taken for this parameter.</value>
+    <value column="Help" isTrl="N" original="Defines the property path taken for this parameter.">Defines the property path taken for this parameter.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="5509E6BF87024E24A53DA324952D33C1" trl="N">
+    <value column="Name" isTrl="N" original="Classname of the view implementation">Classname of the view implementation</value>
+    <value column="PrintName" isTrl="N" original="Java Classname">Java Classname</value>
+    <value column="Description" isTrl="N" original="The java class name of the view implementation. The java class must extend the org.openbravo.client.kernel.BaseTemplateComponent.">The java class name of the view implementation. The java class must extend the org.openbravo.client.kernel.BaseTemplateComponent.</value>
+    <value column="Help" isTrl="N" original="The java class name of the view implementation. The java class must extend the org.openbravo.client.kernel.BaseTemplateComponent.">The java class name of the view implementation. The java class must extend the org.openbravo.client.kernel.BaseTemplateComponent.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="557A756A00364FE5AFF9584D2F1C19FF" trl="N">
+    <value column="Name" isTrl="N" original="Process Defintion">Process Defintion</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_Process_ID">Obuiapp_Process_ID</value>
+    <value column="Description" isTrl="N" original="Process Defintion">Process Defintion</value>
+    <value column="Help" isTrl="N" original="Process Defintion is a re implementation of Process with 3.0 infrastructure.">Process Defintion is a re implementation of Process with 3.0 infrastructure.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="692C0966E75147738DEC8F0EAC10B219" trl="N">
+    <value column="Name" isTrl="N" original="Value Key">Value Key</value>
+    <value column="PrintName" isTrl="N" original="Value Key">Value Key</value>
+    <value column="Description" isTrl="N" original="Column to store ID values.">Column to store ID values.</value>
+    <value column="Help" isTrl="N" original="Column to store ID values of Foreign Key parameters and Search Key of List parameters.">Column to store ID values of Foreign Key parameters and Search Key of List parameters.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="6C7868D921F648E3AF7933397AAF2727" trl="N">
+    <value column="Name" isTrl="N" original="Show Summary">Show Summary</value>
+    <value column="PrintName" isTrl="N" original="Show Summary">Show Summary</value>
+    <value column="Description" isTrl="N" original="Show Summary">Show Summary</value>
+    <value column="Help" isTrl="N" original="Defines if the Field should show a summary function at the end of the grid">Defines if the Field should show a summary function at the end of the grid</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="6DBAB16113DB4879A0EA095E80FBA959" trl="N">
+    <value column="Name" isTrl="N" original="Can Delete">Can Delete</value>
+    <value column="PrintName" isTrl="N" original="Can Delete">Can Delete</value>
+    <value column="Description" isTrl="N" original="Defines if a user is allowed to delete lines">Defines if a user is allowed to delete lines</value>
+    <value column="Help" isTrl="N" original="Defines if a user is allowed to delete lines">Defines if a user is allowed to delete lines</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="6F89D13CC2D547DF82B8B835DC91BC39" trl="N">
+    <value column="Name" isTrl="N" original="Allow Summary Functions">Allow Summary Functions</value>
+    <value column="PrintName" isTrl="N" original="Allow Summary Functions">Allow Summary Functions</value>
+    <value column="Description" isTrl="N" original="If this flag is enabled then the user can add summary functions into the grid, by using the column header context menu. If not enabled, then the summary functions menu will not be available.">If this flag is enabled then the user can add summary functions into the grid, by using the column header context menu. If not enabled, then the summary functions menu will not be available.</value>
+    <value column="Help" isTrl="N" original="If this flag is enabled then the user can add summary functions into the grid, by using the column header context menu. If not enabled, then the summary functions menu will not be available.">If this flag is enabled then the user can add summary functions into the grid, by using the column header context menu. If not enabled, then the summary functions menu will not be available.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="7A18B7D741A349B493D145C80DB54E5E" trl="N">
+    <value column="Name" isTrl="N" original="Obuiapp_Ref_Window_ID">Obuiapp_Ref_Window_ID</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_Ref_Window_ID">Obuiapp_Ref_Window_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="7B0DBFCC0E5C429092E23014127C44B8" trl="N">
+    <value column="Name" isTrl="N" original="HTML Template">HTML Template</value>
+    <value column="PrintName" isTrl="N" original="HTML Template">HTML Template</value>
+    <value column="Description" isTrl="N" original="JRXML template to use for exporting the report to HTML format">JRXML template to use for exporting the report to HTML format</value>
+    <value column="Help" isTrl="N" original="JRXML template to use for exporting the report to HTML format">JRXML template to use for exporting the report to HTML format</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="7D2E7E7DB8344116B2BCB73D19C66A38" trl="N">
+    <value column="Name" isTrl="N" original="Ask to clone children">Ask to clone children</value>
+    <value column="PrintName" isTrl="N" original="Ask to clone children">Ask to clone children</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="7F257DE6A0C847A8A121804BC5F9B7A8" trl="N">
+    <value column="Name" isTrl="N" original="Navigation Bar Component">Navigation Bar Component</value>
+    <value column="PrintName" isTrl="N" original="Navigation Bar Component">Navigation Bar Component</value>
+    <value column="Description" isTrl="N" original="A component shown in the navigation bar in the top of the user interface">A component shown in the navigation bar in the top of the user interface</value>
+    <value column="Help" isTrl="N" original="A navigation bar component is a component which is shown in the navigation bar in the top of the user interface. For example a quick create or an application menu.">A navigation bar component is a component which is shown in the navigation bar in the top of the user interface. For example a quick create or an application menu.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="7F9BC17EC8B74EE1A19EAF0AE074A44B" trl="N">
+    <value column="Name" isTrl="N" original="Obuiapp_View_Role_Access_ID">Obuiapp_View_Role_Access_ID</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_View_Role_Access_ID">Obuiapp_View_Role_Access_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="7FCB281817674667B5E7BA53B464F299" trl="N">
+    <value column="Name" isTrl="N" original="Obuiapp_Note_ID">Obuiapp_Note_ID</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_Note_ID">Obuiapp_Note_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="801D650DB70C49448DFD0E73C8EEF143" trl="N">
+    <value column="Name" isTrl="N" original="Show In Description">Show In Description</value>
+    <value column="PrintName" isTrl="N" original="ATT_Showindescription">ATT_Showindescription</value>
+    <value column="Description" isTrl="N" original="Defines if this parameter is relevant in Text column on C_File table.">Defines if this parameter is relevant in Text column on C_File table.</value>
+    <value column="Help" isTrl="N" original="Defines if this parameter is relevant in Text column on C_File table.">Defines if this parameter is relevant in Text column on C_File table.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="82F94DF2DAF64D0CA93BA0CDC4346972" trl="N">
+    <value column="Name" isTrl="N" original="Process Translation">Process Translation</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_Process_Trl_ID">Obuiapp_Process_Trl_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="85577AEFBC374A6FB4ED28F43D1F11F0" trl="N">
+    <value column="Name" isTrl="N" original="Allow Transactional Filters">Allow Transactional Filters</value>
+    <value column="PrintName" isTrl="N" original="Allow Transactional Filters">Allow Transactional Filters</value>
+    <value column="Description" isTrl="N" original="If this flag is enabled then the transactional filters will be enabled.  If not enabled. then all the transactional filters will be disabled.">If this flag is enabled then the transactional filters will be enabled.  If not enabled. then all the transactional filters will be disabled.</value>
+    <value column="Help" isTrl="N" original="If this flag is enabled then the transactional filters will be enabled. A transactional filter is the filter that is applied by default when a transactional window is accessed. It filters all the documents with status Draft or which date is in the defined &quot;Transaction Range&quot;. If not enabled. then all the transactional filters will be disabled.">If this flag is enabled then the transactional filters will be enabled. A transactional filter is the filter that is applied by default when a transactional window is accessed. It filters all the documents with status Draft or which date is in the defined "Transaction Range". If not enabled. then all the transactional filters will be disabled.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="927E4DC3105D1526E040A8C0CF072A46" trl="N">
+    <value column="Name" isTrl="N" original="Fixed Value">Fixed Value</value>
+    <value column="PrintName" isTrl="N" original="Fixed Value">Fixed Value</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="927E4DC3105F1526E040A8C0CF072A46" trl="N">
+    <value column="Name" isTrl="N" original="Parameter">Parameter</value>
+    <value column="PrintName" isTrl="N" original="Parameter">Parameter</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="927E4DC310661526E040A8C0CF072A46" trl="N">
+    <value column="Name" isTrl="N" original="Obuiapp_Parameter_Trl_ID">Obuiapp_Parameter_Trl_ID</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_Parameter_Trl_ID">Obuiapp_Parameter_Trl_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="927FD512FEF6BBA9E040A8C0CF073D3C" trl="N">
+    <value column="Name" isTrl="N" original="Value Number">Value Number</value>
+    <value column="PrintName" isTrl="N" original="Value Number">Value Number</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="927FD512FEF8BBA9E040A8C0CF073D3C" trl="N">
+    <value column="Name" isTrl="N" original="Obuiapp_Parameter_Value_ID">Obuiapp_Parameter_Value_ID</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_Parameter_Value_ID">Obuiapp_Parameter_Value_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="927FD512FEFABBA9E040A8C0CF073D3C" trl="N">
+    <value column="Name" isTrl="N" original="Value Date">Value Date</value>
+    <value column="PrintName" isTrl="N" original="Value Date">Value Date</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="927FD512FEFCBBA9E040A8C0CF073D3C" trl="N">
+    <value column="Name" isTrl="N" original="Value String">Value String</value>
+    <value column="PrintName" isTrl="N" original="Value String">Value String</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="95680940E12C4271A7AF8F68E92358E6" trl="N">
+    <value column="Name" isTrl="N" original="View Implementation">View Implementation</value>
+    <value column="PrintName" isTrl="N" original="View Implementation">View Implementation</value>
+    <value column="Description" isTrl="N" original="The view implementation which is shown in the tab of a multi-document-interface">The view implementation which is shown in the tab of a multi-document-interface</value>
+    <value column="Help" isTrl="N" original="The view implementation which is shown in the tab of a multi-document-interface. ">The view implementation which is shown in the tab of a multi-document-interface. </value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="969A16E782CF42E797A10365AB76E9D7" trl="N">
+    <value column="Name" isTrl="N" original="Can Add">Can Add</value>
+    <value column="PrintName" isTrl="N" original="Can Add">Can Add</value>
+    <value column="Description" isTrl="N" original="Defines if a user is allowed to add new lines">Defines if a user is allowed to add new lines</value>
+    <value column="Help" isTrl="N" original="Defines if a user is allowed to add new lines">Defines if a user is allowed to add new lines</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="96E4C01A0B624A109CE1099857885A39" trl="N">
+    <value column="Name" isTrl="N" original="User">User</value>
+    <value column="PrintName" isTrl="N" original="User">User</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="970F01C5451937C3E040007F01002163" trl="N">
+    <value column="Name" isTrl="N" original="Evaluate Fixed Value">Evaluate Fixed Value</value>
+    <value column="PrintName" isTrl="N" original="Evaluate Fixed Value">Evaluate Fixed Value</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="When the flag is enabled the Fixed Value is evaluated as a JS expression.">When the flag is enabled the Fixed Value is evaluated as a JS expression.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="98001F5A0FFD4D21BDE553CF8B2F00F5" trl="N">
+    <value column="Name" isTrl="N" original="Selection Function">Selection Function</value>
+    <value column="PrintName" isTrl="N" original="Selection Function">Selection Function</value>
+    <value column="Description" isTrl="N" original="Custom JavaScript function that will get executed when the selection in a grid changes">Custom JavaScript function that will get executed when the selection in a grid changes</value>
+    <value column="Help" isTrl="N" original="When the user changes the selection (a row gets selected or deselected) the custom JavaScript function will get executed">When the user changes the selection (a row gets selected or deselected) the custom JavaScript function will get executed</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="9CCFB3754A1B4F78BAE881FAAD33E9D6" trl="N">
+    <value column="Name" isTrl="N" original="Report">Report</value>
+    <value column="PrintName" isTrl="N" original="Report">Report</value>
+    <value column="Description" isTrl="N" original="References a report regardless the place it is defined">References a report regardless the place it is defined</value>
+    <value column="Help" isTrl="N" original="References a report regardless the place it is defined">References a report regardless the place it is defined</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="9EAE872F6F394DE3AB3BE9AE2B8C7E73" trl="N">
+    <value column="Name" isTrl="N" original="On Refresh Function">On Refresh Function</value>
+    <value column="PrintName" isTrl="N" original="On Refresh Function">On Refresh Function</value>
+    <value column="Description" isTrl="N" original="In this field a javascript function can be defined. This function will be executed when the parameter window refresh action be invoked.">In this field a javascript function can be defined. This function will be executed when the parameter window refresh action be invoked.</value>
+    <value column="Help" isTrl="N" original="In this field a javascript function can be defined. This function will be executed when the parameter window refresh action be invoked. For example, if the process has a child-process, once the child-process finishes, it will invoke a refresh of the parent process.&#10;&#10;Since each process has its particularities, a custom refresh function should be defined in case the process be susceptible of being refreshed/reloaded.">In this field a javascript function can be defined. This function will be executed when the parameter window refresh action be invoked. For example, if the process has a child-process, once the child-process finishes, it will invoke a refresh of the parent process.
+
+Since each process has its particularities, a custom refresh function should be defined in case the process be susceptible of being refreshed/reloaded.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="A31D6AEECD6542FB9E08940E7361E1A7" trl="N">
+    <value column="Name" isTrl="N" original="Loggers">Loggers</value>
+    <value column="PrintName" isTrl="N" original="Loggers">Loggers</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="A40E05056A904DD8970BFAB4F5AF7E37" trl="N">
+    <value column="Name" isTrl="N" original="Process Definition">Process Definition</value>
+    <value column="PrintName" isTrl="N" original="Process Definition">Process Definition</value>
+    <value column="Description" isTrl="N" original="Process to be executed by the button">Process to be executed by the button</value>
+    <value column="Help" isTrl="N" original="Process to be executed by the button. There are 2 kinds of processes:&#10;*&quot;Process&quot;: Implements the 2.50 style processes with a Servlet.&#10;*&quot;Process Definition&quot;: Implements 3.0 processes with a pure SmartClient UI.">Process to be executed by the button. There are 2 kinds of processes:
+*"Process": Implements the 2.50 style processes with a Servlet.
+*"Process Definition": Implements 3.0 processes with a pure SmartClient UI.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="ABB891B4AB874A0DB803F70EB6A8EC5C" trl="N">
+    <value column="Name" isTrl="N" original="Obuiapp_GC_System_ID">Obuiapp_GC_System_ID</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_GC_System_ID">Obuiapp_GC_System_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="AEAB95F794E347FEB149F64DF537194A" trl="N">
+    <value column="Name" isTrl="N" original="Allow Filtering">Allow Filtering</value>
+    <value column="PrintName" isTrl="N" original="Allow Filtering">Allow Filtering</value>
+    <value column="Description" isTrl="N" original="It defines it the filter is allowed">It defines it the filter is allowed</value>
+    <value column="Help" isTrl="N" original="If it is set, it will overwrite the system defaults.">If it is set, it will overwrite the system defaults.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="AFD6495378744B2C91BF889378BE5722" trl="N">
+    <value column="Name" isTrl="N" original="Show Clone Button">Show Clone Button</value>
+    <value column="PrintName" isTrl="N" original="Show Clone Button">Show Clone Button</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="B5DD44FF50A740F7898148D8D5EC155B" trl="N">
+    <value column="Name" isTrl="N" original="Selection Type">Selection Type</value>
+    <value column="PrintName" isTrl="N" original="Selection Type">Selection Type</value>
+    <value column="Description" isTrl="N" original="It specifies the selection type that will apply to the grid">It specifies the selection type that will apply to the grid</value>
+    <value column="Help" isTrl="N" original="It specifies the selection type that will apply to the grid.&#10;Its value can be:&#10; * &quot;None&quot;: no rows can be selected&#10; * &quot;Single&quot;: only one row can be selected&#10; * &quot;Multiple&quot;: multiple rows can be selected">It specifies the selection type that will apply to the grid.
+Its value can be:
+ * "None": no rows can be selected
+ * "Single": only one row can be selected
+ * "Multiple": multiple rows can be selected</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="B7670F6BA29A457BB869CCFEEC0C69DB" trl="N">
+    <value column="Name" isTrl="N" original="Threshold to Trigger Filter on Text Field (in ms)">Threshold to Trigger Filter on Text Field (in ms)</value>
+    <value column="PrintName" isTrl="N" original="Threshold to Trigger Filter on Text Field (in ms)">Threshold to Trigger Filter on Text Field (in ms)</value>
+    <value column="Description" isTrl="N" original="Threshold in ms to trigger filter on text field">Threshold in ms to trigger filter on text field</value>
+    <value column="Help" isTrl="N" original="Threshold in miliseconds to trigger the filter on text fields">Threshold in miliseconds to trigger the filter on text fields</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="B7BB240B9AA74817AFD7B8C2602B1CAD" trl="N">
+    <value column="Name" isTrl="N" original="Colspan">Colspan</value>
+    <value column="PrintName" isTrl="N" original="Colspan">Colspan</value>
+    <value column="Description" isTrl="N" original="Number of columns this field should occupy in the form">Number of columns this field should occupy in the form</value>
+    <value column="Help" isTrl="N" original="This value can be used to define, multi-columns fields. So fields occupying more then one column. If this value is not set the normal calculation takes place.">This value can be used to define, multi-columns fields. So fields occupying more then one column. If this value is not set the normal calculation takes place.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="B86D9D39A3234489A642BA8BCC749835" trl="N">
+    <value column="Name" isTrl="N" original="Data Pool">Data Pool</value>
+    <value column="PrintName" isTrl="N" original="Data Pool">Data Pool</value>
+    <value column="Description" isTrl="N" original="Lists all possible database pools which OBDal can use to retrieve data.">Lists all possible database pools which OBDal can use to retrieve data.</value>
+    <value column="Help" isTrl="N" original="Lists all possible database pools which OBDal can use to retrieve data.">Lists all possible database pools which OBDal can use to retrieve data.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="BA3A1846B28F4FFC8F00886F5251A7BA" trl="N">
+    <value column="Name" isTrl="N" original="By Default Allow Sorting">By Default Allow Sorting</value>
+    <value column="PrintName" isTrl="N" original="By Default Allow Sorting">By Default Allow Sorting</value>
+    <value column="Description" isTrl="N" original="It defines it the sort is allowed">It defines it the sort is allowed</value>
+    <value column="Help" isTrl="N" original="It defines it the sort is allowed. If it is set, all the elements within the system will take this value as the default one.">It defines it the sort is allowed. If it is set, all the elements within the system will take this value as the default one.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="BAF19AAC391C420E9BA1E54641D563D9" trl="N">
+    <value column="Name" isTrl="N" original="Obuiapp_Menu_Parameters_ID">Obuiapp_Menu_Parameters_ID</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_Menu_Parameters_ID">Obuiapp_Menu_Parameters_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="C1AA24FDF3714201BD68237D38243ACA" trl="N">
+    <value column="Name" isTrl="N" original="Static Component">Static Component</value>
+    <value column="PrintName" isTrl="N" original="Static Component">Static Component</value>
+    <value column="Description" isTrl="N" original="Defines whether a navigation bar component is static or not.">Defines whether a navigation bar component is static or not.</value>
+    <value column="Help" isTrl="N" original="Defines whether a navigation bar component is static or not. Static components are generated in the same request of the session dynamic resources. Non static components requires an extra request call to generate its content.">Defines whether a navigation bar component is static or not. Static components are generated in the same request of the session dynamic resources. Non static components requires an extra request call to generate its content.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="C39954911E27408CBF8F44743A1A0F51" trl="N">
+    <value column="Name" isTrl="N" original="Show Select Column">Show Select Column</value>
+    <value column="PrintName" isTrl="N" original="Show Select Column">Show Select Column</value>
+    <value column="Description" isTrl="N" original="Defines if the select column should be shown">Defines if the select column should be shown</value>
+    <value column="Help" isTrl="N" original="Some use cases requires that the selection column (checkbox column) is hidden">Some use cases requires that the selection column (checkbox column) is hidden</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="C3D88F4BB67346D49C0E28A676D916AC" trl="N">
+    <value column="Name" isTrl="N" original="Obuiapp_Gc_Tab_ID">Obuiapp_Gc_Tab_ID</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_Gc_Tab_ID">Obuiapp_Gc_Tab_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="C453BC52FD694241864B69AE2C0F48FB" trl="N">
+    <value column="Name" isTrl="N" original="Log Level">Log Level</value>
+    <value column="PrintName" isTrl="N" original="Log Level">Log Level</value>
+    <value column="Description" isTrl="N" original="Logger log level">Logger log level</value>
+    <value column="Help" isTrl="N" original="Indicates the minimum level events should have for this Logger to process them. By default this level is determined by&#10;the config files: it is inherited from the root logger unless an specific configuration for this class/package is defined.">Indicates the minimum level events should have for this Logger to process them. By default this level is determined by
+the config files: it is inherited from the root logger unless an specific configuration for this class/package is defined.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="C4ED11B624E74BD5B78A9D2960A48B57" trl="N">
+    <value column="Name" isTrl="N" original="Actions">Actions</value>
+    <value column="PrintName" isTrl="N" original="Actions">Actions</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="C8856296F35940AF8E7808DF56118451" trl="N">
+    <value column="Name" isTrl="N" original="On Load Function">On Load Function</value>
+    <value column="PrintName" isTrl="N" original="On Load Function">On Load Function</value>
+    <value column="Description" isTrl="N" original="In this field a javascript function can be defined. This function will be executed when the parameter window is loaded, just after the default values are set.">In this field a javascript function can be defined. This function will be executed when the parameter window is loaded, just after the default values are set.</value>
+    <value column="Help" isTrl="N" original="In this field a javascript function can be defined. This function will be executed when the parameter window is loaded, just after the default values are set.">In this field a javascript function can be defined. This function will be executed when the parameter window is loaded, just after the default values are set.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="D407F5CD8D234F738D98EDB872F9377A" trl="N">
+    <value column="Name" isTrl="N" original="Navigation Bar Classname">Navigation Bar Classname</value>
+    <value column="PrintName" isTrl="N" original="Java Classname">Java Classname</value>
+    <value column="Description" isTrl="N" original="The classname of the navigation bar component.">The classname of the navigation bar component.</value>
+    <value column="Help" isTrl="N" original="The java class name of the navigation bar component. The java class must extend the org.openbravo.client.kernel.BaseTemplateComponent.">The java class name of the navigation bar component. The java class must extend the org.openbravo.client.kernel.BaseTemplateComponent.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="DC4608C1BAE04F65B6BC38B79BF2CA4D" trl="N">
+    <value column="Name" isTrl="N" original="Text Filter Behavior">Text Filter Behavior</value>
+    <value column="PrintName" isTrl="N" original="Text Filter Behavior">Text Filter Behavior</value>
+    <value column="Description" isTrl="N" original="Defines the kind of filter that will be applied by default to text fields">Defines the kind of filter that will be applied by default to text fields</value>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="DC806316C0494E3CBE88A1F4216DB641" trl="N">
+    <value column="Name" isTrl="N" original="Show Title">Show Title</value>
+    <value column="PrintName" isTrl="N" original="Show Title">Show Title</value>
+    <value column="Description" isTrl="N" original="This field allows to specify whether the title of a grid form item should be displayed">This field allows to specify whether the title of a grid form item should be displayed</value>
+    <value column="Help" isTrl="N" original="This field allows to specify whether the title of a grid form item should be displayed">This field allows to specify whether the title of a grid form item should be displayed</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="DD25DA6ACBD5424B89E09A93A5D4656C" trl="N">
+    <value column="Name" isTrl="N" original="Allow Filtering Foreign Keys by its Identifier">Allow Filtering Foreign Keys by its Identifier</value>
+    <value column="PrintName" isTrl="N" original="Allow Filtering Foreign Keys by its iIdentifier">Allow Filtering Foreign Keys by its iIdentifier</value>
+    <value column="Description" isTrl="N" original="If this flag is checked, then the user can filter foreign keys either by selecting some options from the filter drop down or by entering text manually.">If this flag is checked, then the user can filter foreign keys either by selecting some options from the filter drop down or by entering text manually.</value>
+    <value column="Help" isTrl="N" original="If this flag is checked, then the user can filter foreign keys either by selecting some options from the filter drop down or by entering text manually. If this flag is unchecked, then the foreign keys would only be filterable by selecting some options from the filter drop down, which has better performance.">If this flag is checked, then the user can filter foreign keys either by selecting some options from the filter drop down or by entering text manually. If this flag is unchecked, then the foreign keys would only be filterable by selecting some options from the filter drop down, which has better performance.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="DD92E8A46BAF43DFA4B02949487DC6CA" trl="N">
+    <value column="Name" isTrl="N" original="Log Level">Log Level</value>
+    <value column="PrintName" isTrl="N" original="Log Level">Log Level</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="E726F553F3C04DE791C8E9C1752227F9" trl="N">
+    <value column="Name" isTrl="N" original="Client Side Validation">Client Side Validation</value>
+    <value column="PrintName" isTrl="N" original="Client Side Validation">Client Side Validation</value>
+    <value column="Description" isTrl="N" original="JavaScript function to be executed before invoking the backend Handler.">JavaScript function to be executed before invoking the backend Handler.</value>
+    <value column="Help" isTrl="N" original="JavaScript function to be executed before invoking the backend Handler.&#10;This function (manually coded), can:&#10; - Perform validations on the parameters, being possible to prevent execution in case these validations are not satisfied.&#10; - Request for additional info to complete the parameter values.">JavaScript function to be executed before invoking the backend Handler.
+This function (manually coded), can:
+ - Perform validations on the parameters, being possible to prevent execution in case these validations are not satisfied.
+ - Request for additional info to complete the parameter values.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="E94A0F7EABF6467D8853C51369B6D23A" trl="N">
+    <value column="Name" isTrl="N" original="Text Field Filter Behavior">Text Field Filter Behavior</value>
+    <value column="PrintName" isTrl="N" original="Text Field Filter Behavior">Text Field Filter Behavior</value>
+    <value column="Description" isTrl="N" original="Defines the kind of filter that will be applied to this item. It only works with text fields.">Defines the kind of filter that will be applied to this item. It only works with text fields.</value>
+    <value column="Help" isTrl="N" original="Defines the kind of filter (iContains, iStartsWith, etc) that will be applied to this item. It only works with text fields.">Defines the kind of filter (iContains, iStartsWith, etc) that will be applied to this item. It only works with text fields.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="EA0D243266264448BF9C1EF2E7691145" trl="N">
+    <value column="Name" isTrl="N" original="Obuiapp_Gc_Field_ID">Obuiapp_Gc_Field_ID</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_Gc_Field_ID">Obuiapp_Gc_Field_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="EA1906D7E66C43C5B0384AAE37E9BD3F" trl="N">
+    <value column="Name" isTrl="N" original="Filter On Change">Filter On Change</value>
+    <value column="PrintName" isTrl="N" original="Filter On Change">Filter On Change</value>
+    <value column="Description" isTrl="N" original="If this flag is checked, text columns will trigger a filter on change">If this flag is checked, text columns will trigger a filter on change</value>
+    <value column="Help" isTrl="N" original="If this flag is checked, text columns will trigger a filter each time its content changes.">If this flag is checked, text columns will trigger a filter each time its content changes.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="EAC4A032E1AF4EFBBCBE5C8355EDDE74" trl="N">
+    <value column="Name" isTrl="N" original="Rowspan">Rowspan</value>
+    <value column="PrintName" isTrl="N" original="Rowspan">Rowspan</value>
+    <value column="Description" isTrl="N" original="Number of rows this field should occupy in the form">Number of rows this field should occupy in the form</value>
+    <value column="Help" isTrl="N" original="This value can be used to define, multi-row fields. So fields occupying more then one row. If this value is not set the normal calculation takes place.">This value can be used to define, multi-row fields. So fields occupying more then one row. If this value is not set the normal calculation takes place.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F39469FBB4F041BFBC730BB9E0691F29" trl="N">
+    <value column="Name" isTrl="N" original="Obuiapp_Process_Access_ID">Obuiapp_Process_Access_ID</value>
+    <value column="PrintName" isTrl="N" original="Obuiapp_Process_Access_ID">Obuiapp_Process_Access_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F9B6ACA97BD34B1BBACBBC4899D9E6D8" trl="N">
+    <value column="Name" isTrl="N" original="Can Add Records to a Selector">Can Add Records to a Selector</value>
+    <value column="PrintName" isTrl="N" original="Can Add Records to a Selector">Can Add Records to a Selector</value>
+    <value column="Description" isTrl="N" original="By selecting this flag, the process will be available in the 'Defined Selector' window">By selecting this flag, the process will be available in the 'Defined Selector' window</value>
+    <value column="Help" isTrl="N" original="By selecting this flag, the process will be available in the 'Defined Selector' window.&#10;This process has to be capable of adding records to a selector.">By selecting this flag, the process will be available in the 'Defined Selector' window.
+This process has to be capable of adding records to a selector.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="FAF5CE55DE8E4B26A9DC0610CFB30AC3" trl="N">
+    <value column="Name" isTrl="N" original="Default Filter Expression">Default Filter Expression</value>
+    <value column="PrintName" isTrl="N" original="Default Filter Expression">Default Filter Expression</value>
+    <value column="Description" isTrl="N" original="Defines a expression used to filter the property">Defines a expression used to filter the property</value>
+    <value column="Help" isTrl="N" original="Defines a JavaScript expression that will be evaluated in the server side and used as default value for the property. You can use any type of variable but it must match the property type, examples:&#10;&#10;true - the property associated is a  boolean&#10;&quot;Hello&quot; - the property associated is a string&#10;5.3 - the property associated is a number&#10;&#10;You can also access the API through the OB object and do some more complex expressions, e.g.&#10;&#10;OB.getSession().getAttribute(&quot;SESSIONVAR&quot;);&#10;&#10;This will retrieve the session variable SESSIONVAR and use it as default value for the filter of this field.">Defines a JavaScript expression that will be evaluated in the server side and used as default value for the property. You can use any type of variable but it must match the property type, examples:
+
+true - the property associated is a  boolean
+"Hello" - the property associated is a string
+5.3 - the property associated is a number
+
+You can also access the API through the OB object and do some more complex expressions, e.g.
+
+OB.getSession().getAttribute("SESSIONVAR");
+
+This will retrieve the session variable SESSIONVAR and use it as default value for the filter of this field.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="FC093F3F9DD64F81828FE06AB2CC4FEB" trl="N">
+    <value column="Name" isTrl="N" original="View Implementation">View Implementation</value>
+    <value column="PrintName" isTrl="N" original="View Implementation">View Implementation</value>
+    <value column="Description" isTrl="N" original="Defines the implementation of a view shown in the user interface.">Defines the implementation of a view shown in the user interface.</value>
+    <value column="Help" isTrl="N" original="A view is displayed inside a tab in the multi document interface.">A view is displayed inside a tab in the multi document interface.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

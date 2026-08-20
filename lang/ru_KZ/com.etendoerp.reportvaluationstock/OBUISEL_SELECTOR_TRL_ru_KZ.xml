@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="OBUISEL_SELECTOR" version="">
+  <row id="605651ABAF0C4163A94AB66B9853F456" trl="N">
+    <value column="Name" isTrl="N" original="Product Category Selector">Product Category Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

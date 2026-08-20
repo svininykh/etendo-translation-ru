@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_REF_LIST" version="">
+  <row id="297C38A65E7248A9BBBCD39D5A1F8C01" trl="N">
+    <value column="Name" isTrl="N" original="LegacySkin">LegacySkin</value>
+    <value column="Description" isTrl="N" original="Set this preference to 'Y' to enable Openbravo 3.0 Skin">Set this preference to 'Y' to enable Openbravo 3.0 Skin</value>
+  </row>
+</compiereTrl>

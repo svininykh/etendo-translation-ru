@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_ELEMENT" version="">
+  <row id="0C111FA8672B4190AAE4DB3B9D230736" trl="N">
+    <value column="Name" isTrl="N" original="Received In">Received In</value>
+    <value column="PrintName" isTrl="N" original="Received In">Received In</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="3051217223EF47A1BC75ED0314F200A2" trl="N">
+    <value column="Name" isTrl="N" original="Payment Pick">Payment Pick</value>
+    <value column="PrintName" isTrl="N" original="Payment Pick">Payment Pick</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="3E0C7EE688DA4D3CB054811F3BBF2DD3" trl="N">
+    <value column="Name" isTrl="N" original="Financial Account">Financial Account</value>
+    <value column="PrintName" isTrl="N" original="Financial Account">Financial Account</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="77E8A370622241F4A730DE8E1DF4DEDD" trl="N">
+    <value column="Name" isTrl="N" original="Date To">Date To</value>
+    <value column="PrintName" isTrl="N" original="Date To">Date To</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="95BE9F5985F24939BF1E5C0DB638E7E9" trl="N">
+    <value column="Name" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="PrintName" isTrl="N" original="Payment Method">Payment Method</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="BD397C29071648FAB3FAB9619867773F" trl="N">
+    <value column="Name" isTrl="N" original="Search">Search</value>
+    <value column="PrintName" isTrl="N" original="Search">Search</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="D3F84C7DA62E43E39BE7C1F33C32ECA1" trl="N">
+    <value column="Name" isTrl="N" original="Date From">Date From</value>
+    <value column="PrintName" isTrl="N" original="Date From">Date From</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="E857068CF23F403E8F0D158FFAA79994" trl="N">
+    <value column="Name" isTrl="N" original="Paid Out">Paid Out</value>
+    <value column="PrintName" isTrl="N" original="Paid Out">Paid Out</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

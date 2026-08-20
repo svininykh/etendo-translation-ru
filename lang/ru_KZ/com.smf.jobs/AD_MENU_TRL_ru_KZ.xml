@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_MENU" version="">
+  <row id="3A59F70F148D4BE49D38E9935CDFE3C7" trl="N">
+    <value column="Name" isTrl="N" original="Jobs">Jobs</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="73AB1716D0EC4BB9BD7C5A791C47E128" trl="N">
+    <value column="Name" isTrl="N" original="Job Result">Job Result</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="B824226F78924797926C3833D789B7C8" trl="N">
+    <value column="Name" isTrl="N" original="Job">Job</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="DCA79A6C283D47F18977784C2BEFA759" trl="N">
+    <value column="Name" isTrl="N" original="Filter">Filter</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

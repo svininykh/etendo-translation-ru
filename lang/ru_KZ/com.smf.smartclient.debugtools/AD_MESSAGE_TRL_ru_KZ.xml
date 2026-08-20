@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_MESSAGE" version="">
+  <row id="053A0A2E07EC43DAA5CE9A2A420BE763" trl="N">
+    <value column="MsgText" isTrl="N" original="Disable window filters">Disable window filters</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="144CCB96F7F04B409D12CCDE3244B67E" trl="N">
+    <value column="MsgText" isTrl="N" original="Force enable">Force enable</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="1DD01F1B3C1D453E831DB6734A016CD5" trl="N">
+    <value column="MsgText" isTrl="N" original="Disable debug tools">Disable debug tools</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="2D10FDB79792444CBBB615DBABC9A19A" trl="N">
+    <value column="MsgText" isTrl="N" original="Show ID field in grid">Show ID field in grid</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="3DF8700945E74A16825BE8E651979070" trl="N">
+    <value column="MsgText" isTrl="N" original="Disable">Disable</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="4348232CDB674B9CB2D5713D30F54C9D" trl="N">
+    <value column="MsgText" isTrl="N" original="Enable debug tools">Enable debug tools</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="59EE88969D7743A8844AA64B00F96861" trl="N">
+    <value column="MsgText" isTrl="N" original="Show hidden fields">Show hidden fields</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="5BF52F60F3494FC2A782B4978AAABEE1" trl="N">
+    <value column="MsgText" isTrl="N" original="Toggle window filters">Toggle window filters</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="64D7C707C23A42D888F1900CED0683C4" trl="N">
+    <value column="MsgText" isTrl="N" original="Enable">Enable</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="877E1B714AF34BCEB11667C52D6A8024" trl="N">
+    <value column="MsgText" isTrl="N" original="Highlight production environments">Highlight production environments</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="9C20D6BFD5DF4494BD9910054E6210FD" trl="N">
+    <value column="MsgText" isTrl="N" original="Force disable">Force disable</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="B042841EA9D34A3C988422A29EA137EB" trl="N">
+    <value column="MsgText" isTrl="N" original="Enable window filters">Enable window filters</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="BAF0E2C7DE9841468848A363DD6511E9" trl="N">
+    <value column="MsgText" isTrl="N" original="Copiar">Copiar</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="E8EBA50F41524CDF81E648E5AC08FF65" trl="N">
+    <value column="MsgText" isTrl="N" original="Dark mode">Dark mode</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="F535F312792342CD8F62F483DBD9FB25" trl="N">
+    <value column="MsgText" isTrl="N" original="Form features">Form features</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_REFERENCE" version="">
+  <row id="34380BB3AD5446EBB41540FE956C0F66" trl="N">
+    <value column="Name" isTrl="N" original="Mobile JSON">Mobile JSON</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="JSON used to receive parameters from mobile app.">JSON used to receive parameters from mobile app.</value>
+  </row>
+  <row id="FF539BA7DB7B4F36A8721E82413025AC" trl="N">
+    <value column="Name" isTrl="N" original="ADField">ADField</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

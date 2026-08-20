@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_MENU" version="">
+  <row id="203EFE8B46AD4F819BAF558BF4477AA7" trl="N">
+    <value column="Name" isTrl="N" original="Valued Stock Report">Valued Stock Report</value>
+    <value column="Description" isTrl="N" original="Valued Stock Report">Valued Stock Report</value>
+  </row>
+</compiereTrl>

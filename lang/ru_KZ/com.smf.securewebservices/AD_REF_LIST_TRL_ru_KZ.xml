@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_REF_LIST" version="">
+  <row id="064846D3CC76415FBE50F7630D6B9E73" trl="N">
+    <value column="Name" isTrl="N" original="ES256">ES256</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="7AA9F26AA77D483BAB3EC91FECB3BE03" trl="N">
+    <value column="Name" isTrl="N" original="HS256">HS256</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="D03B2FEE6A53446FA698D991927169B9" trl="N">
+    <value column="Name" isTrl="N" original="Encryption Algorithm">Encryption Algorithm</value>
+    <value column="Description" isTrl="N" original="Specifies the encryption/decryption method used for JWT tokens, like HMAC (HS256) or ECDSA (ESA256). The algorithm ensures the integrity and security of the token. Make sure the algorithm is compatible with both the token issuer and validator.">Specifies the encryption/decryption method used for JWT tokens, like HMAC (HS256) or ECDSA (ESA256). The algorithm ensures the integrity and security of the token. Make sure the algorithm is compatible with both the token issuer and validator.</value>
+  </row>
+</compiereTrl>

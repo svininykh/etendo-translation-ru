@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_WINDOW" version="">
+  <row id="9854E6CB192F413694CCB23054E5F14F" trl="N">
+    <value column="Name" isTrl="N" original="Analytics Synchronization">Analytics Synchronization</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

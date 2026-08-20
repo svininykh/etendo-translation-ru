@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_TEXTINTERFACES" version="">
+  <row id="053D4ECDDD664B65AF752FDF72B459F0" trl="N">
+    <value column="Text" isTrl="N" original="Details">Details</value>
+  </row>
+  <row id="15A3F36895F54DD2986C2A0E3790CBB0" trl="N">
+    <value column="Text" isTrl="N" original="Ending Balance">Ending Balance</value>
+  </row>
+  <row id="20780A9A54D1483D89458E1C6C6C0D19" trl="N">
+    <value column="Text" isTrl="N" original="Hide cleared">Hide cleared</value>
+  </row>
+  <row id="2166D682A6024E839AD674C2E9624C37" trl="N">
+    <value column="Text" isTrl="N" original="Payment In/Out Ref.">Payment In/Out Ref.</value>
+  </row>
+  <row id="37B32EEA0B6C4342B63602C168810F8B" trl="N">
+    <value column="Text" isTrl="N" original="(this is the result of the last reconciliation)">(this is the result of the last reconciliation)</value>
+  </row>
+  <row id="37E1FD8CD50B4835B9D0C3679B7C447F" trl="N">
+    <value column="Text" isTrl="N" original="Clear all">Clear all</value>
+  </row>
+  <row id="484BD487D11C43D194DC141355466F64" trl="N">
+    <value column="Text" isTrl="N" original="Statement Date">Statement Date</value>
+  </row>
+  <row id="4D520EE7612540089C5572934EC3C11F" trl="N">
+    <value column="Text" isTrl="N" original="Cleared">Cleared</value>
+  </row>
+  <row id="61655846581A4E85A62483FFD1550C0B" trl="N">
+    <value column="Text" isTrl="N" original="Difference to clear">Difference to clear</value>
+  </row>
+  <row id="62BA1CFBB74F40A8A7FABBE150773580" trl="N">
+    <value column="Text" isTrl="N" original="This process will generate payments">This process will generate payments</value>
+  </row>
+  <row id="667D14BAF0EA47AB8E81C911C4059D02" trl="N">
+    <value column="Text" isTrl="N" original="Reconciliation Report Summary">Reconciliation Report Summary</value>
+  </row>
+  <row id="67711D5EF7E94630BACE0DD8020EEAE1" trl="N">
+    <value column="Text" isTrl="N" original="Import Bank File">Import Bank File</value>
+  </row>
+  <row id="6DD60FD81F5B4D17A5101D7BFED7E910" trl="N">
+    <value column="Text" isTrl="N" original="Reconciliation">Reconciliation</value>
+  </row>
+  <row id="8410F4A3878C872EE040007F010014BF" trl="N">
+    <value column="Text" isTrl="N" original="Bank File">Bank File</value>
+  </row>
+  <row id="8410F4A3878E872EE040007F010014BF" trl="N">
+    <value column="Text" isTrl="N" original="File Format">File Format</value>
+  </row>
+  <row id="8410F4EF23F651ADE040007F0100150D" trl="N">
+    <value column="Text" isTrl="N" original="Total Outstanding Deposits">Total Outstanding Deposits</value>
+  </row>
+  <row id="8410F4EF23FE51ADE040007F0100150D" trl="N">
+    <value column="Text" isTrl="N" original="Total Outstanding Payments">Total Outstanding Payments</value>
+  </row>
+  <row id="880F17892844E2DDE040007F0100404D" trl="N">
+    <value column="Text" isTrl="N" original="Execute Payments">Execute Payments</value>
+  </row>
+  <row id="880F17892846E2DDE040007F0100404D" trl="N">
+    <value column="Text" isTrl="N" original="Execute">Execute</value>
+  </row>
+  <row id="8A63AFFF170841A093E1D677F11A8F06" trl="N">
+    <value column="Text" isTrl="N" original="Process Proposal">Process Proposal</value>
+  </row>
+  <row id="8D89388BD294409DBEFCCBFE593AEDA9" trl="N">
+    <value column="Text" isTrl="N" original="GL Item Differences">GL Item Differences</value>
+  </row>
+  <row id="8F869C21DCF14031BC01CCD9D158190E" trl="N">
+    <value column="Text" isTrl="N" original="for">for</value>
+  </row>
+  <row id="91709F28D5A5483782CBF452932312C9" trl="N">
+    <value column="Text" isTrl="N" original="Paid out">Paid out</value>
+  </row>
+  <row id="9370255AD32E4EED889DEFDCBBD48646" trl="N">
+    <value column="Text" isTrl="N" original="Action">Action</value>
+  </row>
+  <row id="949AA49A4D7C6BEAE040007F0100565C" trl="N">
+    <value column="Text" isTrl="N" original="Account Balance In Openbravo">Account Balance In Openbravo</value>
+  </row>
+  <row id="949AA49A4D7F6BEAE040007F0100565C" trl="N">
+    <value column="Text" isTrl="N" original="Adjusted Account Balance in Openbravo">Adjusted Account Balance in Openbravo</value>
+  </row>
+  <row id="949AA49A4D826BEAE040007F0100565C" trl="N">
+    <value column="Text" isTrl="N" original="Balance per Bank Statement">Balance per Bank Statement</value>
+  </row>
+  <row id="949AA49A4D856BEAE040007F0100565C" trl="N">
+    <value column="Text" isTrl="N" original="Plus Outstanding Payments">Plus Outstanding Payments</value>
+  </row>
+  <row id="949AA49A4D886BEAE040007F0100565C" trl="N">
+    <value column="Text" isTrl="N" original="Less Outstanding Deposits">Less Outstanding Deposits</value>
+  </row>
+  <row id="949AA49A4D8B6BEAE040007F0100565C" trl="N">
+    <value column="Text" isTrl="N" original="Plus Un-reconciled Bank Statement Lines">Plus Un-reconciled Bank Statement Lines</value>
+  </row>
+  <row id="949AA49A4D8E6BEAE040007F0100565C" trl="N">
+    <value column="Text" isTrl="N" original="Reconciliation Report">Reconciliation Report</value>
+  </row>
+  <row id="949AA49A4D976BEAE040007F0100565C" trl="N">
+    <value column="Text" isTrl="N" original="Total Un-reconciled Bank Statement Lines">Total Un-reconciled Bank Statement Lines</value>
+  </row>
+  <row id="95638A97B31045FCE040007F01000E19" trl="N">
+    <value column="Text" isTrl="N" original="Reconcile">Reconcile</value>
+  </row>
+  <row id="972DE4AEBFD54C43B8042F289015F5FF" trl="N">
+    <value column="Text" isTrl="N" original="Beginning Balance">Beginning Balance</value>
+  </row>
+  <row id="9C14EE536A664AEEB16CCB3FF177A121" trl="N">
+    <value column="Text" isTrl="N" original="Hide Transactions after statement date">Hide Transactions after statement date</value>
+  </row>
+  <row id="A16D40CBB17E473799C90DD16E9EC7F0" trl="N">
+    <value column="Text" isTrl="N" original="Received in">Received in</value>
+  </row>
+  <row id="A8C9A7A0B28D4C94B22CD692E33136CC" trl="N">
+    <value column="Text" isTrl="N" original="Currently cleared">Currently cleared</value>
+  </row>
+  <row id="CEAC243124A8410485A1C7A3760C74B8" trl="N">
+    <value column="Text" isTrl="N" original="per">per</value>
+  </row>
+  <row id="CF8D743F746F49759CDF771C6E73A909" trl="N">
+    <value column="Text" isTrl="N" original="Difference">Difference</value>
+  </row>
+  <row id="E1FBF4E787254F35B07338C68284B972" trl="N">
+    <value column="Text" isTrl="N" original="Item you have marked as cleared">Item you have marked as cleared</value>
+  </row>
+  <row id="E3DF286F9FA84EE59668C8969B997B1C" trl="N">
+    <value column="Text" isTrl="N" original="zz">zz</value>
+  </row>
+  <row id="FB48D184BC6848D5A76D7E61FE1CB820" trl="N">
+    <value column="Text" isTrl="N" original="(this is what the statement says)">(this is what the statement says)</value>
+  </row>
+</compiereTrl>

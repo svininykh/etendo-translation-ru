@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_WINDOW" version="">
+  <row id="48B7215F9BF6458E813E6B280DEDB958" trl="N">
+    <value column="Name" isTrl="N" original="Data Pool Selection">Data Pool Selection</value>
+    <value column="Description" isTrl="N" original="Defines which database pool should be used for a particular report.">Defines which database pool should be used for a particular report.</value>
+    <value column="Help" isTrl="N" original="Defines which database pool should be used for a particular report. Reports can be defined either in the Report and Process or in the Process Definition Window. If no pool is defined for a report in this window, it should use the one defined in Preferences.">Defines which database pool should be used for a particular report. Reports can be defined either in the Report and Process or in the Process Definition Window. If no pool is defined for a report in this window, it should use the one defined in Preferences.</value>
+  </row>
+  <row id="54AE252A40C34DA285FC48DA94EB3847" trl="N">
+    <value column="Name" isTrl="N" original="Navigation Bar Components">Navigation Bar Components</value>
+    <value column="Description" isTrl="N" original="Navigation Bar Components">Navigation Bar Components</value>
+    <value column="Help" isTrl="N" original="Makes it possible to define components which are shown in the navigation bar in the main layout of the Etendo user interface.">Makes it possible to define components which are shown in the navigation bar in the main layout of the Etendo user interface.</value>
+  </row>
+  <row id="7E72F3A16C704449BC50FCE1512C3805" trl="N">
+    <value column="Name" isTrl="N" original="Grid Configuration at Window/Tab/Field Level">Grid Configuration at Window/Tab/Field Level</value>
+    <value column="Description" isTrl="N" original="Grid Configuration at Tab and Field level">Grid Configuration at Tab and Field level</value>
+    <value column="Help" isTrl="N" original="Grid Configuration at Tab and Field level">Grid Configuration at Tab and Field level</value>
+  </row>
+  <row id="DCA855BFACF94A8CAB1F66E825D9076B" trl="N">
+    <value column="Name" isTrl="N" original="Log Management">Log Management</value>
+    <value column="Description" isTrl="N" original="Manage active Loggers">Manage active Loggers</value>
+    <value column="Help" isTrl="N" original="Shows all registered Loggers and let change the log level of one or more loggers.">Shows all registered Loggers and let change the log level of one or more loggers.</value>
+  </row>
+  <row id="EBA40241D46D4FA4A24E4A09C61994AA" trl="N">
+    <value column="Name" isTrl="N" original="View Implementation">View Implementation</value>
+    <value column="Description" isTrl="N" original="A view is shown in the main user interface, the view implementation defines the javaclass responsible for generating the client-side javascript.">A view is shown in the main user interface, the view implementation defines the javaclass responsible for generating the client-side javascript.</value>
+    <value column="Help" isTrl="N" original="A view is shown in the user interface as a tab in the multi-tab interface or as a popup. The view can be anything from a grid, form or a popup window. When the view is shown in the multi-tab interface then it must be a Smartclient canvas.&#10;&#10;The view implementation defines the component which is capable of generating the client side javascript to be shown in the browser. A view implementation is a java class which extends the org.openbravo.client.kernel.BaseTemplateComponent class.">A view is shown in the user interface as a tab in the multi-tab interface or as a popup. The view can be anything from a grid, form or a popup window. When the view is shown in the multi-tab interface then it must be a Smartclient canvas.
+
+The view implementation defines the component which is capable of generating the client side javascript to be shown in the browser. A view implementation is a java class which extends the org.openbravo.client.kernel.BaseTemplateComponent class.</value>
+  </row>
+  <row id="FD487747E8A2425B8BAE570FCA569D66" trl="N">
+    <value column="Name" isTrl="N" original="Grid Configuration at System Level">Grid Configuration at System Level</value>
+    <value column="Description" isTrl="N" original="Define the Grid Configuration at System Level">Define the Grid Configuration at System Level</value>
+    <value column="Help" isTrl="N" original="Define the Grid Configuration at System Level">Define the Grid Configuration at System Level</value>
+  </row>
+  <row id="FF8081813157AED2013157BE93460020" trl="N">
+    <value column="Name" isTrl="N" original="Window Personalization">Window Personalization</value>
+    <value column="Description" isTrl="N" original="Maintains ui personalization records">Maintains ui personalization records</value>
+    <value column="Help" isTrl="N" original="Etendo allows the customization of grid and form views. Customize windows and form views are stored once saved in the Window Personalization window.">Etendo allows the customization of grid and form views. Customize windows and form views are stored once saved in the Window Personalization window.</value>
+  </row>
+  <row id="FF80818132D7FB620132D8193C0C0043" trl="N">
+    <value column="Name" isTrl="N" original="Process Definition">Process Definition</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

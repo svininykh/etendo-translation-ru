@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="OBKMO_WIDGET_CLASS" version="">
+  <row id="C26A68FD8CF347EC9D1FB7E274622450" trl="N">
+    <value column="Title" isTrl="N" original="URL Widget">URL Widget</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="F41E327965084556BCF7EC7B271603AA" trl="N">
+    <value column="Title" isTrl="N" original="Calendar Widget">Calendar Widget</value>
+    <value column="Description" isTrl="N" original="This widget is work-in-progress and its API will change in the following months. Use it at your own risk.">This widget is work-in-progress and its API will change in the following months. Use it at your own risk.</value>
+  </row>
+</compiereTrl>

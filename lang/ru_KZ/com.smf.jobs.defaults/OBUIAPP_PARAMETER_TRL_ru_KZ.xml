@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="OBUIAPP_PARAMETER" version="">
+  <row id="A06A58718F3C4D52AEAFA2C000C124C9" trl="N">
+    <value column="Name" isTrl="N" original="Supplier Reference">Supplier Reference</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="Only for purchase invoices, when document action is void.">Only for purchase invoices, when document action is void.</value>
+  </row>
+</compiereTrl>

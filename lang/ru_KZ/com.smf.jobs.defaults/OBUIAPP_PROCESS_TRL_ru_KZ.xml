@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="OBUIAPP_PROCESS" version="">
+  <row id="22014C416A7E4DAC965E8CE4143E2D92" trl="N">
+    <value column="Name" isTrl="N" original="Offer Add Org">Offer Add Org</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="272C8D38EF3245BF882E623CE92AB4E7" trl="N">
+    <value column="Name" isTrl="N" original="Process Invoices">Process Invoices</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="31ED9333E46C419D92E9F1B10F821B91" trl="N">
+    <value column="Name" isTrl="N" original="Clone">Clone</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="33338B1F2C4F499EBA4F5547BE0B2A4E" trl="N">
+    <value column="Name" isTrl="N" original="Process Shipment">Process Shipment</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="5638D6D4B33F44C889C3AFCA0DEB8130" trl="N">
+    <value column="Name" isTrl="N" original="Send Mail">Send Mail</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="57496FB9CF9E4E8F847224017941570E" trl="N">
+    <value column="Name" isTrl="N" original="Post">Post</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="8353E46E74024F78890AB466E7DD48DD" trl="N">
+    <value column="Name" isTrl="N" original="Offer Add Product Category">Offer Add Product Category</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="8DF818E471394C01A6546A4AB7F5E529" trl="N">
+    <value column="Name" isTrl="N" original="Process Orders">Process Orders</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="C044DDAA929E40D780C36154FBB968F7" trl="N">
+    <value column="Name" isTrl="N" original="Create Invoices from Orders">Create Invoices from Orders</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="D47F228584614C869651BBD944068BA6" trl="N">
+    <value column="Name" isTrl="N" original="Offer Add Product">Offer Add Product</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

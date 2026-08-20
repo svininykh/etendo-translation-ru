@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="OBUIAPP_PROCESS" version="">
+  <row id="60F1E2DEB1B544908CDD4CF99ACA80EB" trl="N">
+    <value column="Name" isTrl="N" original="Etendo Payment Execution">Etendo Payment Execution</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

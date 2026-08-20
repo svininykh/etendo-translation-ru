@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_WINDOW" version="">
+  <row id="662326D726DE45508FA18D69AB3DA35D" trl="N">
+    <value column="Name" isTrl="N" original="Create Invoices From Orders">Create Invoices From Orders</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

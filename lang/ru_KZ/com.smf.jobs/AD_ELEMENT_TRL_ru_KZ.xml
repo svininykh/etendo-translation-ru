@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_ELEMENT" version="">
+  <row id="0589794A028C487FBDAAD1BA1333B4AC" trl="N">
+    <value column="Name" isTrl="N" original="JOBS_Filter_ID">JOBS_Filter_ID</value>
+    <value column="PrintName" isTrl="N" original="AD_Filter_ID">AD_Filter_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="05984550002348A89361318CC94F6FCE" trl="N">
+    <value column="Name" isTrl="N" original="JOBS_Jobline_ID">JOBS_Jobline_ID</value>
+    <value column="PrintName" isTrl="N" original="AD_Jobline_ID">AD_Jobline_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="2F0994AA9BF74AF4B0310DD7E4419BC3" trl="N">
+    <value column="Name" isTrl="N" original="JOBS_Job_Result_ID">JOBS_Job_Result_ID</value>
+    <value column="PrintName" isTrl="N" original="AD_Job_Result_ID">AD_Job_Result_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="3D80D3FD1D0C42E6AAC5BCF405DBBA7A" trl="N">
+    <value column="Name" isTrl="N" original="Job">Job</value>
+    <value column="PrintName" isTrl="N" original="Job">Job</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="6650D374A1E84BC0A0253C79EFE33784" trl="N">
+    <value column="Name" isTrl="N" original="Action">Action</value>
+    <value column="PrintName" isTrl="N" original="Action">Action</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="6F9598677C5543F3B4A5539B8B96A057" trl="N">
+    <value column="Name" isTrl="N" original="Filter Definition">Filter Definition</value>
+    <value column="PrintName" isTrl="N" original="Filter Definition">Filter Definition</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="76EEAF83CE31403CBC5B5ED4A1ECA256" trl="N">
+    <value column="Name" isTrl="N" original="Is a Filter">Is a Filter</value>
+    <value column="PrintName" isTrl="N" original="Is a Filter">Is a Filter</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="7ECD5158CB0C4A43ACBC5B3BFBFDE4E0" trl="N">
+    <value column="Name" isTrl="N" original="Parameters">Parameters</value>
+    <value column="PrintName" isTrl="N" original="Parameters">Parameters</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="956958605DF94390839FF219FD45F8AE" trl="N">
+    <value column="Name" isTrl="N" original="Filter Template">Filter Template</value>
+    <value column="PrintName" isTrl="N" original="Filter Template">Filter Template</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="9CDABB04260E4EFAB7DAB392C9FFA761" trl="N">
+    <value column="Name" isTrl="N" original="Run">Run</value>
+    <value column="PrintName" isTrl="N" original="Run">Run</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="BD55CEF7539D4911800CBC167D759B4D" trl="N">
+    <value column="Name" isTrl="N" original="Kill Process">Kill Process</value>
+    <value column="PrintName" isTrl="N" original="Kill Process">Kill Process</value>
+    <value column="Description" isTrl="N" original="Kill background process if the process implements a kill method.">Kill background process if the process implements a kill method.</value>
+    <value column="Help" isTrl="N" original="Kill background process if the process implements a kill method.">Kill background process if the process implements a kill method.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="DF7E83A7173D45BBA17CC67C605C1852" trl="N">
+    <value column="Name" isTrl="N" original="Kill Job">Kill Job</value>
+    <value column="PrintName" isTrl="N" original="Kill Job">Kill Job</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="E526D5A26F4841609792DC393395FC52" trl="N">
+    <value column="Name" isTrl="N" original="Status">Status</value>
+    <value column="PrintName" isTrl="N" original="Status">Status</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original="The status of a job execution">The status of a job execution</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F42BC5665C59481F9BE21441597416AF" trl="N">
+    <value column="Name" isTrl="N" original="Definition">Definition</value>
+    <value column="PrintName" isTrl="N" original="Definition">Definition</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F7A8C906BA2A4E35B24C0EAE23F8EF3C" trl="N">
+    <value column="Name" isTrl="N" original="Stops on error">Stops on error</value>
+    <value column="PrintName" isTrl="N" original="Stops on error">Stops on error</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

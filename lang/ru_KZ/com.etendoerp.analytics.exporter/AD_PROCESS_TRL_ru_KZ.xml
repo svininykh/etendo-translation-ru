@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_PROCESS" version="">
+  <row id="3279637D2BEF4DEA835CB386EFBAE409" trl="N">
+    <value column="Name" isTrl="N" original="Analytics Sync Process">Analytics Sync Process</value>
+    <value column="Description" isTrl="N" original="Synchronizes analytics data with receiver">Synchronizes analytics data with receiver</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

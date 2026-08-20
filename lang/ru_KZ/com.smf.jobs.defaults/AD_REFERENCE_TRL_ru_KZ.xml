@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_REFERENCE" version="">
+  <row id="68110753824E44DC83953E1B090430D7" trl="N">
+    <value column="Name" isTrl="N" original="Email Sender">Email Sender</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="89BFC8994728430E81DDF51033970351" trl="N">
+    <value column="Name" isTrl="N" original="Report Template">Report Template</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="D091795A36624BD89233490D76143DBB" trl="N">
+    <value column="Name" isTrl="N" original="Create From Orders Button List">Create From Orders Button List</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="D26224220F8E481FAB43A197B9581F05" trl="N">
+    <value column="Name" isTrl="N" original="Create Invoices From Orders P&amp;E">Create Invoices From Orders P&amp;E</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

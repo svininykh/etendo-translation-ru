@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_WINDOW" version="">
+  <row id="7E46E38381D04706AC72429B9E615056" trl="N">
+    <value column="Name" isTrl="N" original="Etendo Payment Pick">Etendo Payment Pick</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

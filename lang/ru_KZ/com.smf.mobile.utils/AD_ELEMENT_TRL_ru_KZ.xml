@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_ELEMENT" version="">
+  <row id="2F4D0BB632B74878BC8F229EB244D961" trl="N">
+    <value column="Name" isTrl="N" original="Mobile Scan Process">Mobile Scan Process</value>
+    <value column="PrintName" isTrl="N" original="Mobile Scan Process">Mobile Scan Process</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="385F6ED35DD845059BF2751F058BB8E2" trl="N">
+    <value column="Name" isTrl="N" original="Tab Configuration">Tab Configuration</value>
+    <value column="PrintName" isTrl="N" original="Tab Configuration">Tab Configuration</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="7CAFE38EC4454DC5B41877AC44C39393" trl="N">
+    <value column="Name" isTrl="N" original="Smfmu_Mobile_Identifier_ID">Smfmu_Mobile_Identifier_ID</value>
+    <value column="PrintName" isTrl="N" original="Smfmu_Mobile_Identifier_ID">Smfmu_Mobile_Identifier_ID</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="8E052D4383BC46ADB8920A8126B18648" trl="N">
+    <value column="Name" isTrl="N" original="Show in mobile">Show in mobile</value>
+    <value column="PrintName" isTrl="N" original="Show in mobile">Show in mobile</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

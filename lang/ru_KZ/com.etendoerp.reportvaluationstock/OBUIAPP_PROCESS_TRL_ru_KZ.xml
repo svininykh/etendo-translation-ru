@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="OBUIAPP_PROCESS" version="">
+  <row id="71E00A0E964E43AE81C5AFBCDCA5F87C" trl="N">
+    <value column="Name" isTrl="N" original="Valued Stock Report">Valued Stock Report</value>
+    <value column="Description" isTrl="N" original="Valued Stock Report">Valued Stock Report</value>
+    <value column="Help" isTrl="N" original="Valued Stock Report shows the stock for a particular warehouse as well as the value of the stock.">Valued Stock Report shows the stock for a particular warehouse as well as the value of the stock.</value>
+  </row>
+</compiereTrl>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_REFERENCE" version="">
+  <row id="0BD87850221D409596E57FBFE58B1392" trl="N">
+    <value column="Name" isTrl="N" original="AD_Tab Selection Type">AD_Tab Selection Type</value>
+    <value column="Description" isTrl="N" original="List with the selection types available in a grid">List with the selection types available in a grid</value>
+    <value column="Help" isTrl="N" original="List with the selection types available in a grid.&#10;Its value can be:&#10; * &quot;None&quot;: no rows can be selected&#10; * &quot;Single&quot;: only one row can be selected&#10; * &quot;Multiple&quot;: multiple rows can be selected">List with the selection types available in a grid.
+Its value can be:
+ * "None": no rows can be selected
+ * "Single": only one row can be selected
+ * "Multiple": multiple rows can be selected</value>
+  </row>
+  <row id="159EBE3F67A6431B842695888C5F1E79" trl="N">
+    <value column="Name" isTrl="N" original="Database Pool Type">Database Pool Type</value>
+    <value column="Description" isTrl="N" original="Lists all possible database pools which OBDal can use to retrieve data.">Lists all possible database pools which OBDal can use to retrieve data.</value>
+    <value column="Help" isTrl="N" original="Lists all possible database pools which OBDal can use to retrieve data.">Lists all possible database pools which OBDal can use to retrieve data.</value>
+  </row>
+  <row id="1AC7885279E44C4F976267C28270E1F9" trl="N">
+    <value column="Name" isTrl="N" original="Text Filter Behavior (Window/Tab/Field)">Text Filter Behavior (Window/Tab/Field)</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="796D78C416C042DB8BF4D2FE64A7E95E" trl="N">
+    <value column="Name" isTrl="N" original="OBUIAPP_LogManagementButtonList">OBUIAPP_LogManagementButtonList</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="892231CFE03848758D74B0209B801C14" trl="N">
+    <value column="Name" isTrl="N" original="Yes/No/Default">Yes/No/Default</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="9613657373F54165954A69D54803F65F" trl="N">
+    <value column="Name" isTrl="N" original="Pool Report Selector">Pool Report Selector</value>
+    <value column="Description" isTrl="N" original="This selector groups all reports from Process Definition and Report and Process.">This selector groups all reports from Process Definition and Report and Process.</value>
+    <value column="Help" isTrl="N" original="This selector groups all reports from Process Definition and Report and Process.">This selector groups all reports from Process Definition and Report and Process.</value>
+  </row>
+  <row id="BCDF0DC3ECD14B07AC54287DCB1276D2" trl="N">
+    <value column="Name" isTrl="N" original="Text Filter Behavior (System)">Text Filter Behavior (System)</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="BEB937C8808C4EFA977887CADDAC4E07" trl="N">
+    <value column="Name" isTrl="N" original="Loggers">Loggers</value>
+    <value column="Description" isTrl="N" original="Active loggers window">Active loggers window</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="BF6302EFCC854FA3B75658737442CEC9" trl="N">
+    <value column="Name" isTrl="N" original="Process Definition for Selector">Process Definition for Selector</value>
+    <value column="Description" isTrl="N" original="Process Definition">Process Definition</value>
+    <value column="Help" isTrl="N" original="Process Definitions that have checked the flag: &quot;Can Add Records to a Selector&quot;">Process Definitions that have checked the flag: "Can Add Records to a Selector"</value>
+  </row>
+  <row id="CF8CB8C4E798423081CE42078CA6BD7C" trl="N">
+    <value column="Name" isTrl="N" original="Log Level">Log Level</value>
+    <value column="Description" isTrl="N" original="Log levels supported by logger">Log levels supported by logger</value>
+    <value column="Help" isTrl="N" original="Contains all log levels supported by the logging library">Contains all log levels supported by the logging library</value>
+  </row>
+  <row id="D6193AA7FAB6429C8F34249FBF5A5F50" trl="N">
+    <value column="Name" isTrl="N" original="OBUIAPP_ViewImplementation">OBUIAPP_ViewImplementation</value>
+    <value column="Description" isTrl="N" original="OBUIAPP_ViewImplementation">OBUIAPP_ViewImplementation</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="FF8081813201F2DE013201F5628C0003" trl="N">
+    <value column="Name" isTrl="N" original="Personalization Type">Personalization Type</value>
+    <value column="Description" isTrl="N" original="The type of the personalization record">The type of the personalization record</value>
+    <value column="Help" isTrl="N" original="The type of the personalization record">The type of the personalization record</value>
+  </row>
+  <row id="FF80818132D8F0F30132D9BC395D0038" trl="N">
+    <value column="Name" isTrl="N" original="Window Reference">Window Reference</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="FF80818132F94B500132F9575619000A" trl="N">
+    <value column="Name" isTrl="N" original="Button List">Button List</value>
+    <value column="Description" isTrl="N" original="Defines the list of actions/buttons to be displayed in the form">Defines the list of actions/buttons to be displayed in the form</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="FF8081813310CEAE0133116AA792014D" trl="N">
+    <value column="Name" isTrl="N" original="OBUIAPP_ProcessDefinition">OBUIAPP_ProcessDefinition</value>
+    <value column="Description" isTrl="N" original="Process Definition">Process Definition</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

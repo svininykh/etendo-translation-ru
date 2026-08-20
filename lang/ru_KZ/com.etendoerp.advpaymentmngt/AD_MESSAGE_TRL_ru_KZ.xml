@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_MESSAGE" version="">
+  <row id="0803907E9A374F39BF62291A3A222F91" trl="N">
+    <value column="MsgText" isTrl="N" original="The next payments have been created and executed: ">The next payments have been created and executed: </value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="11E1127A5A8140E78EBA54B34F00266E" trl="N">
+    <value column="MsgText" isTrl="N" original="Execution Process not defined for the pair Financial Account - Payment Method.">Execution Process not defined for the pair Financial Account - Payment Method.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="1DF47D3A10DB4DEEA757A59BDBBB548C" trl="N">
+    <value column="MsgText" isTrl="N" original="Execute">Execute</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="4AE98C7324124A1A9ED91684B415CAC2" trl="N">
+    <value column="MsgText" isTrl="N" original="Cancel">Cancel</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="58463DA7A9854CE6BE5A9CD869861D1E" trl="N">
+    <value column="MsgText" isTrl="N" original="The execution type is not automatic for the pair Financial Account - Payment Method.">The execution type is not automatic for the pair Financial Account - Payment Method.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="AB3542FA4A054DA3A748C0A7A51ACF49" trl="N">
+    <value column="MsgText" isTrl="N" original="There are not lines selected.">There are not lines selected.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="B837A4F67A9643AB8A567B75C69E2A90" trl="N">
+    <value column="MsgText" isTrl="N" original="The FinAccPaymentMethod is not defined for the pair Financial Account - Payment Method.">The FinAccPaymentMethod is not defined for the pair Financial Account - Payment Method.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="DEA4B7EAD06146D78A753E5CCEEA28E6" trl="N">
+    <value column="MsgText" isTrl="N" original="The grid is not defined.">The grid is not defined.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

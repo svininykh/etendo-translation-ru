@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_ELEMENT" version="">
+  <row id="19B66A9C55BF4E69887C436D12BCF511" trl="N">
+    <value column="Name" isTrl="N" original="Secure web service configuration">Secure web service configuration</value>
+    <value column="PrintName" isTrl="N" original="Secure web service configuration">Secure web service configuration</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="2E72A8BA7C854C31B40B36EDE39D0CA4" trl="N">
+    <value column="Name" isTrl="N" original="Expiration time">Expiration time</value>
+    <value column="PrintName" isTrl="N" original="Sesión expiration time (minutes)">Sesión expiration time (minutes)</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="80B6675E62F4431D9631F7E06B001E19" trl="N">
+    <value column="Name" isTrl="N" original="Default Role for Web Services">Default Role for Web Services</value>
+    <value column="PrintName" isTrl="N" original="Default Role for Web Services">Default Role for Web Services</value>
+    <value column="Description" isTrl="N" original="Default Role for Web Services">Default Role for Web Services</value>
+    <value column="Help" isTrl="N" original="This Role will be considered first when authenticating web services requests (only if no role is already provided in authentication via request or token).&#10;">This Role will be considered first when authenticating web services requests (only if no role is already provided in authentication via request or token).
+</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="A978F3E1526D4296823A531BA3D194B3" trl="N">
+    <value column="Name" isTrl="N" original="JSON Keys">JSON Keys</value>
+    <value column="PrintName" isTrl="N" original="JSON Keys">JSON Keys</value>
+    <value column="Description" isTrl="N" original="JSON Keys holds the public and private encryption keys required for secure data handling, in alignment with the specified encryption algorithm.">JSON Keys holds the public and private encryption keys required for secure data handling, in alignment with the specified encryption algorithm.</value>
+    <value column="Help" isTrl="N" original="This field stores the encryption keys, both public and private, based on the selected encryption algorithm. Ensure keys are securely formatted and managed.">This field stores the encryption keys, both public and private, based on the selected encryption algorithm. Ensure keys are securely formatted and managed.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

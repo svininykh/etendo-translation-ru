@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_MESSAGE" version="">
+  <row id="0845DDD724A949C884749191BB47D21F" trl="N">
+    <value column="MsgText" isTrl="N" original="WebService access are misconfigured">WebService access are misconfigured</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="19E96CBC8AC44BB1891E0FBC5036A6C2" trl="N">
+    <value column="MsgText" isTrl="N" original="Generate Keys">Generate Keys</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="2C25D23A45A64F3F8F147BC117EE874A" trl="N">
+    <value column="MsgText" isTrl="N" original="Token is not valid.">Token is not valid.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="3367DFBAF578426C9EC574017D899431" trl="N">
+    <value column="MsgText" isTrl="N" original="The role has no associated organization">The role has no associated organization</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="3AAF01A2AEA94F3C850796F7A5157839" trl="N">
+    <value column="MsgText" isTrl="N" original="You must configure the private key and token expiration time in the Client window as System Administrator">You must configure the private key and token expiration time in the Client window as System Administrator</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="4401ACACFAA64502A503935060AA679A" trl="N">
+    <value column="MsgText" isTrl="N" original="You must specify a username and password or a valid token">You must specify a username and password or a valid token</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="59298D0D4DD840898C4D4DB106D61D96" trl="N">
+    <value column="MsgText" isTrl="N" original="The token requires verification with ES256, but no public key is available.">The token requires verification with ES256, but no public key is available.</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="85E77DE6B31C4BEFB84A63EBC8CFE520" trl="N">
+    <value column="MsgText" isTrl="N" original="Generate key">Generate key</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="A264C7FCB4F046679DE9EA8AC9CAA7B8" trl="N">
+    <value column="MsgText" isTrl="N" original="Unsupported signing algorithm: %s">Unsupported signing algorithm: %s</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="BBD13499EFAC45FBA7ACEA7C0718A658" trl="N">
+    <value column="MsgText" isTrl="N" original="An error occurred, check the log files">An error occurred, check the log files</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="D5B13F94A77E43DA82B624F1C796E550" trl="N">
+    <value column="MsgText" isTrl="N" original="An error occurred while creating the token">An error occurred while creating the token</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+  <row id="E80870365666444D9EF9B64610F52708" trl="N">
+    <value column="MsgText" isTrl="N" original="The user has no associated role">The user has no associated role</value>
+    <value column="MsgTip" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

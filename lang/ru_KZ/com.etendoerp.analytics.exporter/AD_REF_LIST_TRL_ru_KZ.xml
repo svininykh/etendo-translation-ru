@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_REF_LIST" version="">
+  <row id="458987FFCE6E4075BE4B83C1F263B7FA" trl="N">
+    <value column="Name" isTrl="N" original="Receiver URL">Receiver URL</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="B974C11676464DCAA75BA7FC3EAADB54" trl="N">
+    <value column="Name" isTrl="N" original="Session Usage Audits">Session Usage Audits</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="C88AACFB6AFB46B9BC6B982E5EE5C68A" trl="N">
+    <value column="Name" isTrl="N" original="Module Metadata">Module Metadata</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

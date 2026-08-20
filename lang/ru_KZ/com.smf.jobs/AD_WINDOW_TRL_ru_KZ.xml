@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_WINDOW" version="">
+  <row id="458C062DD2534251949F2C008ED2FE4D" trl="N">
+    <value column="Name" isTrl="N" original="Filter">Filter</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="75BBE231421E4812B1691FF33D371CE0" trl="N">
+    <value column="Name" isTrl="N" original="Job">Job</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="FD5A74DAE9B84D42824F04C3EE1C40DB" trl="N">
+    <value column="Name" isTrl="N" original="Job Result">Job Result</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

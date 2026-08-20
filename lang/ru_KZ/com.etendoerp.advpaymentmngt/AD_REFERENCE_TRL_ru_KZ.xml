@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_REFERENCE" version="">
+  <row id="393EDA1FAEE94D84A00414D2F9DC152E" trl="N">
+    <value column="Name" isTrl="N" original="EAPM_PaymentSearch">EAPM_PaymentSearch</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="516B9482A866420FB99F778B1EDC9FA6" trl="N">
+    <value column="Name" isTrl="N" original="EAPM_PaymentPick">EAPM_PaymentPick</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

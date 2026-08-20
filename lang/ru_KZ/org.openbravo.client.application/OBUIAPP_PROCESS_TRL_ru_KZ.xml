@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="OBUIAPP_PROCESS" version="">
+  <row id="EBC24A55293F4E4BAF56EF8DFA43D578" trl="N">
+    <value column="Name" isTrl="N" original="RegisterModule">RegisterModule</value>
+    <value column="Description" isTrl="N" original="This process registers a module in the central repository">This process registers a module in the central repository</value>
+    <value column="Help" isTrl="N" original="This process registers a module in the central repository checking the name, java package, db_prefix etc. are available to be used. To register a module you must have a valid username and password in Openbravo Central Repository. You should register into &lt;a href=&quot;http://forge.openbravo.com&quot; target=&quot;_blank&quot;&gt;Openbravo Forge&lt;/a&gt; to obtain these credentials">This process registers a module in the central repository checking the name, java package, db_prefix etc. are available to be used. To register a module you must have a valid username and password in Openbravo Central Repository. You should register into &lt;a href="http://forge.openbravo.com" target="_blank"&gt;Openbravo Forge&lt;/a&gt; to obtain these credentials</value>
+  </row>
+  <row id="FF1893F761AF46E893E37CB4EF1DFCB1" trl="N">
+    <value column="Name" isTrl="N" original="Log Management">Log Management</value>
+    <value column="Description" isTrl="N" original="Update the log level of the given Loggers">Update the log level of the given Loggers</value>
+    <value column="Help" isTrl="N" original="This action updates the log level of the given loggers, overwriting their default configuration. Note that this changes will be reverted if Tomcat is restarted so consider editing the log4j config files if changes are meant to be permanent.">This action updates the log level of the given loggers, overwriting their default configuration. Note that this changes will be reverted if Tomcat is restarted so consider editing the log4j config files if changes are meant to be permanent.</value>
+  </row>
+</compiereTrl>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="AD_REFERENCE" version="">
+  <row id="6CDD7E8CB69743E79647B5BC45F8D9F0" trl="N">
+    <value column="Name" isTrl="N" original="Encryption Algorithm">Encryption Algorithm</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

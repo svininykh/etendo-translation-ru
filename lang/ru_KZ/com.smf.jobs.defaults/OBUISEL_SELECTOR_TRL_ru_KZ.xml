@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="OBUISEL_SELECTOR" version="">
+  <row id="3A9E4E0573234D25BEAE78120B3E3D93" trl="N">
+    <value column="Name" isTrl="N" original="Report Template">Report Template</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="95BF6F9250C042BA85804BC76E811853" trl="N">
+    <value column="Name" isTrl="N" original="Email Sender Selector">Email Sender Selector</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

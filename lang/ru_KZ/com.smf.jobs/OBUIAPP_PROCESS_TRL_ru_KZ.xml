@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="ru_KZ" table="OBUIAPP_PROCESS" version="">
+  <row id="9F152A54535F4CA9A74A80F8C6BE0528" trl="N">
+    <value column="Name" isTrl="N" original="Run Job">Run Job</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="CCA410DB2BA84A9983CCFFB405743348" trl="N">
+    <value column="Name" isTrl="N" original="Kill Job">Kill Job</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>
